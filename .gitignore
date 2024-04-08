@@ -1,3 +1,4 @@
-/raw_data
 hidden.py
 .env
+title.basics.tsv.gz
+title.ratings.tsv.gz
