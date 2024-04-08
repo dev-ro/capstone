@@ -9,7 +9,7 @@ A capstone project investigating the relationship between language used in movie
 
 ## Dataset
 
-* **Source:** OpenSubtitles.org, IMDb database
+* **Source:** OpenSubtitles.org, IMDb database (<https://datasets.imdbws.com/>)
 * **Features:**
   * Movie title
   * IMDB Rating
