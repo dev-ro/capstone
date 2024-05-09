@@ -7,7 +7,7 @@ only in dark the light,
 only in dying life:
 bright the hawk's flight
 on the empty sky.
-- The Creation of Éa
+- The Creation of Ea
 Ease the sail!
 It's blowing too hard!
 Curse it! A storm this time of year?
@@ -54,7 +54,7 @@ Soon it may be too late
 for the spring planting.
 Why have these misfortunes
 befallen us, Root?
-I sense the Light dimming,
+I sense the Light dimming.
 Your Majesty.
 The Light?
 The Light of the Balance
@@ -65,14 +65,14 @@ Terrible news!
 Dragons have been sighted
 off the coast!
 - Dragons?
-- Two, Majesty. One was killed.
+- Two, Majesty, One was killed.
 Dragons here, in the East?
 Can this really be true?
 Long ago, dragons
 and men were one.
 But men who coveted possessions
 chose the land and the sea.
-Dragons who wanted freedom,
+Dragons who wanted freedom
 chose wind and fire.
 Since then, dragons and men
 remained apart.
@@ -112,7 +112,7 @@ Are you hurt?
 Steady there, lad!
 Is this what you seek?
 This is dangerous country
-for travelers.
+f or travelers.
 You were lucky this time.
 You must be hungry.
 It's not much,
@@ -149,7 +149,7 @@ Sparrowhawk will do.
 What is it?
 Sparrowhawk?
 Where are we heading?
-First. we go to the next town.
+First, we go to the next town.
 But after that...
 ...even I don't know.
 - Getting tired?
@@ -167,14 +167,14 @@ Two guineas, gentlemen!
 Do I hear two guineas?
 I have two guineas!
 Three! Sold to the gentleman
-for three guineas!
+f or three guineas!
 No, sorry!
 Couldn't possibly find room!
 Gauzes from Sowl!
 Silks from Lorbanery!
 Furs and felts and woolens!
 Is this a market day?
-No. It's like this year round.
+No, it's like this year round.
 Silks and satins!
 Canvass and fleecefells!
 What can I show you?
@@ -242,7 +242,7 @@ Feeling better?
 The wind is fresh up here.
 Something's wrong with this town.
 Not only this town, lad.
-Farmers' crops wither.
+Farmers crops wither.
 Their sheep and cattle are falling sick.
 Even people's minds
 have lost their way.
@@ -275,9 +275,9 @@ Step forward and show yourself!
 Well, well.
 What are you
 doing here, boy?
-Go ahead. Take him!
+Go ahead, Take him!
 No hard feelings, boy.
-Just following the boss's orders.
+Just following the boss' orders.
 I'll make it quick.
 Or maybe you'd like to be a slave?
 Beg for your life!
@@ -306,7 +306,7 @@ Don't be too rough.
 Take him away!
 Just an old piece of junk.
 Couldn't give it away!
-Give it up, it's no use.
+Give it up it's no use.
 Quiet!
 Silence!
 Or I'll feed you to the hounds!
@@ -338,10 +338,10 @@ Who's there?
 It's me, Sparrowhawk.
 Sparrowhawk?
 Someone's been hurt.
-I'm sorry. It's late.
+I'm sorry, it's late.
 It's been a long time, Ged.
 He's asleep.
-I'm sorry.
+I'm sorry,
 I'm afraid you've lost your bed.
 It's his now.
 Here, this will warm you.
@@ -366,7 +366,7 @@ Things are out of balance...
 ...as if the sun's light
 were ebbing.
 Is the Art Magic ebbing too?
-Yes. As if our very blood
+Yes, As if our very blood
 were flowing from our veins.
 So you search for the answer?
 Yes.
@@ -419,7 +419,7 @@ Who was that?
 It's that girl!
 That must've been a surprise.
 I'm sorry dear. I should've told you.
-Don't worry. Arren is with me.
+Don't worry, Arren is with me.
 You have nothing to fear.
 Sometimes his eyes are wild,
 but he has a good heart.
@@ -443,7 +443,7 @@ What a good smell.
 - But...
 - Yes, lad?
 You're a wizard, aren't you?
-Oh, I see.
+Oh, see.
 You want to know why a wizard
 toils in the field like a farmer?
 Yes.
@@ -514,7 +514,7 @@ No.
 What is this place?
 Come, Arren. This way.
 Sparrowhawk?
-Come. Take my hand.
+Come, Take my hand.
 Arren!
 No! Leave me alone! Stop!
 Arren!
@@ -532,7 +532,7 @@ Come now, Tenar.
 Should you be taking Arren's horse?
 He's better off without it.
 Tell him I borrowed it.
-Tenar. Keep a close eye
+Tenar, keep a close eye
 on him for me.
 I promise.
 I'll be back tonight!
@@ -568,7 +568,7 @@ Thank you kindly, ma'am.
 Actually, I was wondering...
 Yes, I know.
 Pay me when you can.
-Thanks ma'am. You're very kind.
+Thanks ma am. You're very kind.
 Hope she feels better!
 I wish there were more
 decent people in the world.
@@ -577,7 +577,7 @@ Well, at least the woman
 looks after her own.
 As for Therru, her parents
 abused and abandoned her.
-They burned her.
+They burned her,
 That's how she got that scar.
 What a frightful child!
 My goodness!
@@ -607,14 +607,14 @@ You're looking fit, boy.
 Didn't think I'd find you here.
 Swine!
 What are you doing here?
-Now, now. I'm not here to fight.
+Now, now, I'm not here to fight.
 Where's your wizard friend?
 He's gone!
 Sparrowhawk's not here.
 You'd better not be hiding him.
 Why should I?
 You're no match for him.
-Looks like she's telling the truth.
+Looks like she's telling the truth,
 All right, we'll be back!
 Till then!
 Never come back, you swine!
@@ -634,7 +634,7 @@ He does it because he has to.
 And finally he became Archmage,
 the greatest of all wizards.
 Head of the Great House of Roke?
-Yes. But years before that,
+Yes, But years before that,
 he rescued me.
 Rescued me, and
 led me into the light.
@@ -690,10 +690,716 @@ Won't you stay on
 for a while and help?
 Therru would like that too.
 But...
-You don't have to decide now.
+you don't have to decide now.
 Think about it, all right?
 All right.
 Stable the ox for me.
 Yes, Tenar.
 I'm home!
 Therru? Now where is she?
+Arren! I can't find Therru.
+Check the back pasture for me.
+Tell her to come inside
+before dark.
+I will.
+Therru?
+Therru...
+Far, far above the clouds
+against the setting sun
+A falcon flies alone
+soaring in the wind
+I hear his lonely cry
+so sad must he be
+Riding the silent wind
+a falcon flies alone
+Reaching out with his wings
+grasps the empty sky
+Riding the silent wind
+never can he rest
+What it is within my heart
+none can ever know
+A heart like a falcon's
+is this very heart
+What it is within my heart
+none can ever know
+Lonely falcon in the empty sky
+I walk alone along
+deserted country roads
+Walking with me side by side
+you are always there
+I feel your loneliness
+lonely you must be
+Crickets whispering
+in the grassy fields
+You walk there by my side
+you walk the path with me
+But you never say a word
+never do you speak
+What it is within my heart
+none can ever know
+Here inside this heart
+that walks its path alone
+What it is within my heart
+none can ever know
+The sadness of one
+who always is alone
+I killed my father.
+I stabbed him and ran away.
+I don't understand it.
+Why did I kill him?
+Did he hurt you?
+No. My father
+was a great man.
+I am nothing. I failed my father
+and I fail myself.
+And yet, I'm filled
+with a rage I can't control.
+It's as if there were
+someone else inside me.
+You saw it too, didn't you?
+You were right.
+I shouldn't be here.
+I'm sorry.
+I didn't mean...
+No, you were right.
+If I don't leave,
+it will come again.
+A woman?
+She lives past the marshes.
+And the Archmage is with her?
+He was seen in the town.
+There are many witnesses.
+Splendid.
+My lord.
+Let's go, men!
+A greeting from the Archmage.
+Thank you, Sparrowhawk.
+Therru! Arren!
+Dinner is ready!
+Where's Arren?
+Isn't he with you?
+No.
+Maybe he's resting.
+Therru, go see if he's there.
+Yes, Tenar.
+He's not here.
+That's strange.
+Where's he gone?
+I'll look outside.
+Arren...
+Tenar, Therru... take care.
+Doesn't matter
+which way I go.
+Looks like a dead end.
+It's here!
+I wonder if that's Arren?
+Arren?
+Sparrowhawk?
+That's odd.
+What are you doing?
+It's you! You're back!
+So sorry, but it seems
+you'll do in place of the wizard.
+What?
+Tenar, what's wrong?
+Run away!
+What a surprise!
+Fancy meeting you here, princess.
+No! Leave her alone!
+Therru!
+Well now princess,
+where's your prince?
+Hey! Watch those teeth!
+I need you to deliver a message.
+Tell this to the wizard!
+If he wants his woman...
+...he can find her
+at Lord Cob's castle.
+Take her away!
+Therru!
+Tenar!
+Let me go, I tell you!
+Let me go!
+Therru!
+Are you all right? Therru!
+Stop it! Let her go!
+You stay here and be good
+till the wizard gets back!
+Lord Cob's waiting.
+Let's get moving!
+Tenar!
+Tenar!
+I'm sorry, I'm afraid
+he's coming with me.
+Go!
+Where am I?
+You're safe now.
+The Shadow can't follow you here.
+You saw it?
+I know a bit of Magic myself.
+I know what
+you're running from.
+You were wise
+to flee from that man.
+What man?
+Sparrowhawk.
+That is the Archmage.
+Here, drink this.
+It will soothe you.
+What's wrong?
+It's not poisoned.
+Now lie still
+and rest here for a bit.
+The Archmage is more dangerous
+than you can imagine.
+No... Sparrowhawk is a good man.
+He protected me.
+Then tell me. Did you ever
+wonder what he seeks?
+No.
+He seeks eternal life.
+Eternal life?
+The Archmage stands
+at the pinnacle of sorcery.
+Only the secret of eternal life
+lies beyond his grasp.
+And yet, he covets it.
+But as he covets, so does he fear
+another will discover it first.
+That would be unbearable
+to one so proud as the Archmage.
+What does that have
+to do with me?
+Because it is you
+who have been chosen...
+...to gain the secret
+of eternal life.
+That's why Sparrowhawk
+follows you. To kill you.
+To bring me death...
+Arren, will you come with me?
+I've already found it.
+I found the door
+between life and death.
+Together we can open that door.
+And together,
+we will live forever.
+We will conquer every form
+of fear and suffering.
+Fear and suffering...
+Come with me, Arren.
+The face of death is terrible!
+I don't want to die.
+Listen to me, Arren.
+Tell me your True Name.
+Then you will have that
+which you most desire.
+Come, give me your True Name.
+Lebannen...
+Now I'm ready for you,
+Sparrowhawk.
+Where are you, Hawk?
+Hawk!
+What's wrong, Therru?
+They came and took
+Tenar away!
+You have to go
+to Cob's castle!
+Where is Arren?
+He left! He said it would
+come again if he didn't go!
+Cob...
+Don't worry, Therru.
+I'm going to help Tenar.
+Wait for my return.
+Keep this sword,
+Arren will need it.
+Stay home, Therru!
+Here-we-are!
+Come on!
+I'm not going anywhere!
+Lord Cob.
+We brought the woman.
+Just as you ordered.
+You've done well, Hare.
+It was nothing, my lord.
+My pleasure is to serve you.
+Stand aside!
+Why, you!
+Are you the boss?
+Why did you kidnap me?
+Let me go right now!
+So sorry for the rough treatment.
+I have business with Sparrowhawk.
+You're a wizard, aren't you!
+You should be ashamed!
+Go find him yourself!
+He's an old friend of mine.
+I'd like to invite him here.
+And I'm the bait!
+You're going to hurt him!
+Women tax my patience.
+Put her in the dungeon.
+Do it!
+Answer me!
+If something happens to
+Sparrowhawk, so help me!
+- Arren...
+- This way!
+Come, Lebannen.
+I have something special for you.
+Get in there!
+Make yourself at home.
+You'll see your wizard soon enough.
+This place reminds me
+of the Tombs.
+Sparrowhawk...
+Cob! Are you making
+the same mistake again?
+At ease!
+Any sign of the wizard?
+Not yet, sir.
+Where is that confounded wizard?
+Let's see...
+There he is!
+Take your positions!
+Here he comes!
+Don't let him escape! Now!
+Hear me! Open the path!
+Stop! Wait!
+He tricked us!
+Well? Don't just stand there!
+Cob! It's Sparrowhawk.
+I'm here!
+Show yourself!
+It's been a long time,
+Sparrowhawk.
+I've been waiting.
+Cob of Havnor!
+I left you at the border...
+...of the land of death.
+I hear you're the Archmage now.
+Congratulations.
+I'm here, Cob.
+Now release Tenar!
+You're pitiful, Sparrowhawk.
+The great Archmage,
+smitten by a woman.
+You used her to lure me here.
+What do you want?
+What do you think?
+I haven't forgotten
+how you dragged me...
+...to the gates of the Dry Land.
+But you've forgotten why!
+You used
+the Pelnish Lore...
+...to toy with the spirits
+of the living and the dead.
+Isn't that enough to repent?
+You taught me a splendid lesson
+there at death's door.
+Now I know I can
+never accept extinction.
+So I gathered every
+ancient lore book I could find.
+Alas some of their owners
+were not cooperative.
+What evil are you planning, Cob?
+I've done it, Sparrowhawk!
+I've woven the greatest spell of all.
+The door between life and death
+has been closed...
+...since the beginning of time.
+But I will open it!
+That is forbidden!
+Don't you understand?
+Those with power
+must wield it with wisdom.
+Would you destroy the Balance
+that sustains the world?
+What nonsense!
+The Balance is long gone.
+You know that
+better than anyone.
+The Balance was destroyed by Man.
+You think you can limit
+Man's desire? It's impossible!
+I will live forever.
+I will gain existence without end!
+Cob! Without the cycle
+of death and rebirth, there is no life!
+I am above Nature!
+Sparrowhawk! There's someone else
+who wants to meet you.
+Arren! What are you doing here?
+Lebannen! This man would
+deprive you of eternal life!
+Arren! Did you reveal
+your True Name?
+I'm going to live forever!
+I'm tired, Sparrowhawk.
+Tired of living in fear.
+Arren! Life without death is not life!
+Refuse death, and
+you refuse life as well!
+Don't lie to me!
+Listen to me, Arren.
+No man nor any thing
+in this world lives forever.
+But only to us is it given
+to know that we must die.
+And that is a precious gift.
+This life that is our torment
+and our treasure does not endure.
+It is a wave on the sea.
+Would you force the sea
+to grow still, to save one wave?
+To save yourself?
+Arren...
+Thought you made
+a fool of me?
+There's more than
+one entrance to this castle!
+What's happening?
+I'm getting weak.
+Coming here was another
+of your blunders, Sparrowhawk.
+Your powers are useless
+in this place.
+Hare! Put him in the
+dungeon with the woman.
+I'll finish them tomorrow...
+...in the most painful
+and humiliating way.
+Yes, my lord.
+On your feet, chickenhawk!
+Sparrowhawk!
+Sparrowhawk! Are you all right?
+Sparrowhawk!
+It'll all be over tomorrow.
+Say your goodbyes
+while you still have time!
+Sparrowhawk! Sparrowhawk!
+Tenar...
+How did they do this?
+You're the Archmage!
+I'm sorry, Tenar.
+I keep getting you into trouble.
+Stop talking nonsense!
+Which way should I go?
+Arren?
+Arren! Wait!
+Arren! Cob's men came
+and took Tenar away!
+I have your sword!
+Sparrowhawk said
+to give it to you!
+Follow you?
+Tenar is a prisoner here.
+Sparrowhawk too.
+Even Sparrowhawk.
+This is yours, isn't it?
+Sparrowhawk brought it for you.
+We've got to hurry.
+They need our help!
+I can go no further.
+You must go alone.
+Bring me that sword.
+I know you can do it.
+What do you mean?
+You're right here.
+I'm not here.
+Cob is holding me
+against my will.
+Then who are you?
+Stay away! Get back!
+Don't come closer!
+Arren's heart was always
+full of fear.
+The fear filled his heart
+with darkness.
+Fear of what?
+The darkness stole his body
+and ran away with it.
+But it left something
+important behind.
+Wherever there is darkness,
+there also you will find light.
+Now the light
+that was left behind...
+...wanders alone,
+like a shadow.
+A shadow?
+What you see now is just
+a shadow chasing its body.
+Father...
+You are Arren, aren't you?
+Don't worry.
+I'll be with you.
+I'll give you my True Name.
+My True Name
+is Lebannen... Lebannen.
+Lebannen...
+It's him.
+He should be ashamed
+to call himself Archmage!
+Remember who
+he was up against.
+No wizard in Earthsea
+is a match for Lord Cob!
+Well spoken!
+By the way, what's our
+little friend up to?
+He shut himself in his room.
+Arren is really here!
+He's a lucky one, that boy.
+It's just like Lord Cob
+to steal the wizard's apprentice.
+He's not much
+use though, is he?
+None at all.
+When we're through with
+the wizard, we'll sell the boy!
+All right! Go get
+Sparrowhawk and his woman.
+The Archmage's time
+has finally run out!
+They're going to kill them.
+Arren!
+Arren?
+What are you doing here?
+Did they kidnap you too?
+Here. This belongs to you.
+I'm not worthy to hold
+my father's sword.
+Arren, they've got Tenar
+and Sparrowhawk.
+They're going to kill them.
+Please! Help them
+like you helped me!
+I can't help anyone.
+All I can do is fail.
+What's wrong with you?
+They'll die
+if we don't do something!
+They'll die!
+We'll lose both of them!
+We'll lose the most important
+thing in the world.
+Therru?
+What's the most important thing?
+Life is the most important thing!
+We'll all die someday.
+What does it matter?
+Why fight for life?
+We know it's going to end anyway.
+No! Life is precious because
+we know we're going to die!
+You're not afraid of death.
+You're afraid of life!
+You want to live forever,
+then you say nothing matters.
+It's the same thing!
+You're afraid to live
+the only life you have!
+Therru...
+You think your life
+belongs to you?
+Tenar gave me life.
+That's why I have to live...
+...to give life to someone else.
+Lebannen...
+That's the only way
+we live forever.
+Therru... how did you know
+my True Name?
+You told me yourself.
+Now I'll tell you mine.
+My True Name is...
+Tehanu... it's Tehanu.
+Tehanu...
+It'll be dawn soon.
+Come on, Therru.
+We've got to help them!
+Arren, wait!
+What is it?
+There!
+It's Sparrowhawk and Tenar!
+Come on!
+Jump!
+I can't! It's too far!
+Don't worry!
+You can do it!
+Let's go!
+Sparrowhawk!
+Time to say goodbye,
+Sparrowhawk.
+Your lover is going
+on a journey.
+Why don't you
+send him off yourself?
+Don't worry, Sparrowhawk.
+This world will be
+in good hands after you're gone.
+What can I do, Sparrowhawk?
+Tenar.
+It's not over yet.
+The sun will rise soon.
+What do you mean?
+Don't you hear it, Tenar?
+Help is almost here.
+That's enough time
+for goodbyes.
+Do it! Finish him!
+No!
+Let them go!
+It's you!
+Arren! Therru!
+Stay out of this, boy!
+Don't show him any mercy!
+Get back!
+Take him!
+Please don't hurt me!
+I'm disappointed.
+I thought you
+and I had an understanding.
+Silence!
+You don't control me any more.
+Then you shall see
+the face of death, Lebannen!
+A summoning spell!
+Arren!
+Stay back!
+Now die!
+Please! Let me draw it.
+For Life!
+That sword was
+forged with magic!
+He's an old man!
+Disguised by sorcery.
+Lord Cob!
+You can't stop me.
+I will never accept death.
+Wizards shouldn't fear death!
+You wretched girl!
+I'm not like you!
+I'm better than you.
+Insignificant worms!
+I studied the wisdom of the ages!
+I wield power! I am almighty!
+Scorned as a fool by
+the wizards of Roke.
+Driven out like a dog!
+But I'll have my revenge.
+I will never die.
+I'll be the supreme Archmage!
+Therru!
+Therru!
+That little fool!
+Hear me, stones.
+I unbind you!
+Sunrise...
+Let me go!
+Does it hurt, girl?
+Cob!
+Let her go!
+Stay back!
+Death is terrifying!
+Don't do it!
+So terrifying.
+Wait!
+So terrifying... very terrifying...
+Cob! You're just like me.
+You turn away from light
+and see only darkness!
+No! Keep away!
+You forgot that all life
+is connected.
+Life can't be hoarded,
+it can only be given!
+Deny death,
+and you deny life!
+No! You're wrong!
+Face the truth, Cob!
+Everyone fears death!
+No! I don't want to die.
+Cob!
+No!
+Therru!
+Therru... Arren...
+Arren!
+Time to die! Time to die!
+Arren!
+And you will join him.
+Let her go! Don't kill her!
+All who oppose me must die!
+She's dead, she's dead.
+Poor thing.
+Sun is rising.
+Hurry... must hurry...
+Stop!
+Therru!
+Eternal life!
+Shadow, return to darkness!
+Give me life!
+I want life... life!
+Life!
+I want to live!
+Tehanu!
+So you're safe too.
+What about them?
+They'll be fine.
+They have wings.
+Thank you... Therru.
+I'm going back
+to pay for my crime.
+And to face myself.
+Arren.
+Can I come to see you
+again someday?
+Come on.
+We have to thank
+Sparrowhawk and Tenar.
+The lone hawk in the sky
+Struggles against the wind
+Here there is only light and darkness
+He has the sky to himself
+You who looked up to the sky and wept
+You who live alone
+Let me hear your True Name
+For one day you'll be gone
+As light dissolves into darkness
+Your song passes straight
+through my heart
+Let me sing it for you
+The End
+Voices
+Junichi OKADA
+Aoi TESHIMA
+Yuko TANAKA
+Teruyuki KAGAWA
+Jun FUBUKI
+Bunta SUGAWARA
+Based on the "Earthsea" series by
+Ursula K. LE GUIN
+Inspired by "Shuna's Journey" by
+Hayao MIYAZAKI
+Screenplay by
+Goro MIYAZAKI and Keiko NIWA
+Music by
+Tamiya TERASHIMA
+Theme song performed by
+Aoi TESHIMA
+English translation by
+Jim HUBBERT
+Evan MA, Kenzo OCHIAI,
+Rieko IZUTSU and Steve ALPERT
+English subtitles by
+Aura and Nippon Cine Arts
+Production
+Studio Ghibli
+Producer
+Toshio SUZUKI
+Directed by
+Goro MIYAZAKI

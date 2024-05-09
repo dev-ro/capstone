@@ -1,6 +1,6 @@
 CITY LIGHTS
-"To the people of this city we donate this
-monument; 'Peace and Prosperity'."
+"To the people of this city we donate this monument;
+Peace and Prosperity."
 Afternoon.
 "Did you pick it up, sir?"
 "Wait for your change, sir."
@@ -74,9 +74,9 @@ Lunch time.
 "To play the part of a gentleman
 without the millionaire was difficult,
 but he did his best."
-VIENNA DOCTOR HAS 
+VIENNA DOCTOR HAS
 CURE FOR BLINDNESS
-Thousands journey from 
+Thousands journey from
 all parts of the world.
 FREE OPERATION FOR POOR
 Miraculous Work Of Surgeon
