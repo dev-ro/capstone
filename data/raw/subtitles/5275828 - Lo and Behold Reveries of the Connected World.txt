@@ -1,0 +1,2334 @@
+This is the campus of University
+of California in Los Angeles.
+Today, no one of the students is aware
+that this is ground zero of
+one of the biggest revolutions
+we as humans are experiencing.
+One of the science buildings here
+is considered the birthplace of the internet.
+This picture of some of
+the scientists involved
+was taken at this very moment.
+The corridors here look repulsive
+and yet this one leads
+to some sort of a shrine
+reconstructed years later
+when its importance had sunk in.
+Let's enter this very special place.
+We are now entering a sacred location.
+It's the location where the internet began.
+It's a holy place.
+And we've just come back to 1969
+when the critical events of the origin began.
+That machine over there is the first piece
+of the internet equipment ever installed.
+It's a mini computer,
+which we now call a packet switch.
+This is a...
+military hardened machine.
+You can't break it.
+And it was meant to sustain itself,
+unattended, for years at a time.
+This particular machine
+is so ugly on the inside,
+it is beautiful.
+It has a unique odor.
+A delicious old odor from all the old parts.
+It consists of modems,
+CPU logic units, memory,
+power supply... all the things you need
+to make an efficient computer work.
+This machine served as the first
+node of the internet for decades.
+And it was from here
+that the first message was sent.
+A revolution began.
+And the only record we have
+of what happened that day
+is in this log.
+On October 29th, 1969 at 10:30 at night
+we enter that we "talked
+to Stanford Research Institute
+host to host" computer to computer.
+It's very much like when on Columbus' ship,
+the fellow up on top who first spotted land,
+he noticed it was and he
+basically made an entry
+saying "we spotted land".
+That document and this document have
+at least the same equivalent importance.
+Now what was that first message?
+Many people don't know it.
+All we wanted to do
+was log in from our computer
+to a computer 400 miles to the north,
+up in Stanford Research Institute.
+To log in you have to type "LOG"
+and that machine is smart
+enough to type the "IN".
+Now to make sure this was happening properly,
+we had our programmer and the programmer
+up north connected by a telephone handset
+just to make sure it was going correctly.
+So Charlie typed the L and he said
+"You get the L?" Bill said,
+"Yup, I got the L."
+He typed the O. "Get the O?"
+"Yup, I got the O".
+He typed the G. "Get the G?"
+Crash! The SRI computer crashed.
+So the first message ever
+on the internet was "Lo"
+as in "Lo and Behold".
+We couldn't have asked for a more succinct,
+more powerful, more prophetic message
+than "Lo".
+Well, I've been involved with the internet
+really since the very beginning.
+Um, there are a number of things that
+would characterize that involvement.
+One was I started out being the, essentially
+the system designer of the ARPANET,
+the very first packet net.
+I joined DARPA in the early 1970s and
+started two other networking programs:
+one a ground base packet radio net
+like today's cellular
+phones and a satellite net
+on Intel's Dot4 based on packets.
+And the internet was about
+connecting them all together
+and the essential elements there
+were the protocols that
+would make that possible
+and the technology that would be needed
+inside the net to enable these
+different nets to work together.
+Vint Cerf, here in 1973,
+and Bob Kahn collaborating together
+created the fundamental
+protocol for the internet.
+For this they received
+some of the highest honors
+our society can bestow.
+Imagine, if you will,
+sitting down to your morning coffee,
+turning on your home computer
+to read the day's newspaper.
+Well, it's not as far fetched as it may seem.
+Seventeen stories up in his
+fashionable North Beach apartment,
+Richard Halloran is calling a local number
+that will connect him with
+a computer in Columbus, Ohio.
+Meanwhile, across town in this
+less than fashionable
+cubby hole at The San Francisco Examiner
+these editors are programming
+today's copy of the paper
+into that same Ohio computer.
+When the telephone connection
+between these two terminals
+is made, the newest form of
+electronic journalism
+lights up Mr. Halloran's television
+with just about everything
+The Examiner prints in its regular edition.
+Of the estimated two to three thousand
+home computer owners in the Bay Area,
+The Chronicle reports over 500 have responded
+by sending back coupons.
+This report,
+considering the numbers
+of internet users today,
+sounds already like pre-history.
+No one at that time had a clue
+about the explosion of
+information technology.
+Today if you would burn CDs
+of the worldwide data flow for one single day
+and stack them up to a pile,
+this pile would reach up to Mars and back.
+The internet is already
+permeating everything.
+Even on the International Space Station
+a phone call from one module to the next
+goes via the internet.
+But how do we keep it running?
+How do we guard it?
+I still have a copy of the phone directory
+from the late 1970s of everybody
+who was on the internet and it
+was a document about that thick
+and it had the name, address,
+and telephone number of every single person.
+Actually it had it twice because it had it
+once sorted by their email address
+and once sorted by their actual name.
+So if you had a problem with anybody,
+you could look them up, you could find them.
+You could find who the actual person was
+associated with that email address.
+And still today I thumb through that
+and a surprising fraction
+of the people I actually knew.
+For example, there were two
+other Danny's on the internet,
+and I knew them both. I still know them both.
+Of course now you can't even comprehend
+the idea of a directory
+that contains the name of everybody.
+Today, we couldn't know exactly,
+the directory might be some 72 miles thick.
+The capacity on the ith channel
+should be the traffic on the ith channel
+over the speed of the ith channel
+plus how much is left over,
+that's how much capacity is left over,
+and you split it
+according to the square root
+of the traffic on that channel
+over the summation of the
+square root over all channels.
+The way the internet works,
+there's no fixed route that a message takes.
+In the early days of the protocol there was
+a kind of a bug and one of the computers
+actually had a hardware failure
+that made it believe that
+it could get a message to some place
+in negative time.
+So, of course, every message in the internet
+did better by sending it through that
+computer because it subtracted the time
+net required to send the message.
+And so all the messages in the internet
+started getting sent through that computer,
+which of course got slower
+and slower and slower.
+So the internet kind of
+started to grind to a halt.
+The mean response time
+now will look like this.
+It will be equal to the average path length
+times the summation of the square root
+of the traffic on the J channel
+over the sum of all traffics
+summed over all channels squared
+over uc (1 minus n-bar rho).
+Whatever that equation means, it tells you
+what the minimum response time will be
+for a network once it's optimized.
+The computer was claiming that it could
+deliver the message before you even sent it.
+So if you had a post office like that
+of course you would use it, right?
+This was a simplified but
+exact model at the time.
+Now we have other aspects of it.
+But it's basically the underlying
+principles of the network,
+and one of the things we found, surprisingly,
+was that the larger the network is
+the far more efficient it becomes.
+Like a gambling casino that certainly makes
+money if you have millions of gamblers
+at the slot machines?
+Very much so.
+You've articulated what we call
+the law of large numbers.
+The law of large numbers says
+that a large population of
+unpredictable players,
+or messages,
+collectively behaves
+in a very predictable fashion,
+a fashion we can write down exactly.
+And therefore we can predict the
+performance of a network when its large.
+The underlying technology has scaled
+by a factor of a million
+in computational speed,
+in bandwidth of communications,
+in storage capacity and it
+may go for another decade
+to a factor of a billion or even a trillion.
+Nothing in the history of
+mankind has ever worked
+as a technological contribution
+over that span of growth.
+Back to the very early times,
+times of speculative concepts
+of a connected world...
+in the early 60s,
+many years before the first
+Apple personal computer,
+a young thinker, Ted Nelson,
+had his own ideas about
+creating a computer network.
+The web as we know it took a different route,
+but Nelson's ideas are still dormant.
+It was an experience
+of water and interconnection.
+I was with my grandparents
+in a rowboat in Chicago,
+so I must have been five years old
+and I was trailing my hand in the water.
+And I thought about how the water
+was moving around my fingers,
+opening on one side and closing on the other,
+and that changing system of relationships
+where everything was kind of similar,
+kind of the same and yet different.
+That was so difficult to
+visualize and express,
+and just generalizing that
+to the entire universe that
+the world is a system
+of ever changing relationships and structures
+struck me as...
+a vast truth... which it is!
+And...
+so interconnection and
+expressing that interconnection
+has been the center of all my thinking,
+and all my computer work
+has been about expressing and representing
+and showing interconnection
+among writings especially.
+And writing is the process of reducing
+a tapestry of interconnection
+to a narrow sequence.
+And this is in a sense illicit.
+This is a wrongful compression
+of what should spread out.
+And today's computers they've betrayed that
+because there's no system for decent
+cut and paste and they've changed
+the meaning of the words "cut and paste"
+and pretended it was the same thing.
+So a guy named Larry Tesler,
+whom I consider to be a good friend,
+nevertheless changed those words
+and I consider that to be a crime against
+humanity and he doesn't understand why.
+Because humanity has no decent writing tools.
+In any case, this is the problem:
+interconnection and representation
+and sequentialization all...
+similar to the issue of water.
+So here we have a parallel presentation
+that shows the quotation
+connected to its original context.
+"In the beginning God created
+the heaven and the earth"
+and where is that from?
+That is from the King James Bible.
+So we can step down to the next quotation.
+"Adam and Lilith immediately began to fight"
+and that is from the Alphabet of ben Sira.
+And so as we pull back we
+can see successive pages
+coming up to connect with their sources
+or with their linked contents.
+His vision of links never materialized.
+By some he was labeled
+insane for clinging on.
+There are two contradictory slogans.
+One is that continuing to do the same thing
+and expecting a different result
+is the definition of insanity.
+On the other hand, if at
+first you don't succeed,
+try, try again.
+I prefer the latter because I don't want
+to be remembered as the guy who didn't.
+No, to us you appear to be
+the only one around
+who is clinically sane.
+No one has ever said that before.
+Usually I hear the opposite.
+Thank you very much for talking with us.
+It was wonderful.
+Marvelous.
+What a team.
+Yes, now it's your turn.
+Today the sheer numbers
+of unpredictable players on the internet
+has led to some of its greatest glories.
+Fundamental research into cancer, AIDS,
+and other diseases,
+has been slowed down by a complex problem
+which has to do with
+the intricate folding of molecules.
+Scientists using super computers
+could not solve it.
+Adrien Treuille was one of the creators
+of a video game calling upon the community
+of video gamers out there in the world.
+Here we can see an RNA molecule
+folded up into
+this beautiful helical pattern,
+it forms a helix,
+and the amazing thing is that this pattern
+is formed out of very, very simple rules
+which pull it together and create this shape.
+And so it's a little bit like...
+you can think of your hands
+as there are simple rules
+which determine how it can bend,
+and then there are certain ways
+in which it loves to come together
+to form a compact shape
+and that's just what these molecules
+are doing in the body.
+And your shirts, for example,
+you are into shirt folding?
+These molecules
+fold up in much the same way
+that a shirt folds.
+You can imagine it starts completely unfolded
+and not at all suitable
+to put in your drawer,
+but if you follow very, very simple rules
+it becomes this beautiful package
+that you can then store and show.
+We took the latest scientific models
+of a biomolecule folding
+and we created a game
+and we put it on the web without
+knowing what would happen
+and without knowing if
+it would be fun at all,
+if anyone would come, and...
+instantly people arrived
+and they broke down the computers.
+We had to build new computers.
+And they played and they
+spoke with one another
+and they taught one another
+about the science as non-experts,
+and they began reading papers and they
+began studying and understanding.
+We have lawyers, we have school kids,
+we have retired people,
+we have bedridden people,
+we have grandmas.
+It's really everyone from age 10 to age 100.
+This idea was impossible
+before the internet and
+the response was stunning.
+Within days, hundreds of thousands joined in
+and they solved the puzzle.
+The world responded,
+and it was beautiful.
+And here is where you'd design a new molecule
+and in many ways we tried to...
+subliminally, you might say,
+help the players understand
+and inhabit the world of the molecule.
+So we placed the whole game in this water
+and we put all of these little bubbles
+in the background,
+but they're part of the
+story of what's happening.
+Each molecule has its own sound,
+and these sounds are specifically designed
+so that when the molecule is well-folded
+they form harmonies.
+And if something doesn't fit together
+it will form a dissonance.
+It's actually kind of hard to make it do it.
+These are real chemical results
+of actual molecules that we,
+players designed and we built them.
+So we say, EteRNA
+is played by humans but scored by nature.
+In other words,
+nature determines
+who wins and who loses the game
+and that's science.
+The solutions of the video
+gamers are not just fantasies.
+They are verifiable
+and can be synthesized in the lab.
+Sebastian Thrun is also
+reaching out into the world.
+Originally he's become famous
+with self-driving cars.
+My dream is to go and
+give every human being a chance
+and the best way to do this is education.
+So we built this little
+company that we called Udacity
+that offers education for free.
+We have hundreds of thousands of students
+staying with us at any given point in time.
+We've been amazed how fast
+our student base has grown.
+There's a real thirst for education, like,
+as the machines are becoming smarter
+I think people want to become smarter.
+People want to make a contribution
+and it's harder and harder
+to make a contribution today
+and it'll be even harder in the future
+so we've really got to go and do
+something for ourselves
+and the best thing we can
+do I think is education.
+In the very beginning of
+my journey into education,
+I had a chance to teach a class online
+and teach a class at Stanford.
+At Stanford you got 200 students.
+I considered myself an
+extremely great teacher
+so I got a large class,
+but online we got 160,000 students.
+160 thousand.
+And when we finally finished this class
+we were able to stack
+rank the Stanford students,
+who are the most privileged
+and most selected students,
+with the students from the open world.
+And the top 412 students,
+they weren't at Stanford.
+The best performing
+Stanford student was number 413
+out of a class of 200.
+That kind of opened my eyes and I realized,
+my god, for every great Stanford student
+there is 412 amazingly great,
+even better students in the world
+that don't make it to Stanford.
+Just before heading into the mountain section
+of the course, Stanley tracked down
+and passed the crippled Highlander,
+putting Stanford racing
+team's Volkswagen Touareg
+into the leader position and effectively
+ending the Highlander's bid for glory.
+As Stanley crosses the finish line,
+the Stanford racing team
+has made its way into the history books.
+This was Sebastian Thrun's
+moment of glory back in 2005.
+Most of his competitors were a sorry sight.
+History has already been made
+as Highlander crosses the 8-mile mark,
+further than any vehicle traveled
+in the inaugural Grand Challenge.
+20 more teams followed
+the big three out of the gate,
+all hoping to complete the
+132-mile course in a winning time.
+Team Dad, with its rotating cluster
+of sensors, sped off the line,
+making up ground and passing
+team Axion in the process.
+Team ENSCO's buggy style robot, Dexter,
+also left the line with a full head of steam,
+fiercely attacking the desert terrain.
+Kat-5, the Ford Escape hybrid
+from Louisiana's Gray team,
+eased its way past the crowd,
+and TerraMax, the 16-ton cargo hauler,
+left the gate determined
+to finish the course.
+Autonomous cars are developing rapidly.
+Today you don't see big radar installations
+or tons of equipment.
+So the primary objective
+when we built this car
+was to basically make it look very normal
+on the outside and the inside.
+The vehicle can send information
+about what it is seeing
+to the internet.
+This can be useful to
+other vehicles on the road.
+It can also download information
+about what is happening on the roads
+before it reaches an accident area
+or a traffic jam, for example.
+So the internet will be decisive very soon?
+The internet will play
+a very important role in this, yes.
+Can you open it?
+It must be packed with electronics.
+- Show us.
+- Yes.
+So just like we humans have
+brains to basically process
+the incoming signals,
+we need to have computers,
+basically, which process all the signals from
+the lidars and the radars and the cameras.
+I can't see anything.
+It turns out there really is nothing to see.
+It's a completely useable empty trunk space,
+but hidden behind...
+under the... trunk,
+is a set of computers.
+There are four computers,
+each with four so called processing cores
+which is really equivalent to
+16-piece personal computing machines
+which basically crunch all the data
+coming in from the sensors.
+These dots that you see are basically
+reflections from laser beams
+from the laser lidar sensors on the car.
+They emit light beams, hit obstacles,
+and they come back as reflections
+and they show up as dots.
+It really sees a virtual world.
+It literally sees a virtual world.
+The big question basically is that
+does it understand the ethics of a human?
+Does it understand the
+values of human society?
+For example, our vehicle,
+what it would like to do
+basically is not hit anybody
+as the highest priority.
+And then if it has to hit something
+it would prefer to rather hit
+some thing than somebody,
+but what it really wants to do is basically
+not hit anything at all or anybody at all.
+But who is going to be liable
+in case of an accident?
+The on-board computer? Its designer?
+The GPS system? The internet?
+Or the driver who eats his breakfast?
+When a car makes a mistake
+and learns from it,
+that experience is instantaneously
+shared with all the other cars,
+so all the other cars learn from it as well.
+It's actually something
+that people can't do very well.
+So, if I make a mistake,
+which I've made many in driving,
+then I can commiserate and I can improve,
+but nobody else learns from it.
+When a self-driving car makes a mistake
+automatically all the other cars know
+about it, including all future unborn cars,
+will never make that same mistake again.
+Which means the ability for cars to develop
+an artificial intelligence is so much greater
+than the ability of people
+to keep up with them.
+Let me show you one of our robots.
+This robot essentially has four wheels
+and each of these wheels
+have these tiny rollers on them
+and what this allows this robot to do
+is essentially it allows it to drive sideways
+as well as forwards, as well as turn,
+without having to do anything
+like parallel parking maneuvers.
+So that makes these robots
+extremely versatile in their motion.
+To kick the ball, what these
+robots have is a main kicker,
+which slides the length of the robot
+and kicks the ball forward.
+We also have a chip kicker,
+which can kick the ball upward
+and that makes the ball go up into the air.
+These robots are autonomous.
+Nobody steers them with a joystick.
+Once a defender is in place,
+it'll be a bit more challenging
+for this robot to score.
+RoboCup this year we have
+not let in a single goal,
+although we scored 48 goals
+in total against our opponents.
+So you are world champion?
+We are.
+We came first this year
+in the RoboCup international competition.
+The blue robots need to
+have an indirect free kick
+so they're figuring out how they
+should pass between themselves.
+Could this team eventually
+beat the real Brazilian football team?
+That is the goal of RoboCup.
+That is, by 2050 to have a team
+of soccer playing robots
+which can defeat the FIFA world champions.
+And we'll see it happen.
+I'm very hopeful that we'll
+actually get a team of robots
+which are competent enough
+and smart and intelligent enough
+to actually beat the world champions in 2050.
+Better than Messi, Ronaldo and Neymar?
+It sounds difficult but we can get there.
+We can get there.
+We have a certain reverence for robot 8.
+I mean, to us, saying robot 8 is equivalent
+to someone saying Messi
+or Ronaldo or something...
+it's the same.
+This here is robot 8.
+It's very identifiable because
+its pattern includes four
+green dots on top and it's...
+one of our favorites, actually.
+Beautiful.
+- Do you love it?
+- Yes, we do.
+We do love robot 8.
+The day Nikki passed away
+we were scheduled to see a psychiatrist.
+She'd had some...
+psychotic issues where she had
+a brain tumor when she was very young
+and it was time to do some research on her.
+I think she was feeling nervous
+that if she were to go to this appointment
+she might get stuck in the hospital
+because that had happened before.
+And at some point
+a couple hours before her appointment,
+she left the house.
+She took Christos' Porsche and drove away.
+I saw all the police
+and I started to walk down
+the on-ramp and they stopped me
+and they said I wasn't allowed down there.
+And I asked if it was my daughter in the car,
+what car it was, and they
+wouldn't give me any information.
+And then a crane lifted up the car
+and once it lifted up the car,
+I realized it was the Porsche.
+Adding to the tragedy,
+the first responder took photos
+of the nearly decapitated head of the girl
+and emailed it to some friends.
+Almost instantly the pictures
+were out on the internet,
+and hundreds of thousands,
+possibly millions, clicked on them.
+Hoping to avoid a new wave of sick curiosity,
+we are here not even showing
+a picture of Nikki alive,
+only a place in the house she liked.
+Up until I saw the pictures on the internet
+I had an image of Nikki...
+as a perfect...
+as a perfect face, perfect, uh...
+condition.
+The coroner told us,
+the only thing the coroner told us
+is that a portion of her thumb
+had been severed in the accident
+and that she had head trauma,
+but they never gave us any detail.
+So I always focused on the thumb.
+I received emails with the pictures attached
+and it was a short time after the accident.
+Um...
+It was disguised. I didn't know
+who the email came from,
+and I opened it up.
+And the bad ones were very, um... hateful,
+very hateful... towards me,
+towards Nikki, towards our family.
+It said "Dead girl walking.
+Woo hoo, daddy, I'm still alive".
+- Woo hoo?
+- Woo hoo.
+Do you still feel the pain
+when you received this?
+Yes.
+And it's never gonna leave you?
+Never.
+Some of the hate mail was
+so unspeakably horrifying
+that we cannot repeat it here.
+We were told there was
+nothing that could be done
+because... there's no law in place for...
+pictures of deceased people
+because when they pass away,
+their privacy rights go with them.
+I didn't know such
+depravity existed in humans,
+and I think dogs treat their kind
+better than humans treat their kind.
+It's just... there is no dignity
+or respect on the internet
+because we're not held accountable.
+Nobody's there to tell us not to.
+I have always believed that the internet
+is a manifestation of the antichrist,
+of evil itself.
+It is the spirit of evil.
+And I feel like it's running through...
+everybody on earth and it's...
+claiming its victories
+in those people that are also evil.
+West Virginia,
+the small town of Green Bank in Appalachia.
+What you're seeing behind me
+is a very large telescope,
+a hundred meters in diameter,
+but instead of picking up the light
+as normal telescopes do,
+it picks up the radio waves that
+are coming from the universe,
+from objects out there
+as close as the planets
+but as far as actually the Big Bang.
+The telescope discovered the black hole
+in our own galaxy, the Milky Way.
+In the Visitor Center
+you can roll your coins into a funnel,
+which resembles a black hole.
+Your coins indeed disappear irretrievably.
+If there was a civilization like ours
+on a nearby planet, we could
+almost certainly pick up
+some of their television stations perhaps,
+some of their radar... who knows what.
+This collecting area is several acres in size
+and it can pick up enormous signals
+from an enormous distance,
+but they've traveled so far
+that they are so faint that
+typically they contain a lot less energy
+than the energy of a falling
+snowflake settling on the ground.
+The enemy of radio astronomy
+is the natural radio signals
+that we make on earth
+either deliberately or accidentally.
+Things like microwave
+ovens can emit radiation
+which can blind us to the signals
+that are coming from the stars.
+Cell phones are billions
+of billions of times stronger
+than the faint signals we're looking for.
+Satellites, they beam straight down on us.
+- Music stations?
+- Music stations, yes.
+- Playing Elvis?
+- Playing Elvis.
+We've managed to keep
+cell phone transmissions out.
+Your smart phones are dumb here;
+they just do not work.
+We really try to keep wireless transmissions
+of any kind suppressed
+within about ten miles of the observatory.
+For a long time we had a fleet
+of Checker diesels
+and these were the standard
+New York City cabs
+and they were precious to us
+because they were the perfect
+vehicle for radio astronomers.
+These do not have spark plugs,
+they don't make noise.
+In the forest near the telescope
+we met a modern day hermit.
+So, see, I've finally gone high tech.
+I've got a faucet installed.
+It really makes a difference, I have to say.
+I became very ill
+from radiation sickness in 1996
+and I lost 50 pounds.
+I nearly died three times
+and I became reactive
+to all the wireless radiation signals
+when all the cell phones went up.
+They went up in massive numbers in 1996
+and I tried to do all kind of treatment,
+I moved, I'd lost my career.
+I was working as an architect in Honolulu.
+I had to be separated
+from my family and children
+and finally I heard about this in 2011
+and... as soon as I heard there was
+a place with no cell towers,
+I was here in 48 hours.
+Sometimes if I have really bad
+reactions to radiation,
+I actually will sleep on the ground.
+I feel better on the ground.
+And there may be a science to this.
+They say the ground emits 7.83 hertz
+and it's the natural rhythm
+for animals and humans.
+I also sleep in my car,
+which I instinctively did in the beginning
+and I later learned that it acts
+like a partial Faraday Cage.
+The metal keeps out the radiation.
+This place in Green Bank is wonderful.
+It's not perfect but I can go outside.
+I can see the trees, I can see the sky,
+I can see the stars.
+When I lived in the Faraday Cage,
+I had to live in a box and I only left the
+box when I wanted to go to the bathroom
+or to use the shower, otherwise
+I stayed in that box day and night.
+- In a cage?
+- In a Faraday Cage.
+How long?
+A couple years.
+Several years.
+I had a mattress and I didn't
+have a place to stand up.
+I had to stay on the bed the entire time.
+My husband went grocery shopping,
+he cooked the food, he would
+bring and serve me the food.
+We'd open the door, he'd hand me the plate
+and I'd eat inside the Faraday Cage.
+I've heard it also called as a super sense,
+that we just have this ability to,
+for whatever reason, feel these frequencies.
+It's a very legitimate illness.
+But at this point I don't consider it a gift.
+I would give anything to give it back.
+You're the refugee now?
+I... Yes, I don't know what to call myself.
+This is brand new
+and I just want people
+to know that this type of illness
+and doctors... I really want them to hear
+that this is a legitimate illness.
+Um, and it affects our lives
+tremendously, you have no idea.
+When you go home today after this interview,
+you have the luxury of going home
+to your familiar surroundings.
+You have that luxury to
+go back to your families.
+I haven't had that in four and a half years.
+I haven't had any stability.
+And I just have to impress upon you
+how serious this is for those
+of us that are suffering.
+And I'm extremely grateful
+that there is a location here
+where I am no longer in pain.
+Or whatever type of irreparable harm may be
+being done to my body
+will be either suspended
+or temporarily arrested.
+There's a lot more community
+interaction in a place like this.
+I think because of the absence
+of cellular technology
+and also because of the isolation
+of a rural community
+in such a beautiful place like this.
+And, yes, I do play the fiddle
+and the banjo at night.
+# My old lady gets mad at me
+She gets hotter than ginger tea #
+# She is good and she is bad
+She can be the devil when she gets mad #
+# Goin' up t' Cripple Creek, goin' on a run #
+Goin' up t' Cripple Creek, have a little fun #
+# Raise my britches high to my knees
+Wade in ol' Cripple Creek when I please #
+The state of Washington across the continent,
+in an idyllic forest not far from Seattle,
+a rehab center for internet addiction
+named Restart was established.
+Well, there are so many
+of these severe cases.
+For instance in South Korea
+there was the case of a couple
+that had a young baby
+and they were very much addicted to a game
+that they went to play while
+neglecting their child at home.
+And this baby eventually starved to death
+and they went to jail for this,
+but it is because they were hooked on a game
+and ironically it was a game in which
+they were taking care of
+and nurturing in the game
+a young girl,
+but as they were doing that
+their own child was starving to death.
+Shortly after we opened Restart,
+we got a call from a stepmom.
+Her stepson was living with his grandmother
+and had just had his leg amputated
+because he'd developed
+a thrombosis in his leg
+from lack of movement.
+So we know of cases, many cases happening
+in Korea and China, people who are dying
+at the computer because they are playing for
+40, 50, 60 hours at a time
+and completely neglecting
+their body's physical needs.
+It is not uncommon
+that in South Korea teenage
+video gamers put on diapers.
+This way they avoid losing
+points by going to the bathroom.
+Tom, you do not need
+any further introduction.
+This was great.
+My lowest point came at the beginning
+of this year.
+New Year's Eve I had lost a job,
+I was losing my girlfriend, my family,
+my relations were very strained
+and I tried to drink myself to death.
+Suicide?
+I was playing video games
+16 hours a day, often drunk.
+I watched porn a lot
+and I just had given up.
+I had no future, I had no will to live.
+I was just waiting for the timer to run out.
+I was in my spring quarter in college
+and I was doing nothing except
+sleeping about six hours a day
+and playing video games and absolutely
+not attending any of my classes,
+not doing any of my work
+and lying to my parents about my progress.
+So it was a lot of lying, manipulation,
+isolation especially,
+which are all common things for addicts
+but mine were pretty much sleep
+and you know, interact with my addiction.
+Did you adopt certain characters
+that became almost like you?
+I'm not sure I'm comfortable
+with that 'cause I'm still in the phase
+where thinking too deeply
+about my own intricacies
+could set me off,
+could really start that cravings
+and start those withdrawal symptoms again.
+I wanted very much to discuss
+fictional characters with Chloe,
+like the malevolent Druid Dwarf
+or whoever these figures are,
+but I had to desist.
+The real danger to gaming is when...
+you... or when I stopped
+being present in the real world
+more often than I was in the game world.
+If...
+If you get to the point where...
+you're thinking about the game more
+than you're thinking about real life...
+what you're gonna do for food,
+what you're gonna do the next day or two,
+you're not thinking about
+a relationship or a job or a career.
+If you're thinking about the game...
+it's a problem...
+because eventually it'll get
+in the way of everything real.
+Our sun, the giver of life.
+At the same time it is hostile, destructive.
+Protuberances unimaginable in size
+are being hurled into the universe.
+These flares may become the
+undoing of modern civilization.
+The best known historical example
+of a very large solar flare
+is an event called the Carrington
+event which happened in 1859.
+This was observed
+by an astronomer named Carrington
+who saw a patch of the sun
+as he was monitoring sun
+spots, grow brighter.
+In those days, the predominant
+form of technology
+was a telegraph, that was
+our main form of communication,
+and this very, very large flare
+that happened,
+that created a brightness change
+so great that Carrington
+could actually see it with his eye,
+which is very uncommon,
+actually induced currents in telegraph wires
+that created fires in the paper
+of the telegraph machines.
+There's even reports from that time
+of Aurora being seen as far south
+as the equator,
+and there being Auroras so bright
+at the Northern latitudes
+that it was possible to
+read by them at night.
+We've been fortunate that nothing
+as large as the Carrington Event
+has happened in these times
+of modern technology
+but even the smaller solar flare events
+that we do see do disrupt our communications
+and create outages in our power grid
+and disruptions for our satellites.
+What the fuck?
+New York City.
+What Hurricane Sandy caused here
+could happen on a worldwide
+scale and much worse.
+No electricity, no internet,
+no drinking water, no flushing of toilets,
+no gas and no shopping.
+All you could see was the outline
+of the hospital against a darkened sky.
+A lone flashlight up in one
+of the hospital rooms there
+as doctors and nurses rushed
+from patient to patient.
+Out front, ambulances.
+These images from my iPhone
+as we approach the hospital,
+just one of the nearly 300 patients who were
+one by one brought out and taken to safety.
+What we got going on here is a complete
+blackout in New York City, and um...
+I'm on the third floor of Clear Channel
+where Z100, KTU, Lite FM, Q,
+we're all located on the third floor.
+Every station is off the
+air in New York City.
+I don't think it's ever happened in the
+history of broadcasting in New York.
+It's like a Will Smith movie, man.
+It's very weird. Very weird.
+And I feel kind of helpless because
+I'm glad I'm here and I'm safe,
+but there's a lot of crap going on at home.
+My neighbors tell me it's a big mess.
+So I'm nervous about what I'm
+gonna head home to tomorrow.
+Wassup?
+This is a control room.
+Meet Lawrence Krauss.
+As a cosmologist
+he is studying the origins of our universe.
+Much of his attention
+has been focused on our planet.
+If there's a solar flare...
+if you destroyed the information
+fabric of the world right now,
+modern civilization would collapse.
+Hundreds of millions of people will die.
+Billions of people will die.
+The world will become,
+for people like you and me,
+unimaginably ugly, difficult, and...
+there's great likelihood
+that I couldn't survive.
+If the internet shuts down,
+people will not remember how
+they used to live before that.
+I start to think of Maslow's
+hierarchy of needs.
+I mean, let's get back
+to the base of the pyramid
+and think about food and shelter.
+You have food networks
+that are hugely dependent
+on being able to route digitally
+what the needs are and where
+and, through efficiencies created
+when the network is working well,
+you don't have warehouses near people
+stocked to the brim with food.
+If you disrupt those networks I imagine,
+what do they say?
+"Civilization is always about four
+square meals away from utter ruin"?
+That's something
+that it wouldn't be bad to prepare for.
+As we've thought about an internet of things
+where often for purely,
+looked at at this moment,
+unnecessary reasons,
+we not only attach daily
+objects to the internet
+but make them reliant on
+that internet connection
+in order to function properly.
+So the idea that our standard appliances
+couldn't work without connectivity,
+that we wouldn't be able to get...
+to a restaurant that in turn would be able
+to get to food and to organize staff...
+I suspect, however,
+that some individuals will survive.
+Let us remember that we
+come from a background where
+at one point
+there were less than a thousand
+individuals alive,
+probably down in the southern part of Africa,
+and we were a hair's breadth away
+from disappearing as a species.
+We have no control over
+what the sun chooses to do.
+We do know that there is a solar cycle,
+so there are times of high activity
+when there are many flares and
+there are times of low activity
+when there are relatively few.
+Events like the Carrington Event appear to
+be fairly uncommon but not non-existent,
+they're not single isolated events.
+We do see that flares are repeatable,
+it's just that the large ones are
+less common than the small ones.
+So by observing other stars actually
+we can get some idea
+of how frequently these things happen
+and it seems to be
+every few hundred years or so.
+So it's really a matter of time
+before we have a large solar flare.
+- Um, not a matter of...
+- ...it's when.
+Yes, not a matter "if"
+we'll have a large solar flare.
+Will we disappear as a species?
+Again, Werner, I can't tell you
+because I don't make predictions.
+It would be...
+unimaginably bad
+and I prefer to not think about it right now.
+Las Vegas, Nevada.
+One of the casinos is
+preparing to host DefCon,
+the annual convention
+of the hacker community.
+In less than two decades it has grown
+to 20,000 participants.
+At least a thousand of them will be FBI,
+the CIA, Chinese secret service,
+and other interested parties.
+We are about to meet Kevin Mitnick,
+a demigod among the community of hackers.
+Just mentioning his name here
+makes everyone fall silent in awe.
+Am I proud of being
+the world's most famous hacker?
+Um... It's a title that's
+kind of cool to have,
+but I had a lot of trials and tribulations
+to get to that point.
+A lot of bad things happened in my life,
+like, for example, going to a federal prison.
+So it's a title that was earned,
+but I took the hard road.
+When I was a federal fugitive
+I was really concerned obviously
+about getting arrested
+so what I did is I hacked
+into the cell phone company,
+one of the cell phone
+companies in Los Angeles,
+and through what we call metadata...
+It's interesting because nowadays
+with the revelations of Edward Snowden,
+he talked about metadata being very critical
+in the NSA's ability to
+track us and surveil us
+and the NSA says, oh, it's only metadata,
+it doesn't mean anything.
+Let me tell you
+how I was able to use metadata
+to track the FBI in the 1990s.
+I was able to hack into
+the cell phone company
+and I was able to identify
+the phone numbers that belonged
+to the FBI white collar crime
+squad in Los Angeles.
+And I was able to look at their...
+I couldn't get the contents of the call
+but I could see who they called
+and who called them
+so I was able to get a lot of intelligence.
+And then what I was able to do is,
+through this device, I was
+able to program this device
+with all the FBI cell phone numbers
+of the people that were
+in charge of my investigation.
+It would start sending me pager alerts
+that the FBI cell phone is here,
+you know, within a mile.
+So what I did that night is
+I took all my computer stuff:
+my floppy disk, my CDs,
+anything that's technology related...
+I put it at a friend's house and then I went
+to Winchell's Donuts and I got a big...
+I think it was a 24 box of, you know, donuts.
+I took a Sharpie and
+wrote "FBI Donuts" on the box,
+I put it in the refrigerator and on a big
+post-it note outside the refrigerator
+you know the logo for
+Intel says "Intel inside"?
+I put "FBI donuts inside" and
+stuck it on the refrigerator.
+And it just so happens at 6:00 that morning
+I wake up... And how I wake up is
+I hear somebody jiggling the door.
+The FBI knocks, they don't jiggle doors,
+and I go "who is it?" just instinctively
+because I thought someone
+was trying to break in.
+"FBI, open up! Open up!"
+And they're looking for
+anything electronic...
+a computer, a cell phone,
+and nothing's there.
+And as soon as one of the guys
+gets to the refrigerator...
+...he just goes... he goes "what the fuck?"
+You know, he's pissed because they
+obviously knew I knew they were coming,
+so they were not happy.
+I was arrested and I was in court
+and I thought I was going home that day
+and then this federal prosecutor
+tells the judge
+that we not only have to
+hold Mr. Mitnick without bail
+but we have to make sure
+he can't get to a telephone.
+And I was really paying
+attention at this point,
+and then the prosecutor
+starts telling the judge
+that if we let Mr. Mitnick near a telephone,
+he can dial up to NORAD, dial up the modem,
+whistle into the phone and launch an ICBM.
+Facing 400 years in prison
+I had nothing to lose.
+I ended up being held in federal prison
+without bail in solitary
+confinement for a year.
+After his time in solitary,
+Mitnick languished four more
+years in federal prison.
+Because the internet was designed
+for a community that trusted each other
+it didn't have a lot of protections in it.
+Uh, we didn't worry about spying
+on each other, for example.
+We didn't worry about
+somebody sending out to us spam
+or bad emails or viruses because
+such a person would have been,
+you know, banned from the community.
+It would be really nice when I got a message
+if I knew where the message came from.
+But the way that the protocols
+of the internet work,
+that's fundamentally impossible.
+And so I kind of have
+to look at the message and guess,
+is this somebody pretending
+to be somebody else.
+We can design systems
+that are really anonymous
+or that are utterly identifiable
+down to the person
+and it's time for us to think about what
+contexts we'd want to support what.
+A system that is utterly identifiable
+at all times is a nightmare.
+It's exactly what we don't
+want to hand a country
+that doesn't embrace the rule of law...
+ready made for them to
+employ with their populace.
+At the same time, a system that can provide
+no accountability at all...
+We have pockets of that online
+and most people do not find that appealing.
+In any frontier, before the law gets there,
+there's always people seeking
+to take advantage of the system.
+I've seen in the United States, for instance,
+probably something like five
+or six billion identities lost
+but there aren't that
+many people in the United States
+which makes everyone a little
+inured to it every time.
+What does it really mean when they hear
+their identity's been compromised?
+It's not always an identity
+compromising totality.
+Sometimes it's just a small portion of it.
+Your identity comprises many, many things.
+There is one you and
+there are many components
+that represent you digitally.
+Some compromises in that system have very
+little impact on you, and some huge,
+but the line between your physical life
+and digital life is becoming far more blurred
+and there will come a point
+where the threats online
+will hamper your ability
+to embrace new technology.
+That's what my colleagues
+and I have to push back.
+Governments who can achieve
+all the same effects they would
+for international affairs or foreign affairs
+without having to rely on tools of war...
+it's another tool at the table, right?
+War is an extension of
+politics by other means?
+Well, now there's another
+one with much less risk,
+easier to fund, and it puts even some
+smaller nation states on the same
+playing field as larger ones.
+So dozens of nation
+states have an ability to hack others
+and they use this as an extension
+of foreign policy.
+We became curious to look into
+the biggest cyber attack known until today.
+You were at the Sandia National Laboratory.
+What sort of a company is
+Sandia, can you explain?
+Sure. Sandia National Laboratories
+is a government research laboratory,
+a Department of Energy Research laboratory
+that does work in the national interests:
+weapons work, there's solar energy research,
+micro machine research,
+cyber security research,
+those sorts of endeavors.
+Nuclear weapons?
+Nuclear weapons, yep.
+It's part of the nuclear weapons complex
+for stockpile stewardship along
+with some of the other laboratories
+just to ensure that the weapons
+will function properly and...
+as they age through the years.
+So a wonderful target for cyber-attacks.
+- It is.
+- It can't get any better.
+It's, uh, it has a big target on it, yes.
+You stumbled over a problem?
+A problem, yes.
+Terrifying in scope, basically, you know,
+hundreds of organizations...
+military, defense, industrial based
+compromised as far as their networks
+and, you know, just...
+people maintaining a presence on the network
+for the sole purpose of
+siphoning off information of value.
+But we know World Bank was affected,
+NASA was affected, military was affected.
+That's correct.
+I just cannot talk about it. I'm sorry.
+Alright, but...
+we do know a name.
+We do have a beautiful name: Titan Rain.
+Mm hmm.
+- Can you at least nod?
+- Yes.
+The scope of our conversation
+was extremely reduced,
+but some of the information here
+became part of court proceedings.
+The transcripts are public record,
+including the name coined by the FBI.
+You were not up at night in the office,
+you were up at night at home?
+Up at night at home, yes.
+Lots of coffee?
+Lots of coffee.
+Lots of Nicorette.
+And how rewarding is it to trail the enemy?
+To find the track?
+It's very rewarding.
+It's like a puzzle,
+finding patterns within chaos
+that shouldn't be there
+and finding these anomalies.
+And once you scratch the surface,
+you start to put together clues
+and develop a better picture.
+You can be certain that you're pursuing
+a certain person or a certain entity
+and it could just be a ghost.
+Until you have some physical proof,
+you have someone that kicks a door down
+and sees that this is the person
+that's actually behind the keyboard,
+it can all be a myth or an illusion.
+It could be, you know,
+a layered sort of thing
+or all at once, you know,
+just to bring down power, financial systems,
+and just degrade, corrupt them.
+Sometimes it's even worse, rather
+than bringing it down you corrupt it
+and undermine faith, let's say,
+in the stock market.
+Don't bring it down,
+you start altering prices,
+you start altering records,
+and you delete them en masse
+and just cause chaos
+so the markets cannot even
+restore and come up for days.
+The possibilities of taking over spacecraft
+and lowering the orbits of the spacecraft
+so they burn up, and vital GPS communications
+and other sorts of communications are...
+there's nothing there
+to replace them anymore.
+Could it be that we are
+right now already in a cyber war
+that we don't even notice?
+Sure.
+It doesn't matter how much money
+a company invests in technology.
+You can spend tens of thousands of dollars
+on your firewall, on your
+intrusion prevention systems
+and your spam, on your anti-virus,
+and if I could just manipulate one person
+inside that company, I'm in.
+95% of the work, when I used
+to do this in the past,
+is research and finding out about
+the human element and gathering information
+and emails and their personal
+emails and the conference
+that they were just at
+and who spoke before them
+and that person's email address
+so I can send that person
+a rigged PDF attachment
+that may look perfectly normal and forge it
+because I just spoke with
+this guy so I'm gonna open it.
+And nothing happens on my computer but in
+the background a little Trojan is dropped
+that starts communicating
+that allows me access
+and then I, you know,
+gather more information.
+I grab his contact book,
+I find the people that know the information
+that I'm interested in exploiting,
+and then I send an email from him
+with the same type of attachment
+and eventually I have what I want.
+People are the weakest link in security.
+People. Not the technology.
+Now through this special
+TV offer you can receive
+a Motorola flip phone with Cellular
+One service for just pennies a day.
+Now everyone can enjoy the freedom
+of a personal cellular phone.
+You can make a call anywhere...
+Or get a call anytime.
+So I'm living in Denver, Colorado,
+incidentally I'm not living
+under the name Kevin Mitnick,
+I'm under the name of Eric Weiss.
+Why Eric Weiss?
+Because at the time I was a federal fugitive
+I was hiding from the FBI
+and my idol was Harry Houdini
+and that's Harry Houdini's real name,
+so I thought I had a sense of humor.
+So I call directory assistance,
+I get the number to Motorola.
+I'm now talking to the Vice President
+for Research and Development
+for all of Motorola Mobility
+and I go "Hey, this is Rick over
+at Arlington Heights"
+because I found out they had
+an Arlington Heights facility.
+"I'm looking for the project manager
+of the MicroTAC".
+And the VP goes "Oh, that's Pam.
+She works for me,
+would you like her extension?"
+I go "Sure, give it to me",
+and he gives me the extension.
+So my next call is to Pam
+but I don't get her,
+I get her outgoing greeting
+on her voicemail and she told her callers
+that she just left on a two week vacation,
+the date she's returning, and if
+you need any help whatsoever
+please call Alicia
+at extension blah, blah, blah.
+So of course my next call is to Alicia
+and she answers the phone
+and I go "Hey, Alicia,
+this is Rick over at Arlington Heights.
+Did Pam leave on vacation yet?"
+Of course, I already knew she had.
+And she goes "Yes" and I go
+"Well, before she left,
+she said that you could help me get a copy
+of the MicroTAC source code.
+She said you would help me out".
+About five minutes later she
+goes "I found the source code".
+You know, she gave me the release number
+and she goes "but there's a problem.
+Rick, I'm gonna have to talk
+to my security manager
+about what you're asking me
+to do. I'll be right back".
+And I go "No, wait, wait!"
+'cause I didn't want her to talk
+to any security manager
+because obviously they'd
+figure out what's going on.
+About eight minutes later
+she comes back on the line.
+I'm nervous, thinking they
+hooked up a tape recorder
+and that's gonna be Exhibit A
+in the court case later.
+And she goes "Rick?" And I go "uh-huh?"
+and she goes "That IP address
+you gave me to do the file transfer
+is not inside Motorola's campus,
+it's outside,
+and because of that I can't transfer the file
+because we need to use
+a special proxy server to do so
+and I don't have an account".
+And I go "Uh-huh", you know and I just go
+"Alright, thank you very much" and she goes
+"Wait, wait, I have some great news for you".
+I go "what?"
+She goes "My security manager gave me
+his personal user name and password
+so I could log onto the proxy
+server to send you the file!"
+Motorola had a bunch of
+security, technical security,
+but it only took me 15 minutes
+with a good gift of gab
+to get the crown jewels.
+So that's how that worked.
+But you didn't sell it. It was curiosity.
+- No.
+- It was a sport.
+Trophy.
+This is Taurus, the concept that has evolved
+from the work of these teams
+of scientists and engineers.
+They believe the huge space colony
+could be built before the year 2000.
+Constructed almost entirely
+from ore mined on the moon,
+the Taurus colony would become
+home for 10,000 people.
+Ideas of creating colonies
+outside of planet Earth
+have been around for a long time.
+The problem of water,
+air and shelter looks already solved.
+In fact, nothing looks inviting out there.
+There is a private company, SpaceX,
+which is pursuing this idea
+in practical terms.
+Here rockets are being
+assembled for the transport.
+The founder of SpaceX, Elon Musk,
+is not just a dreamer.
+He made his fortune with PayPal,
+he's building Tesla electric cars,
+and is now constructing
+the largest factory
+for batteries on this planet.
+After setbacks,
+he's now successfully launching rockets.
+For the first time in the history
+of Earth, in 4.5 billion years,
+the window of possibility is open for us
+to extend life to another planet.
+To the best of our knowledge life
+exists only on Earth.
+You know, there's a good argument
+that it exists elsewhere
+but we've seen no sign of it.
+I think it's important
+for us to take advantage
+of that window while it is open
+and to establish life
+on another planet in the solar system
+just in case something goes wrong with Earth.
+Um...
+And, uh...
+You know, there could be either
+a natural or manmade disaster
+that knocks the technology level
+below that where it's possible
+to travel to another planet.
+The key to establishing
+a self-sustained large civilization
+is getting the cost-per-unit-mass
+low enough that there's
+an intersection of sets:
+the set of people that wish to move to Mars
+and the set of people that can afford to
+move to Mars inclusive of government aid.
+I mean, right now we can't
+even get one person to Mars.
+- So, clearly...
+- I would come along.
+I wouldn't have a problem.
+- One way ticket.
+- That sounds great.
+- I'd be your candidate.
+- Okay.
+I do think we'll want to...
+offer round trips because
+a lot more people would be willing to go
+if they think that if they don't like it,
+they can come back.
+But how would we talk to them
+who chose to stay?
+Who would tell them the
+outcome of the World Series?
+Mars is actually a comparatively easy
+internet thing to establish,
+at least for local internet because
+you wouldn't be living everywhere on Mars
+so you'd really just need
+maybe four satellites
+to have global internet coverage
+because of how sparse
+the civilization would be on Mars.
+And then some relay
+satellites to get back to Earth.
+Particularly when Mars
+is on the other side of the sun,
+you'd need to sort of bounce it
+off a relay satellite,
+you couldn't communicate directly with it.
+The skyline of Chicago.
+It looks devoid of its inhabitants.
+We have to assume that nearly everyone
+has left for a colony out there.
+# Are you lonesome tonight? #
+# Do you miss me tonight? #
+# Are you sorry we drifted apart? #
+# Does your memory stray #
+# To a brighter sunny day #
+The planetarium is the only point of contact.
+Inside, a monument for those
+who have levitated and left.
+Yes, things must be real good out there.
+# Do the chairs in your parlor #
+# Seem empty and bare? #
+But then we met some stragglers left behind.
+They're all on their smartphones.
+Have the monks stopped meditating?
+Have they stopped praying?
+They all seem to be tweeting.
+# Shall I come back again? #
+# Tell me, dear, are you lonesome tonight? #
+How could we communicate with stars out there
+that potentially have life?
+Well, we can think of creating
+a kind of long range internet
+either through the use of radio waves
+or perhaps visible light.
+So these would be the kinds of signals
+that we could generate in
+the case of lower energy signals
+like radio waves relatively cheaply
+and we could broadcast,
+if we came up with a suitable code
+some way of transmitting information
+over galactic and intergalactic distances.
+But we would get an answer
+back in 800,000 years?
+Maybe 2.5 million years?
+Well, I think that the more one looks for
+planets in the universe
+beyond our solar system
+that are potentially places
+that might be hospitable to life,
+the more you appreciate the wonderful planet
+that we have here that allows us to do things
+like swim in an ocean,
+breathe the air without
+the help of our technology,
+and so, while I would like us
+to explore Mars more,
+I think the only thing
+that we've demonstrated is
+that we're very good at
+destroying the habitability of earth,
+rather than improving the habitability
+of a completely alien world.
+The idea that Mars will somehow save us
+from the decisions we've made
+here is a false one.
+And it's a little like saying that
+you're going to go live
+in the lifeboat when, you know,
+even lifeboats need somewhere to land.
+I don't think I have good dreams.
+I'm sure I have good dreams sometimes,
+but I don't seem to remember the good dreams.
+The ones that I remember are the nightmares.
+The Prussian war theoretician, Clausewitz,
+Napoleonic times,
+once famously said,
+"sometimes war dreams of itself".
+Could it be that the internet
+starts to dream of itself?
+Great question.
+To think about dreaming,
+there are maybe two aspects.
+One is... what I'll call awareness,
+when you wake up and you say
+"I was just dreaming this" and you know it.
+Another aspect is just...
+some kind of pattern of
+activity that emerges,
+not because of some external stimuli
+but just because of something going on
+in unpredictable patterns.
+I think already the internet
+has the second of those,
+has unpredictable patterns all the time.
+They cause things like flash crashes
+on the financial markets.
+So we have plenty of kind of currents
+running around in the internet
+that are unpredictable,
+in some cases unstoppable.
+Imaginative?
+Now it comes to what do
+we mean by imaginative.
+But if we mean...
+We call a person imaginative
+if they come up with ideas
+that we didn't think of
+and that we nevertheless admire.
+If they can...
+Usually admiration is part of it.
+So for the internet, so far I think
+it's mostly just unpredictable.
+I haven't seen anything the internet
+did on its own that I admire.
+Does the internet dream of itself?
+It does in the sense that it can beget
+additional networks layered on top of it
+that have the characteristics
+of the underlying internet.
+So just as the basic internet
+is a series of computers
+that happen to talk internet to each other
+so that you can move
+a bit from here to there,
+there's a fellow named Sir Tim Berners-Lee
+who could conceive of
+something called the World Wide Web
+and choose not to copyright it,
+not to patent it, to allow
+anybody to speak "server"
+and some people speak "client"
+and then before you know it,
+you've got websites.
+The web is the internet dreaming of itself.
+Could it be that the internet
+dreams of itself?
+It's a fascinating idea.
+In fact, there was a wonderful
+science fiction story
+which later got turned into a movie,
+Blade Runner, and I think it was called
+"Do Androids Dream of Electric Sheep?"
+The robot's dream,
+but the internet is nothing but connections.
+Will it have its own consciousness?
+Will it have its own set of rules?
+And perhaps...
+on an even more scary realm,
+a science fiction realm,
+will the internet therefore make
+its own decisions?
+And will the decisions about
+how communication happens
+go out of human hands?
+That's certainly a possibility.
+But since we don't even
+understand consciousness,
+I am hesitant to make any predictions
+and I think anyone who claims
+they know what's going to happen to
+the internet, is not worth listening to.
+Pittsburgh.
+The Industrial Age...
+the steel mills are long gone.
+A new industry has established itself.
+Here robots are being designed.
+This one, named Chimp
+is testing its limbs on its own.
+Soon battalions of them
+connected via internet
+could perform rescue missions
+in disaster zones.
+I think it's gonna run through
+the lift joints momentarily.
+We're still a long ways away from a robot
+having a complete understanding
+of the world, of cause and effect,
+of desires and hopes and dreams,
+and those are the things that
+still make humans human
+and robots on a much lesser scale.
+Well, you could think of this scenario
+almost as robot dreaming.
+This is, you know, a robot
+conceptualizing what is gonna
+happen in the future
+and thinking about different scenarios
+and for any of these motions it's considering
+thousands and thousands
+of scenarios per second
+that might happen,
+especially when you get to the point
+of robots exchanging information
+with one another,
+then you might have a robot
+dreaming about places
+it hasn't even been.
+This is the Chimp view of the world now
+using a high resolution laser scanner
+and it has to really build up its...
+its learning of what's going on
+in the environment.
+In this case it's a valve
+that it's trying to turn
+and we see the pre-planning...
+this is like the robot imagination
+of what's gonna happen:
+where the gripper is gonna be,
+how it's gonna come into that valve,
+and how it can manipulate it.
+It could have opened the valve in
+Fukushima and prevented an explosion?
+That was one of the key things
+that spurred this research...
+realizing that it was
+too dangerous for humans to go in
+but if you could have had a robot
+go in and just do some simple things,
+straightforward things that
+the humans were unable to do:
+open valves to change
+the cooling flow patterns,
+maybe turn on pumps again.
+That would have made all the difference
+in preventing the hydrogen build-up
+and the subsequent explosion.
+How valuable is the cockroach for you?
+I think any insect is amazingly, uh...
+advanced, compared to the state
+of the art robots right now.
+If you think about a cockroach, the fact
+that it can scurry around on the floor,
+it can avoid dangers, it
+can find food for itself,
+it can reproduce,
+and it can live for several years on its own,
+robots are nowhere near that point yet
+and I think it'll be great when we have even
+as much capability as a cockroach.
+I can not only imagine
+artificial intelligence
+evolving spontaneously on the internet
+but I can't tell you it
+hasn't happened already.
+Because...
+it wouldn't necessarily reveal itself to us.
+I think that the biggest
+risk is not that the AI will...
+develop a will of its own,
+but rather that it will follow the will
+of people that establish
+its utility function,
+its optimization function,
+and that optimization function,
+if it is...
+not well thought out,
+I mean even if it's relatively...
+if its intent is benign,
+it could have quite a bad outcome.
+For example, if you were...
+a hedge fund or a private
+equity fund and you said,
+well, all I want my Al to do is
+maximize the value of my portfolio,
+then...
+the Al could decide,
+well, the best way to do that
+is to short consumer stocks,
+go long defense stocks, and start a war.
+And that would obviously be quite bad.
+Such an attack would be much more prosaic
+than an invasion of these aliens
+in the SpaceX reception area.
+I think we're gonna get to the point where
+almost everything we do
+will be done by machines.
+And we'll still need people
+but if you ask the question
+about will there ever be...
+an artificial intelligent
+machine that makes movies?
+Absolutely yes.
+Will it be quite as good as yours?
+No one can even come close.
+Of course not.
+But actually I think almost everything we do,
+we find machines doing better,
+and the reason why that's the case
+is because machines learn faster
+than people can learn.
+But they cannot fall in love as we can.
+And will it be useful for
+machines to fall in love?
+Would we want to have machines
+that are just like people? I would say no.
+Honestly, if a dishwasher came to me and said
+"look, I'm falling in love
+with the refrigerator and,
+as a result, I have no
+time to wash the dishes".
+I wouldn't like that dishwasher.
+We're going to have a revolution
+not only in our technology,
+but in our theology.
+We don't even have a name for it
+but it's around the internet,
+it's around connectivity,
+it's around building machines to think for us
+and I think we're due for another shift
+in our morals, in our....
+in our definition of what
+it means to be human.
+We're right just at the beginning of that,
+and so you can see us trying to kind of...
+feel out and invent this new society
+and invent these new ideas
+of what's right and wrong.
+What can we depend on each other for...
+or what can we expect from each other?
+How much do we want to do that?
+So I think it's an incredibly creative time
+in human history... not just technologically
+but also morally and culturally.
+This room should know I'm here.
+I should be able to talk to it.
+It should be able to give
+me an answer verbally.
+I should ask where, for example,
+is a high-speed printer?
+Or where did I leave my keys?
+Or where's a book on this subject?
+And it should answer me with speech,
+with a hologram, with a display,
+in a very natural way.
+I should maybe use gestures and touch,
+and even smell and all my senses
+to interact in a very humanistic way
+with this technology around us.
+And once that technology
+comes out into our physical world
+and becomes embedded in our walls,
+in our desk, in our bodies,
+in our fingernails, in our cars,
+in our offices, in our homes,
+it should disappear and become invisible.
+Whereas electricity...
+there's a socket in the wall,
+you plug in, you get electricity.
+You don't care how it's made.
+It's not a complicated interface.
+It's invisible.
+The internet is yet to evolve to that goal
+I was hoping for of being invisible.
+What's interesting about the internet
+is what you're gonna build
+on top of it for you and for me.
+I call it the internet of me.
+It is a world where when you walk into a room
+the lights dim to your preference level.
+You may have music that starts up.
+It may even have complex
+protocols for having to interact
+with somebody else's internet of me.
+That's interesting,
+and the world that will emerge as a result,
+eventually you won't even need phones.
+The environment will be so wired that
+your experience will be brought to you.
+Your calls will be brought to you,
+your advertising, your content, your work...
+all of it will come with you.
+That's an internet of me.
+It is going to take a leap of thought,
+a leap of courage... societally
+for us to accept a generation
+that's always had an egotistical world.
+We tell children very often you have to
+play with others, you have to share,
+your worldview isn't unique.
+But when the world, the objects in it
+start to tell them that they are,
+that they're different, that's egotistical.
+But it will also be a magical world,
+one where the wave of a
+hand creates doors moving
+and objects changing position.
+Imagine a generation that's never known
+anything else but that.
+I deeply regret the fact
+that deep critical thinking
+and imaginative thinking,
+that creative thinking is lost.
+In my opinion, computers
+and in some sense the internet
+are the worst enemy
+of deep critical thinking.
+Youth of today are using machines
+to basically replace
+their examination
+of the things they're observing.
+They don't understand what they're looking at
+or what they're hearing
+or what they're learning.
+They depend upon the internet
+to tell them and decipher it.
+They look at numbers instead of ideas.
+They fail to understand concepts,
+and this is a problem.
+My hope would be there are still going to be
+the appeal of deep immersion in something,
+that through the school system
+we still subject our kids to,
+we can really to turn them onto its charms
+so they become intrinsically
+self-motivated to pursue it.
+Whether we use science or ancient Greek
+or philosophy,
+it's those tools that are important.
+Those are the things that people are
+gonna be able to use in the future.
+The actual information they learn in school
+won't be important because it'll be dwarfed
+by the information that's coming out
+on the internet every single day.
+Historians I think will also see
+an interesting thing.
+They'll probably call the time
+around now the Digital Dark Age.
+It will be very mysterious because
+a lot of things happened quickly
+but the records will all be lost.
+We don't have the handwritten letters
+like we have from, you know,
+the founders of the Constitution,
+The founding fathers.
+We have their letters with each other.
+We can see the sort of
+background conversation
+in creating the United States government.
+We don't have the equivalent
+for the background conversation
+in creating the internet
+because it was all done on email.
+There's a playful project called
+the Wikipedia Emergency Project
+that if there's ever going to be possibly
+a world changing event,
+a big volcanic eruption,
+Wikipedia volunteers are supposed to
+start printing out Wikipedia pages madly
+and storing the paper in places
+that their heirs could find it later.
+MWhat this scanner measures,
+it's an MRI scanner,
+and it measures magnetic resonance energy
+that's emanating from the brain.
+So it's really extra sensory.
+It's precise enough to tell us
+what activity is occurring
+in each little volume element
+the size of a peppercorn.
+When you read a sentence that says
+"There are two elephants
+walking across the savanna"
+a computer program can
+tell that the same thought
+is going on in your brain
+whether you're watching the video
+or reading the sentence.
+At a conceptual level it's the same.
+It's also the same for
+people across languages.
+There's a universality of
+the alphabet of human thoughts
+and it applies to the videos that Jack
+Gallant and his colleagues have found
+but also applies to spoken and written speech
+and it crosses languages.
+We have a vocabulary,
+the brain has a vocabulary
+and we're beginning to discover it.
+Right now we need this
+two million dollar machine
+that weighs 16,000 pounds,
+but you ask, in the future
+will some genius biophysicist
+invent a little cap or helmet that'll do it?
+I think that that's likely.
+The energy, the electromagnetic energy,
+is just sitting there. It's sitting there.
+So when you talk about telepathy...
+telepathy is communication across a distance.
+Well, we can already go a few millimeters
+and it's just a matter of time
+before we can go thousands of miles.
+You could essentially,
+in the not too distant
+future, tweet thoughts.
+So not type your little tweet, but think it,
+press a button
+and all your followers
+could potentially read it.
+Could you detect,
+this woman who is passing by
+and spots you, is just about
+to fall in love with you?
+Now that would be an innovation.
+That would be the...
+the killer application I guess you would say.
+Well, I try not to make predictions
+about anything less than two trillion
+years from now for good reasons.
+One is that no one will be able
+to know if I'm wrong.
+But that's one of the wonderful things
+about the future is you don't
+know where it's gonna go.
+And the internet is, like most
+results in science, out of control.
+And if you think about predictions
+about the future as done in the past,
+they always miss the important stuff.
+In fact, most science fiction
+missed the most important thing
+about the present world,
+which is the internet itself.
+They had flying cars,
+they had rocket ships.
+None of that exists,
+but the internet governs our lives today.
+It used to be that when
+you communicated with someone
+the person you were communicating with
+was as important as the information.
+Now on the internet,
+the person isn't important at all.
+In fact it was developed so that
+scientists could communicate
+scientists like me could
+communicate with each other
+without knowing where the other person
+was or even who the other person was.
+There's a famous cartoon from
+The New Yorker which says
+"On the internet no one
+knows if you're a dog".
+And in the future you won't know
+if you're communicating with dogs
+or robots or people, and it won't matter.
+But becoming your own filter
+will be the challenge of the future.
+Because the filter isn't provided with you.
+There's no controls on the internet.
+No matter what governments do
+or no matter what industries do,
+the internet is gonna propagate...
+out of control
+and people will have to
+be their own controls.
+I think in the future, one next step
+from computation to communication
+will be to sensing and remote sensing.
+And mind reading via the internet?
+One of those sensors will
+be brain imaging sensors.
+And you will transmit thoughts?
+The two of you.
+Will our children's children's children
+need the companionship of humans
+or will they have evolved in a world
+where that's not important?
+It sounds awful, doesn't it?
+But maybe it'll be fine.
+Maybe the companionship of robots,
+maybe the companionship of an
+intelligent internet will be sufficient.
+Who am I to say?
+# I'm standin' on a corner shovel in my hand
+I'm lookin' for a woman or a workin' man #
+# Honey, let me be your salty dog
+Oh, let me be your salty dog #
+# I won't be your man at all
+Honey, let me be your salty dog #
+# Let me be your salty dog
+I won't be your man at all #
+# Honey, let me be your salty dog #
+# Well, let me be your salty dog
+I won't be your man at all #
+# Honey, let me be your salty dog #
+I want you do some pickin'
+'cause I like that.

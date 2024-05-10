@@ -1,0 +1,1485 @@
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+We weigh 251 tons.
+Just over optimal
+with a 1.5g buffet margin.
+1.6 even.
+- Jeanne and your meal.
+- I'll let her in.
+Thanks.
+We're serving breakfast.
+It may get rocky. Let them know.
+Ok, I'll get your meal.
+Did you rest?
+Sir!
+Please sit down, sir.
+Still Swiss control?
+They'll soon hand us over to Paris.
+On turnaround this week?
+New Delhi, then Bali right after.
+Any room in your bags?
+- Jeanne again.
+- I'll let her in.
+That's the lot.
+An iPhone video,
+no flight recorder on board.
+It looks like the tail rotor went.
+Not just that.
+Listen.
+A transmission gear is too slow.
+On a Dauphin, it should be at 1730.
+I hear it at 1680.
+You can hear a 50 Hz difference?
+I see it too.
+Here, this line at 1680 Hz.
+Pitch that part 300% to bass.
+All I hear is the tail rotor.
+I'm not sure.
+We need a test flight.
+The same phone, the same distance.
+Mathieu, I've seen this before.
+The video is clear.
+Sorry, but I really think
+we should do a test flight.
+Mathieu, believe me,
+you'll end up at the same conclusion.
+If you say so.
+We'll never know.
+Want Balsan to take over?
+Right...
+We need the 800 FCOM.
+The updated one.
+The whole avionic system.
+The go-team's due at 3 pm.
+Call the airline.
+Get the recorder serial numbers.
+I need to cancel, we have a crash.
+We'll free the lab.
+Ok, I'll hold.
+Yes, I'll hold.
+An Atrian 800 went down.
+300 passengers.
+When?
+Air traffic just informed us.
+All technical data.
+Plane, engine, the lot.
+Pollock's in charge.
+Who's going?
+Rénier wants a CVR guy
+and a wreck tech.
+Yes.
+We need to work
+with your technical adviser.
+The go-team flies out ASAP.
+Balsan, get your things.
+Sorry, but you usually take me.
+Balsan is as capable.
+If it's about earlier...
+I can't deal with your misgivings now.
+The case bag.
+- What?
+- The bag.
+We need it.
+Heard anything?
+I've been side-lined
+Tonight is off?
+Don't chicken out.
+I don't know what time I'll finish.
+I've got everyone together,
+you have to come.
+No one will come after the crash.
+They'll all be after information.
+Make an effort, for my sake.
+Shit...
+- What's up?
+- Hold on.
+Mathieu?
+Fuck...
+Mathieu?
+- What's wrong?
+- Nothing.
+Are you coming?
+If you want,
+but there'll be no one there.
+They act normal,
+but they're thinking about the crash.
+I'm not on it.
+On what?
+The investigation.
+A huge case and I'm not on it.
+I'm no better off.
+If it's technical, Atrian is doomed,
+with me and half this room.
+Welcome to the Titanic.
+Xavier!
+- Ok?
+- Fine, and you?
+Pegase is securing CDG's network?
+We're pleased, it's a big job.
+Your single-fibre network
+is awesome. It should be standard.
+Lighter aircraft
+means lower fuel consumption.
+Let's do lunch and talk.
+Next week, after Montreal.
+- I'll call you.
+- Ok.
+He used to hate you.
+They all want to give me their CVs now.
+What are you two plotting?
+I was asking how you got him here.
+- Ok?
+- Yes.
+- When d'you start with Varins?
+- Next month.
+I'm so pleased.
+Thanks again.
+Just one call.
+How did the agency react?
+Upset to see you in the private sector?
+They'll recover.
+Don't be modest,
+you're their best element.
+I'll need to work hard.
+Varins is demanding.
+- No, you'll be fine.
+- I hope so.
+I'm organizing a cocktail party
+for gender equality.
+Could the Entrepreneurs help?
+- Want me to ask?
+- Please.
+Always after favours...
+Stop it.
+I'm kidding. I'll ask.
+I have to see the Safran guys.
+I'll call you.
+Deal.
+- Finished mingling?
+- Yes.
+Well?
+Limited dispersion.
+So, no explosion.
+Got the ACARS and trajectory data?
+Yes, a sudden nose-dive.
+And traffic control?
+The pilots tried to climb
+before losing contact.
+Could it be technical?
+Not for me. Our certification showed
+the 800 is a Rolls.
+Not one major breakdown yet.
+Nothing new on the Atrian 800 crash
+in the Alps this morning.
+With the gendarmes
+at work all day in the mountains,
+BEA experts
+are on site
+to localize the black boxes. Nothing...
+Don't brood. You're not on it, ok.
+I told you before,
+don't get Pollock's back up.
+So I just shut up?
+We aren't judged on skills alone.
+You know that.
+Just be more diplomatic.
+It's green.
+I learned that in a coaching seminar.
+"Boost a distressed co-worker."
+You have no mercy.
+None at all.
+The European Airlines Atrian 800
+was carrying
+300 passengers and 16 crew.
+There are no survivors.
+Flight EA024 took off
+at 1:40 am from Dubai
+with a planned arrival in Paris at 8:50.
+But shortly before 8 am,
+the plane plummeted and crashed
+near Bellevaux in the Alps
+for reasons unknown.
+A rescue operation was launched
+after the loss of radar echo...
+European Airlines Atrian
+Manslaughter
+Victor Pollock, BEA investigator.
+It's 7:10 pm on October 10, 2020.
+In the presence of a police officer,
+we'll remove
+and open the CVR
+from the October 8 crash
+of the Atrian 800
+registered FHLBN,
+operated by European Airlines.
+Begin.
+It's good, it's exploitable.
+Land the plane at 800 m
+with low auto-brake.
+Reverse on my signal.
+Reverse thrust!
+On a wet runway,
+the landing and late reverse
+led to a runway excursion.
+The crew should have tried extra thrust
+before wheel contact.
+A quick simulation
+to accuse an absent pilot...
+It's a bit too easy.
+We reproduced the whole incident.
+It's nothing like being in flight.
+This may be tough, Mr Roussin,
+but your colleague lied
+when he blamed the plane.
+Keep accusing the pilots
+and planes will be flown like drones.
+So you say.
+We're judged by people like you.
+Frustrated pilots.
+Recommendation:
+review landing on short runways.
+Mathieu, I must see you.
+It's urgent.
+Sorry, is Balsan alone?
+Pollock still isn't here.
+No one has heard from him all morning.
+Yes, come in.
+I'll send a copy of the CVR,
+but we had to talk first.
+There were leaks with your predecessor.
+I need to be sure our information
+will remain confidential.
+Very good.
+Mathieu, we have a problem.
+Pollock can't be found.
+Balsan is stuck on the CVR.
+The sound is mangled.
+Help him.
+Ok. What did the FDR show?
+It's almost useless.
+We found some incoherent flight orders
+in the final minutes,
+but we don't know why.
+- The minister's deputy.
+- Put him on.
+I know it's urgent, Antoine,
+but I need time.
+We're analysing the CVR.
+No, 3 pm is too soon.
+Ok, 7 pm.
+I promise.
+I'll keep you posted.
+Press point at 7.
+Make the CVR talk.
+I need the full chain of events.
+We've only processed the first hour.
+The cockpit mic is dirty.
+Stop.
+- What?
+- A buzz.
+Unplug that.
+We weigh 251 tons.
+Just over optimal
+with a 1.5g buffet margin.
+1.6 even.
+- Jeanne and your meal.
+- I'll let her in.
+We're serving breakfast.
+It may get rocky. Let them know.
+Ok, I'll get your meal.
+Sooner than I thought. Seatbelt time.
+See those cbs on the right?
+We were right to avoid them.
+It looks clear ahead.
+The CDG update.
+Westerly landing, visibility 3000 m,
+rain, clouds at 800 feet, 8° C...
+Static. They're in a cloud.
+- Where do you live?
+- Just north of CDG.
+22° today in Biarritz.
+You live there?
+The engine speed has changed.
+My wife's Basque and I surf.
+Still with Swiss control?
+Their earphones are off.
+On turnaround this week?
+New Delhi, then Bali right after.
+Any room in your bags?
+- Jeanne again.
+- I'll let her in.
+We're gonna crash!
+Switch to RX.
+Give me 200 to 1800 Hz.
+Lower the engine noise.
+Let's bring the voices out.
+Let me try something.
+Can you stop?
+Your leg.
+Thanks.
+...akbar!
+Allahu akbar!
+At the end,
+it could be the pilot or the co.
+We can't determine what they did.
+All the 800 controls are touch-screen.
+How did the guy get in?
+The sound is terrible.
+We need more time.
+I know,
+but I can't delay the press point.
+Can you do it?
+Yes.
+Switch to iZotope RX at 7'51.
+The limited spread of debris
+shows the plane was intact
+prior to impact.
+The initial analysis of the fuselage
+shows no sign of explosives.
+Moreover, the voice recorder shows
+a passenger
+entered the cockpit.
+The pilots then fought with him.
+Here, please.
+Yes?
+Caroline Delmas, Mediapart.
+How could a passenger enter the cockpit
+with three cameras over the door?
+He apparently used a stewardess
+to gain entrance.
+What allows you to assert that?
+The CVR analysis.
+Our investigator, Mathieu Vasseur,
+will present the initial CVR findings.
+Hello.
+On the recording,
+at 7:48 am Paris time,
+we hear the voice of the hostess
+entering the cockpit
+with the first meal tray.
+She returns one minute 20 seconds later
+and rings the doorbell.
+Probably with the second meal.
+The pilots identify her
+and let her in.
+The door remains open
+and, over the central mic,
+we hear hurried footsteps
+approaching the cockpit.
+It's clearly not the hostess.
+That indicates an intrusion
+into the cockpit.
+Shortly before, we have isolated
+the sound
+of the pilots' lavatory latch.
+This lavatory...
+is here.
+The man hid in there
+before entering the cockpit.
+The hostess should have checked
+before ringing the bell.
+Those are our deductions
+after the audio analysis.
+I hope I've answered your questions.
+Thank you.
+We subsequently hear
+overspeed and imminent impact alarms.
+Antoine Istier, Europe 1.
+Is it a terrorist attack?
+In all likelihood.
+But the judicial inquiry
+is still underway.
+The full transcript of the CVR
+will be the subject of a report
+in the coming weeks.
+Thank you.
+Thanks, Mathieu.
+Have you identified the terrorist?
+I can say no more.
+Mr Vasseur, Caroline Delmas, Mediapart.
+One question.
+Sorry, no comment.
+Forgive me...
+Isn't it a little easy,
+blaming the hostess's negligence?
+The CVR shows it. I don't theorize,
+I analyse facts.
+Excuse me.
+A lead in the recent Atrian 800 crash
+in the Alps.
+Reliable sources
+claim a radical Islamist
+was on the passenger manifest.
+Moqtada Sualazi, an Egyptian aged 26.
+After analysing the black boxes,
+the BEA investigators revealed
+that the plane crashed
+after a passenger entered the cockpit.
+It's too early...
+Mathieu!
+Fine work yesterday.
+Thank you.
+After that excellent job, I want you
+to head the investigation.
+Thank you very much, sir.
+Excuse me...
+Any news of Pollock?
+Still nothing.
+Victor can be hard to reach at times,
+but absent in this storm...
+I don't get it.
+I can't wait for him to show up.
+Finish the report for me.
+Of course.
+Captain:
+What's that noise?
+Other sounds:
+Change in engine speed / Interference
+It's Julien. You're replacing Pollock
+on the Dubai-Paris?
+Yes.
+A victim's husband contacted us.
+She called him just before the crash.
+Interested?
+I'm on the transcript.
+Try Balsan.
+He's busy with the Atrian engineers.
+Ok, I'll take it.
+During a search, the Egyptian police
+found Jihadi propaganda
+on his computer.
+Controversy reigns as Paris asks
+how the Emirate authorities
+allowed him to board.
+Honey, I'm on the plane,
+I don't know what's going on.
+It's chaos, everyone's yelling.
+I can see mountains.
+I love you.
+I love you, you hear?
+Tell the girls I love them.
+I love you all so much.
+I love you.
+She'd gone to Dubai
+for a job interview.
+If it worked out,
+we planned to move there.
+When she called,
+I was busy at work.
+Too busy to speak to her.
+Forgive me, Mr Reynal,
+but I need the original message.
+I'll have to borrow your phone,
+just overnight.
+One new message.
+October 8, at 7:56 am.
+Honey, I'm on the plane,
+I don't know what's going on.
+It's chaos, everyone's yelling.
+One new message.
+October 8,
+at 7:56 am.
+Honey, I'm...
+Time of crash, CET, 07:53 am.
+Three minutes?
+Yes.
+Remember Germanwings.
+Between Civil Aviation, the airline,
+Flight Radar and others,
+no one agreed on the time
+by up to eight minutes.
+I know, but there's this too.
+Listen.
+Honey,
+I'm on the plane,
+I don't know what's going on.
+It's chaos...
+Hear the announcement tone?
+It's from the cockpit.
+But the pilot's voice isn't on the CVR.
+You mean you can't hear it.
+The audio is bad.
+Yes...
+Hold on, one last thing.
+Here.
+Emergency d...
+Emergency d...
+I hear "emergency descent".
+Like for a technical problem.
+Play it again.
+I hear "Emergency",
+not "descent".
+Checked European Airlines'
+security protocol?
+In a cockpit intrusion,
+the code is "Emergency Delta".
+The "d" you hear could be "Delta".
+Carry on with the transcript.
+Last passenger evacuated.
+58 seconds.
+Congratulations,
+your plane is certified.
+Thank you.
+Thank you all.
+- Jeanne again.
+- I'll let her in.
+Are you making a speech?
+It's informal.
+Dorval will say a few words.
+Are you ok?
+Yes.
+You can relax, you know.
+Have some champagne,
+chat to people.
+Come and meet Varins.
+Claude...
+Meet Mathieu, my husband.
+Hello.
+Your speech yesterday
+was very clear and precise.
+Thank you.
+I'm not head-hunting a couple,
+but if you tire of the BEA,
+join us at Atrian.
+You'll never persuade him.
+Was working at the BEA
+a vocation?
+He wanted to be a pilot.
+Yes.
+But with my eyesight...
+I specialized in acoustics at the ENAC.
+Flight recorders
+fascinated me and...
+There you go.
+Fascinating but exacting too,
+to obtain answers.
+Which you did.
+Bravo. At a time like this,
+the families and everyone need them.
+Let's meet the Safran managers
+you'll work with.
+- Excuse us.
+- Certainly.
+- Hello?
+- It's Samir.
+The passenger data's on the server.
+Anything interesting?
+A few Facebook photos
+and videos during the flight.
+Thanks.
+Hello, everyone.
+Well done, all of you,
+for this certification.
+I'd like to salute Noémie Vasseur.
+This is her final certification as,
+unfortunately for us,
+she's leaving this month,
+lured away by Atrian.
+Thank you for your commitment
+and passion.
+I'm speaking for everyone here
+at the agency
+when I say we'll miss you.
+Thank you.
+Where are you?
+Sorry, emergency at work
+We weigh 251 tons.
+Just over optimal
+with a 1.5g buffet margin.
+1.6 even.
+- Jeanne and your meal.
+- I'll let her in.
+We're serving breakfast.
+It may get rocky. Let them know.
+Ok. I'll get your meal.
+Sir!
+Please sit down, sir.
+Sir...
+Sir.
+Sit down, please.
+Sir!
+Don't over-interpret things.
+You tend to.
+You're diligent,
+but all the filtering and equalizing
+makes a recording say anything.
+After 20 years on CVRs,
+believe me, the best filter is the ear.
+And about the meal trolley?
+Do you really think a trolley
+can stop a madman hijacking a plane?
+No, but...
+Focus on what we really hear.
+Report by Monday?
+Yes.
+Excuse me...
+I need Pollock's input.
+I can't complete a report like this.
+You'll have to.
+He's officially missing.
+The police are investigating.
+Anything's possible.
+I admit we're worried.
+A Turkish company applied.
+Serious but, with the crash,
+the Germans
+are wary.
+You've decided?
+A work group is handling it.
+What's up?
+Doubts about the crash.
+Inconsistencies...
+- Inconsistencies?
+- It's awkward like this.
+There's a problem with the CVR.
+What kind of problem?
+I'll tell you.
+I'll tell you.
+It's a big case.
+Keep your head this time.
+Victor Pollock. Leave a message.
+How did he get the case?
+He heard phantom sounds again.
+That you can't hear, huh?
+You'll see.
+It's like the Cessna again.
+What's that?
+The Bourget Falcon 20.
+The pilot and the tower.
+Limited bandwidth is tough.
+- What is it?
+- Tell me,
+when you listened to the CVR
+with Pollock,
+did you notice anything odd?
+No, nothing special.
+When did you finish?
+Midnight. He stayed.
+Why?
+You finished before he did?
+Pollock was anxious to carry on.
+Are you done? I need to get on.
+I hear a thud on the first call.
+Probably a bird.
+Then the engine surges fast,
+beyond its limit, up to 200%,
+before exploding.
+The engineer will deny it
+but it's happened before with that plane.
+Continue
+for 50 metres.
+You have reached your destination.
+The file is empty
+Basement speakers
+Down, boy.
+Down.
+Looking for something?
+Sorry?
+Looking for something?
+Yes.
+Victor Pollock. He lives here?
+Yes. And?
+I work with him.
+I rang, but there's no reply.
+Have you seen him?
+Not recently.
+Your colleagues came yesterday.
+He wasn't here.
+Ok.
+Ok, thank you.
+CVR Opening and Analysis
+- Hello?
+-
+Caroline Delmas, Mediapart.
+We met at the press point.
+Who gave you my number?
+You know the Atrian 800
+has automation issues?
+I can't talk to the press.
+With the Bourget salon coming up,
+a fault would look bad.
+Are you still there?
+I have to go. Goodbye.
+A new coup for Pegase Security
+The CEO, Xavier Renaud,
+is a leader in aeronautics.
+Pegase is specialized
+in civil aviation security.
+Renaud signed a lucrative deal
+with Atrian...
+Here.
+The flight reports.
+What're you after?
+Look, another.
+Paris-Washington,
+a control surface problem.
+Three in six months.
+Jolts and lagging reported each time.
+Maintenance reports?
+I brought them.
+Here.
+Nothing to report
+Could the 800 have a control problem?
+I don't think so.
+Is the MHD an anti-stalling system?
+It lowers the nose if it pitches up.
+How would a MHD problem look?
+- Can the pilots override it?
+- In theory, no.
+No reason to.
+Tested the crash one?
+Why? We know what happened.
+- Received it?
+- Not yet.
+We need to check it when you do.
+Samir...
+Samir.
+Sorry to ask,
+but don't tell Rénier yet.
+Don't screw up.
+Atrian 800 technical incident
+Captain: Alain Roussin
+Mr Roussin?
+Mr Roussin!
+Hello, Mathieu Vasseur.
+Remember me?
+The EM315 runway excursion simulation.
+I have a flight.
+I have some questions
+about the Dubai-Paris case.
+I don't have time.
+I understand you not wanting to answer,
+but I need your help.
+You had a control surface problem
+on the 800?
+Could the MHD be faulty?
+Why ask me that?
+Ask Atrian.
+The BEA gets on well with them.
+I have to be in my cockpit
+in five minutes.
+You talked more to defend a colleague.
+Now 300 people have died.
+It's a dumb Atrian system.
+The machine pilots the pilot.
+I told you that.
+I'm ready to listen now.
+Give me five minutes.
+The plane was marketed too soon,
+to counter the competition.
+They turned a blind eye
+to the auto-pilot system?
+Qatar and India had signed.
+The penalties for delay were astronomic.
+But the certification commission
+ran checks.
+You're that naive?
+The pride of European aviation.
+Atrian's influence is huge.
+Heard of Claude Varins?
+He has people on the commission.
+Alain!
+The crew is waiting.
+I have to go.
+We need to talk.
+I'll be in touch.
+They want me next week.
+They'll exploit me to the last minute.
+What is it now?
+A study group on drone traffic.
+Heard of control surface problems
+on the 800?
+We had pilot reports six months ago.
+Certification saw nothing?
+Why? For your investigation?
+I'd just like an answer.
+It's absurd, Mathieu.
+You think the plane has a problem?
+There were latency problems,
+but they were resolved.
+So why do the pilots say
+the MHD took over the plane?
+You know that's pure fantasy.
+It's just an assistance system.
+But which pilots do you mean?
+Those opposed to automation
+and cockpit cameras?
+They'll say anything
+to keep their old habits.
+You really think the agency
+would approve a faulty plane?
+We did our job and Atrian complied.
+C'mon, drive.
+I forgot how close you are.
+Meaning what?
+There's a report on those tests?
+Forget I mentioned it.
+It's confidential.
+There was a report.
+It's confidential, ok.
+You're a drag. Now drive.
+Drive, I said!
+You won't give up?
+I need to test the MHD.
+The facts are confirmed.
+They're your conclusions.
+I know.
+The MHD
+is in a Defence Ministry warehouse.
+Why Defence?
+It's sensitive.
+They've sealed the plane's avionics.
+You could order them to return the MHD.
+I won't do that
+without tangible evidence.
+Return to your other files.
+How's the Dauphin crash going?
+I'm still waiting.
+This is Alain Roussin.
+Please leave a message.
+This is Mathieu Vasseur again.
+You said we could meet.
+I need to talk to you.
+Please call me.
+This is Alain Roussin...
+Stop calling me!
+I don't want to see you.
+I don't understand.
+Stop calling me, ok!
+I thought we agreed...
+I keep hearing about you.
+You harassed a pilot
+and questioned the 800's reliability?
+Who said that?
+Noémie?
+No, European's sales manager.
+You think Noémie and I talk about you?
+Trying to get fired?
+Noémie's new job is sensitive.
+She needs your support,
+not conspiracy theories.
+I say that as a friend.
+Don't shoot yourself in the foot.
+Where's that from?
+3 years I've worked with Pollock,
+you never said you knew him.
+We met in a work group.
+Working on what?
+A distress beacon to permanently locate
+a plane in flight.
+Why show me this?
+I don't know.
+Pollock vanished
+two days after the crash, it's weird.
+And I'm a suspect?
+- I didn't say that.
+- This is absurd.
+What is this?
+I get on too well with Noémie?
+You need to relax.
+You're getting worked up.
+We know what happened on board.
+Accept it.
+Are you ok?
+I have to go.
+And now yet another day
+marked by emotion,
+10 days after the Atrian 800 attack.
+The victims' families
+took part in a private ceremony
+near the crash site.
+They were accompanied to the site
+by gendarmes
+and spoke to official representatives,
+as well as the examining magistrate.
+Reporters were kept to one side
+and were given no new information.
+The judicial authorities...
+XAVIER
+Dinner confirmed with Varins tomorrow.
+Dinner out would do us good.
+- We're a bit on edge.
+- Mostly you.
+True.
+Dinner where?
+How about Matsuda?
+It's been ages and you like it.
+Yes, why not?
+Tomorrow evening?
+I can't tomorrow.
+I'll finish late.
+The drone report with Isabelle.
+Thursday if you want.
+Thursday then. Great.
+Test flight
+Copy file to flash drive?
+How did you get this?
+You wanted evidence.
+You'd better be right.
+Atrian named Solignac project head.
+They just announced it.
+Claude, what's going on?
+- Why name Solignac?
+- Things have changed.
+What do you mean? I don't understand.
+You can only blame yourself.
+You really disappoint me.
+I have to go.
+You're wanted in the Vauban room.
+We wished to talk
+about a subject that puts us
+in a tricky position.
+I had a very unpleasant call
+from Atrian's CEO.
+He claims we leaked information
+about one of their planes.
+You know what I mean?
+No.
+A warrant has been filed
+on the Dubai-Paris 800.
+It was issued by the BEA,
+based on the initial report,
+which has an electronic signature.
+It's from your laptop.
+Do you see how serious this is?
+Those tests were confidential.
+You broke your non-disclosure agreement.
+It's gross misconduct.
+You're suspended.
+I'm not behind the leak.
+You can explain that later
+in a disciplinary hearing.
+Please hand over your laptop.
+You can't...
+That'll be all, Noémie.
+Dorval suspended me today
+for gross misconduct.
+How could you do that to me?
+I'm sorry.
+- It shouldn't have...
+- You realize
+you'll get me fired.
+I didn't know it would leak.
+I needed the document.
+Why? It was an attack.
+- You heard that first.
+- I didn't.
+I heard a ton of incoherent bullshit.
+They stuffed the guy's laptop
+with Salafist videos.
+That's what's going on.
+- Fuck!
+- You're mad.
+I'm mad?
+Your dinner with Varins...
+Why do you lie?
+- What?
+- Why didn't you tell me?
+To avoid a fit of paranoia like this.
+Don't you realize?
+I was scared of a scandal,
+scared for me, my job.
+Just listen to you!
+Forget the job
+and ask some real questions!
+I did!
+Atrian got the plane certified
+before it was ready!
+Maybe you turned a blind eye,
+maybe you helped...
+You're sick.
+We owe the families the truth!
+300 dead!
+Forget the families!
+This is about you.
+Only your mad ideas count!
+Mathieu, are you ok?
+Are you ok?
+Are you ready?
+What for?
+The test. Let's go.
+No counter-order.
+There must be. Check.
+Still nothing.
+Make the plane stall.
+It's working.
+- As per normal.
+- Again.
+Redo the first test.
+Again.
+Find the problem.
+- Mathieu, I think...
+- Let's find it.
+It's not normal.
+Try again.
+Try again, I said.
+Let me do it.
+That's enough, Mathieu.
+Wait.
+Wait.
+Impossible.
+It's the wrong box.
+The wrong box.
+Samir, turn it off.
+Wait!
+We're gonna crash!
+Allahu akbar!
+We're gonna crash!
+Allahu akbar!
+Hi, you've reached Noémie Vasseur.
+Leave a message.
+Four weeks before opening,
+the Bourget
+aeronautics and space salon
+looks exceptional. 240 exhibitors,
+150 civilian and military craft
+will perform...
+You should go out a bit.
+Don't stay in all day.
+Can you take Théo
+to the park?
+Maybe.
+The order books should be full,
+making Atrian a market leader.
+Any news of the BEA?
+I'm summoned Thursday.
+Explain things.
+Say what you went through.
+- The endless pressure...
+- Stop.
+I screwed up.
+I screwed up, it's that simple.
+Know what? He was right.
+Who was?
+Him.
+A useless pilot.
+A useless acoustician.
+Mr Vasseur?
+Yes.
+Hello, I'm Laura Saunier.
+Philippe Reynal gave me your number.
+My son was on the Dubai-Paris flight.
+His name was Lucas.
+I...
+I need to understand what happened.
+Sorry, ma'am,
+I'm no longer on the investigation.
+Mr Reynal told me you're a good man.
+I'd like to know if he realized...
+that he was going to die.
+My son was in seat...
+I can't hear you, ma'am.
+Uncle!
+Why's it flying on its own?
+- What's that noise?
+- No idea...
+What's that noise?
+No idea. Interference.
+I can't keep my phones on.
+What made you change your mind?
+Come in.
+Come on in.
+- How are you?
+- Fine.
+I don't have long,
+an Air China delegation is due.
+Want a drink?
+No, thanks.
+Have a seat.
+How are you?
+What is it?
+I need your advice.
+What about?
+Your firm handles computer security
+for Atrian's planes?
+Yes.
+How is the 800 better protected
+against hacking?
+Why?
+As you know,
+piloting and communication systems
+are hard to make secure.
+Could we imagine someone
+hacking into the navigation system?
+It's unlikely.
+Data exchange and onboard wifi
+cause new flaws.
+Couldn't hackers exploit them?
+We work to remedy that.
+Could some geek enter the pilot system
+via the in-flight entertainment?
+Impossible,
+the two are physically separate.
+Passenger cabin data on one side,
+the cockpit on the other.
+Separate networks.
+At the ENAC reception,
+didn't you vaunt a single-fibre network?
+Networks can be separate
+on the same cable.
+Don't you know about computing?
+You think the flight was hacked?
+Yes.
+And that, as network chief,
+you knew in real time.
+First, an auto-pilot problem,
+now hacking, what next?
+A new theory every day?
+Your job is to analyse recordings,
+not to make stuff up.
+I believe Pollock falsified the CVR.
+He was alone from midnight to 2 am.
+And you asked him to do it.
+What can I say?
+You're pathetic.
+I have to work now.
+Xavier Renaud
+ignored a security flaw?
+Altering a line of code costs a million
+and takes a year to be certified,
+so yes.
+No one could delay the market launch.
+Maybe,
+but there's no proof of a fault.
+We've only seen one case
+of plane hacking.
+A guy was arrested on landing in Warsaw.
+He said he altered airspeed
+via the in-flight entertainment.
+- Got his name?
+- Hold on.
+Apparently, it's...
+David Keller.
+These guys love to use their real names.
+Flights interrupted in Vienna
+Computing breakdown at Vienna airport
+We now know more about the incident.
+Austrian police arrested
+a French citizen at the airport.
+David Keller,
+a computer security technician,
+claimed to have hacked a plane before.
+This looks huge.
+Keller was fired
+after three months at Pegase.
+Now he's vanished.
+No sign of him since last June.
+Caroline, I'll call you back.
+What's that noise?
+No idea.
+Interference.
+I can't keep my phones on.
+He wanted publicity?
+To show the fault, not wreck the plane.
+The MHD wasn't faulty,
+but it couldn't handle
+contradictory orders
+from both Keller and the pilots.
+You can't prove it.
+We have the photo of Keller onboard.
+You see Keller.
+He isn't on the manifest.
+I know. He must have been erased.
+Are you on my side?
+You came looking for me.
+Will you do the article?
+CEO's Cessna found
+in the English Channel
+At the time,
+a whistle-blower contacted a colleague.
+The informer claimed,
+with documents,
+that the engine fractured.
+But when the wreckage was found,
+the engine was intact.
+The investigation showed the pilot
+overdid the trim.
+My colleague is categorical.
+The documents
+had to come from the BEA.
+It was you?
+Am I wrong?
+I heard the propeller shaft snap.
+You thought you did,
+but you were wrong.
+I couldn't wait
+until they found the wreckage,
+with other planes flying.
+But you were wrong.
+You should have told me.
+How can I trust you now?
+Don't drop me. I know I'm right.
+Sorry, Mathieu.
+You're a risk.
+Count me out.
+Wait.
+Noémie, please.
+Just give me five minutes.
+Blame me. Say I stole the document.
+Say it was my fault.
+I'll talk to them.
+They'll reinstate you.
+You have to help.
+I have no other solution.
+I'll be fired, no one believes me.
+But I know the truth about the crash.
+It's all I have left.
+All I have.
+If you go back, they'll believe you.
+Wait.
+I was wrong. It was on the CVR.
+The interference, the pilots' phones...
+It was a hacking job, see.
+- Listen to me.
+- Let go!
+- Listen...
+- Get out of my life!
+Mathieu, this is a difficult decision.
+You know how I appreciate your work.
+You also know a collective approach
+is crucial here.
+You ignored that in recent weeks
+and followed your instincts,
+not for the first time.
+You've gone too far.
+I'll have to ask for your transfer.
+Excuse me, I need
+the Dauphin crash data.
+I can't access it.
+Sorry, I need all your files.
+Modified: 11/10/2020 5:12 am
+- You worked on it?
+- I can't open it.
+Only Pollock and you could.
+I'm in a hurry.
+I'll collect the files and send them.
+Ok. Thanks.
+Searching...
+In 2 km, bear right
+to join the A86.
+Had any news?
+Sorry?
+Of the hearing.
+It meets in ten days.
+My offer still stands.
+I'd love you to join us.
+Thank you. I'm touched.
+I'll think it over.
+Seen Mathieu?
+How's he doing?
+Badly.
+It's awful.
+He got so wound up
+over the investigation.
+He was totally obsessed
+about the black box.
+God knows what he heard.
+Exactly, it was inaudible.
+The pilots took off their phones.
+How did you know that?
+About the headphones.
+It's in the report.
+The BEA already published it?
+No, Atrian got it early.
+Excuse me.
+The Dubai-Paris manifest.
+Shall I give it to Balsan tomorrow?
+Who requested it?
+Mathieu.
+Give it to me.
+We had the manifest.
+He wanted the boarding copy.
+Did he say why?
+Attention to detail.
+You know him.
+Thank you.
+In 50 metres,
+turn right.
+Continue
+for 170 metres.
+Turn right.
+Continue 110 metres.
+Continue 90 metres.
+It's me. I have to see you.
+Meet me at the apartment.
+It's important.
+Can you hear me?
+Yes.
+Listen, I don't know but...
+maybe I was too hasty.
+Something's weird.
+I need to talk to you.
+Why aren't you speaking?
+Where are you?
+Don't worry.
+I'll see you in an hour, ok?
+I love you.
+Thank you.
+Need a ride?
+I'll get a cab.
+Sure?
+Yes, really.
+Continue 90 metres.
+Continue 50 metres.
+Continue 10 metres.
+You have reached your destination.
+Work station
+- Jeanne and your meal.
+- I'll let her in.
+We're serving breakfast.
+It may get rocky. Let them know.
+Ok, I'll get your meal.
+Sooner than I thought. Seatbelt time.
+See those cbs on the right?
+We were right to avoid them.
+It looks clear ahead.
+The CDG update.
+Westerly landing, visibility 3000 m,
+rain, clouds at 800 feet, 8° C
+and 1014 QNH.
+Stuck at home with the kids again.
+- Where do you live?
+- Just north of CDG.
+22° today in Biarritz.
+You live there? Not too far?
+My wife's Basque and I surf.
+We had no choice.
+What's that noise?
+No idea. Interference.
+I can't keep my phones on.
+What was that?
+I didn't see.
+The route changed.
+Is the FMS screwed?
+AP off.
+Taking the controls.
+What is this shit?
+The AP is back on alone.
+We're descending.
+I know. Are you doing it?
+No, I'm not.
+Let me try.
+It's not reacting!
+I'll override the FCC.
+The system isn't reacting.
+Mountains below.
+The limit's at 15 000.
+Pull with me.
+- Pull!
+- I am pulling!
+Nothing's reacting!
+Cabin crew, emergency descent.
+Someone has taken control.
+They're piloting, not us.
+We're gonna crash!
+Mathieu,
+I suppose you're watching.
+It means I was right about you.
+It also means no one will find me.
+So go public with what follows.
+My name is Victor Pollock.
+I spent 20 years as a BEA analyst.
+A few years ago, Xavier Renaud,
+CEO of Pegase Security, contacted me.
+He wanted advance information
+to fix minor faults on Atrian planes.
+He paid well.
+I needed money.
+I didn't see it as corruption,
+just as a way to avoid bureaucracy.
+But once we knew each other better,
+he asked for more.
+I had to correct certain conclusions,
+focus investigations on human factors.
+I was trapped.
+Then the 800 crashed.
+This time, he asked me
+to alter the black boxes.
+I refused,
+but he threatened to destroy me.
+I don't seek forgiveness.
+I probably deserve what awaits me.
+But the man behind it must be exposed.
+Mathieu,
+I didn't take you to the crash
+as you might have found something.
+I know how good you are.
+And I'm recording this now
+because I trust you.
+Basement - Lab
+The basement.
+Basement speakers
+- Pull!
+- I am pulling!
+Nothing's reacting!
+Cabin crew, emergency descent.
+Turn around.
+Turn around.
+Jesus!
+Fuck!
+Noémie!
+Are you ok?
+I'm good.
+- Attending my speech?
+- Too busy.
+I have the Thales conference at 6.
+Of course.
+I'm glad you came.
+I was going crazy at home.
+If you need anything, ask.
+Our generation
+is slowly coming to terms with the idea
+that pilots will vanish one day.
+The challenge is to protect
+and secure planes
+in which artificial intelligence
+is predominant.
+Some say our ambitions are excessive,
+calling us the Icarus of aeronautics.
+Icarus flew too close to the sun,
+his wax wings melted,
+he fell into the sea and died.
+I never really knew
+if the moral of the tale
+was do not fly too high,
+as people think,
+or forget wax and feathers
+to build better wings.
+In a perpetual quest for innovation...
+Pegase Security is proud to...
+My name is Victor Pollock.
+I spent 20 years as a BEA analyst.
+A few years ago, Xavier Renaud
+contacted me.
+He wanted advance information
+to fix minor faults on Atrian planes.
+He paid well. I needed money.
+I didn't see it as corruption,
+just as a way to avoid bureaucracy.
+But once we knew each other better,
+he asked for more.
+The black boxes doctored
+I had to correct conclusions,
+focus investigations
+on human factors.
+I was trapped.
+Then the 800 crashed.
+This time, he asked me
+to alter the black boxes.
+A fresh twist
+in the Dubai-Paris crash.
+A BEA investigator's revelations
+have created an upheaval.
+It seems hacking led to the tragedy,
+with the black boxes altered.
+We're now joining the head of the BEA,
+Philippe Rénier.
+The BEA has received
+a copy of the recording
+of the Dubai-Paris
+cockpit conversations.
+If it proves to be authentic,
+it will confirm our latest findings...
+BLACK BOX
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
