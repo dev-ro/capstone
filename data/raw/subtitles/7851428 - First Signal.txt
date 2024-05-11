@@ -1,0 +1,2224 @@
+With president Helen Colton
+arriving for the G7 Summit in Brussels,
+the crisis in the Ukraine
+will be the main issue discussed.
+The other six leaders taking part
+will also address issues on trade security
+and climate change.
+This will be the first G7 Summit
+hosted by the European Union.
+Originally, a G8 Summit was to take place
+in Sochi, Russia, but
+with that nation's invasion
+and annexation of the
+Crimea in Ukraine,
+the decision was made to
+expel Russia from this summit
+and move it to Brussels.
+With Russia,
+President Colton must manage
+this diplomatic falling out
+as the United States relies
+on Russia's space program
+to ferry astronauts to the
+International Space Station.
+Do we have any idea what he wants?
+No. Just wanted, more
+like demanded a meeting.
+- And he flew from Colorado to Brussels?
+- Well, it must be important.
+- Bill?
+- Yes, Madam President.
+- I need a moment.
+You want to start with this one, sir?
+Yes. And the rest can
+follow in this order.
+- Coffee, Major?
+- Oh no. Thank you,
+sir. I am fully leaded.
+Sir, do you think she'll believe us?
+- Believe?
+Well, that's a good question.
+But no matter what she believes
+it won't change the facts.
+Have you met the president?
+- No, sir. I haven't.
+I almost did when she
+came to inspect Vandenberg
+last month.
+- Ah yes.
+Her surprise base inspections.
+They aren't going as well as you'd think
+- Sir?
+- Oh, forget it.
+Just a word of advice.
+Colton uses Seward as a Pit Bull.
+If she asks you a direct question,
+you give her a complete answer.
+The last thing you wanna do
+is get into a debate with her.
+Trust me.
+- Understood, sir.
+Well, anyone else--
+- Excuse me. Who are you?
+You must be General
+Reager and Major Sampson.
+- This is a closed door meeting.
+- Yes. The door is closed.
+I'm Cedric Yonah and
+this is James Griffin.
+- Well, excuse me, Mr. Yonah,
+what is your purpose here?
+- General, when I was
+advised at this meeting,
+my colleague and I were asked to attend.
+- And who was that?
+- Who was, what?
+- Who asked you to attend?
+- General, Major, let's no
+get off on the wrong foot,
+shall we?
+You know as well as I,
+that on occasion,
+outside experts are called in to assist.
+- Madam President.
+- General Reager,
+I haven't seen you
+since that Navstar
+launch of Cape Canaveral.
+How's the Directorate?
+- As always,
+Madam President, 100 %.
+Oh, I'd like you to meet
+Major Ellen Sampson.
+- Ah, Major Sampson,
+a pleasure.
+- Likewise, Madam President.
+- And where were you stationed?
+- Space and Missile Systems,
+El Segundo.
+- Ah, I should figure when old
+John here called a meeting,
+that space would factor into it.
+Welcome.
+- Thank you,
+Madam President.
+- Forgive me Madam President,
+but I thought this was going
+to be a closed meeting.
+- Oh, my dear General, you know
+my policy, always a witness
+or in this case,
+an expert or two.
+And of course, you both
+know Elisabeth Seward,
+my National Security Advisor.
+- Elisabeth.
+- Ma'am.
+- General, Major.
+Elisabeth, perhaps you could
+introduce our other two guests,
+although it looked like
+you were all exchanging
+pleasantries when we walked in.
+- Of a sort.
+- General, Major,
+this is Cedric Yonah,
+science attache to the
+president and James Griffin,
+who was with JPL and now the
+Shinar Center of Science.
+- Oh yes, the DC think
+tank behind the upgrades
+to the Deep Space Network.
+- The very one, Major.
+No point in launching satellites
+if we can't communicate with them.
+- Agreed.
+- Yonah. Yonah, that's
+Hebrew for dove, isn't it?
+- It is.
+- Well, now that we're all introduced,
+General, this is your bailiwick.
+I can give you just about an hour.
+- Thank you, Madam president
+if you would all take your seats.
+- That's a pretty old school setup
+for this level of briefing.
+- Old-school?
+A Faraday shield is protecting this room
+and the adjacent hallway
+from electromagnetic fields.
+- Wow. That explains
+why the Secret Service
+confiscated our cell phones
+before we entered the elevator.
+But there will be a
+record of this meeting.
+Simply put, there's a hole
+in the president's schedule
+because she's here.
+How long do you think it will take
+before some intrepid reporter
+starts asking questions
+that I'm just gonna guess
+you don't want answered.
+- Ma'am the answer is simple.
+The Commander of Air Force Space Command
+requested an emergency
+meeting with the president
+- And as Commander,
+I must protest the presence
+of these two civilians.
+They're not part of my command.
+- No. They're part of mine.
+Shall we get on with it?
+- Of course,
+Madam President. Major.
+This point in space is
+known as Lagrange Point Two.
+Just about 1 million miles from Earth.
+This is one of five such celestial
+points relative to Earth,
+but is the Lagrange Point Two
+that observes the Earth,
+Moon and Sun.
+They're called parking places in space
+because the combined gravitational forces
+of all three bodies create
+a place of equilibrium.
+So a satellite can literally park there
+and make observations.
+- Madam President, when
+the James Webb Telescope
+launches in 2019, it'll
+be parked at this point.
+Sorry, General.
+- Please tell me you
+didn't request this meeting
+to give me a science lesson.
+- No, Madam president.
+Next slide.
+You mentioned the Directorate earlier.
+As you know, the Directorate
+overseas GPS launch, military
+and other highly classified communications
+for the Department of Defense.
+You're looking at a Milstar satellite
+in geostationary orbit.
+And that orbit is about
+24,000 miles from earth.
+As you may know,
+Madam President,
+we have five of these military
+communication satellites
+in orbit.
+On August 15 last year, this
+satellite intercepted a signal
+that originated from Lagrange Point Two.
+At first, our concern was
+that someone was trying
+to hack into Milstar,
+but at the time that
+didn't seem to be the case.
+- Why is that?
+- The only satellite operating in LG2
+is a European Space Agency
+space observatory called, Gaia.
+And it's not configured to
+communicate with Milstar.
+- Then what was it?
+- Another satellite.
+- But you just said that the
+only one operating there was...
+- Gaia.
+- Yes. Thank you.
+- Who intercepted the signal?
+- My unit did
+- Sure. It wasn't an Earth-based
+signal that reflected
+off some piece of space debris?
+- Positive.
+- Major, science isn't about positives.
+It's about a probable set of
+conclusions based on facts.
+- Emissions from a neutron star?
+- Negative.
+- Comment?
+- Negative.
+This signal was in the upper band
+of the electromagnetic spectrum.
+- What part?
+X-ray, and before you tell me
+it's not possible scientifically,
+you know, as well as I,
+that NASA has been looking
+into X-ray transmissions.
+- But it's not NASA.
+- No, and it's not the Europeans.
+- But this signal could be faked.
+- Sure. If there was a
+transmitter 900 AUs from Earth,
+but considering Voyager 1 is
+just over 100 AUs from Earth,
+I would say it's unlikely.
+- Look, this could be Russia, China,
+hell, it could be Iran,
+for all we know.
+- Madam President,
+With all due respect,
+there isn't a satellite launch
+from this planet that we don't know about.
+- General, what exactly
+are you trying to tell me?
+Madam President,
+it was a satellite of
+extraterrestrial origin.
+- Dear God.
+General, how did you get this picture?
+- Yes, how did you?
+Satellites are next to
+impossible to image?
+There's virtually no
+ambient light in space.
+- To be frank,
+we got very lucky.
+Major, do we have a slide of the X-37?
+- Yes sir. I believe so.
+- We're being watched
+So it would it seem.
+- But by who or what?
+- Madam President, if I may,
+just bring us all back
+to Earth for a moment.
+Since the Soviet Union
+launched Sputnik in 1957
+there have been over what?
+6,000 satellites launched into space?
+This predates the National
+Reconnaissance Office
+and the Space Surveillance Networks.
+I agree with the general
+that the United States tracks
+all watches from around the
+world now, but in the 1960s,
+'70s, even '80s,
+come on, it wasn't technically
+possible back then.
+- I had no idea you were such
+a historian on space, Elisabeth.
+- That's why I'm here.
+I briefed her.
+- Oh, did you?
+Interesting.
+- Ready, sir.
+- Thank you, Major.
+Madam President,
+you're familiar with the
+Boeing X-37 space plane.
+On the day of discovery,
+this plane was on its second test flight.
+On my order,
+I sent the plane to the LG2
+where the signal originated,
+with on-board lights and cameras,
+the following images were produced.
+- Well, thank you for confirming
+the rumored EM drive,
+but that still doesn't confirm
+that it's extra terrestrial in origin.
+- Oh, it does.
+When the satellite engages
+its engine and leave quickly.
+We haven't been able to track it since.
+- Then all you have,
+General is a picture
+that could lend itself to
+a science fiction story.
+Mr. Science Attache,
+in addition to the X-ray
+transmission that we have,
+the X-- 37 also recorded some
+very interesting readings.
+- What kind?
+- Propulsion.
+Yes, we have an experimental
+ION drive on the X-37,
+but that pales in comparison
+to the anti-gravity drive
+on the satellite.
+So we're no longer in the
+world of science fiction,
+but fact, and the fact
+remains Madam President,
+that a satellite of
+extra terrestrial origin
+was discovered at LG2
+with communication and
+propulsion technologies
+that do not exist on Earth.
+- Who else knows about this?
+- Aside from those in this room,
+only a handful of techs
+from Sampson's unit
+and Senator Hadrian.
+The signal telemetry and
+mission records of the X-37
+are now controlled by my office.
+- You know, if Sorenson
+finds out about this
+or any of these other
+alien disclosure groups
+were in of it.
+- Sorenson?
+- Oh, a political activist that heads up
+Solar Research Group.
+He tried putting pressure on the president
+to disclose what she knew about UFOs
+or more precisely, the extra
+terrestrial presence issue.
+- Christ, I need some coffee.
+Let's take five.
+- Government has painted
+itself into a real corner
+with this UFO matter.
+Damned if they say something.
+Damned if they don't.
+They only believe what they see.
+- It doesn't matter.
+It's academic.
+- Do you think Reager will
+be a help or a hindrance?
+- Please, he is a career
+military officer on a mission.
+Which actually it gives me an idea.
+- What's your impression of the president?
+- If I dint know any better,
+sir, I'd say she's scared.
+- Aren't you?
+Hell, aren't we all?
+With all that we know, we should
+have seen this one coming.
+Keep your eye on Cedric.
+- That's not hard sir.
+He's keeping them on me.
+- If an opportunity
+presents itself, take it.
+We need to know more about him.
+- I just can't believe this.
+- Neither can I.
+- What would your advice be?
+- Well, whatever happens,
+there's only one thing
+you have to remember,
+you're the president.
+- Madam President, it was
+truly an honor to meet you,
+but I must beg to leave.
+I have a flight today.
+- Oh, I'm sorry to see you go.
+I've enjoyed your commentary on this,
+what are we calling it?
+Development or discovery?
+- Revelation.
+- That's as good a word as any.
+James, I'd like you to stay in touch
+with Elisabeth's office.
+I might have some follow-up
+questions for you.
+- Of course,
+Madam President.
+- Leaving in the middle of
+a presidential briefing.
+- I thought you'd be happy, General.
+- What could possibly be more important?
+- You know the old adage,
+ask me no questions,
+- And I'll tell you no lies.
+- Imagine if we did that in Washington
+- Mr.
+Griffin, I do want to remind you,
+this meeting is classified.
+- General, you have my word that no one
+on this planet will know.
+Madam President,
+Madam Advisor, General, Major.
+- Safe travels.
+- Bill, I need to get to the
+field as quickly as possible.
+Yes, sir.
+- General, forgive the obvious,
+you discovered this alleged alien--
+- There's nothing alleged about it.
+- You don't mind if I finish,
+do you?
+You discovered this
+satellite on August 15th,
+why are we just hearing
+about this now on June 4th,
+nearly a year after this incident?
+- And why brief Senator Hadrian,
+the Chairman of the Senate
+Committee of Armed Services
+before the president?
+- They make a point, John.
+I'd like an answer before you continue.
+- To be frank Madam President,
+we needed to be certain
+there was something to brief you on
+and to compartmentalize
+the entire operation.
+- You mean hide from inquiry?
+- I mean keep it from the public.
+That's why I went to Hadrian.
+Do you think it's a good idea
+for the public to know about this?
+Do you? They can barely
+handle bad weather.
+That's the one downside
+of a democracy disclosure
+for some things that
+just can't be disclosed,
+and to ensure compliance
+with any ridiculous
+Freedom of Information Act requests,
+the documentation has been
+removed from government files.
+Call it what you want.
+I call it, protecting the
+people from themselves.
+And before you utter one more word,
+the president will agree with me on this.
+- He's right, Elisabeth.
+There are just some matters of state
+that can't be disclosed.
+Speaking of disclosure,
+I'd like to know where Mr.
+Griffin went in such a hurry,
+given his background
+and the subject matter
+that we're talking about.
+Don't you find it odd
+that he left so abruptly?
+- Very well.
+He went to the European
+Space Operations Center
+in Darmstadt, Germany.
+We want to know if the Gaia observatory
+reported anything unusual.
+We would've told you Madam President,
+but we didn't want any
+military interference.
+- You're gonna have more than military--
+- General, I'm satisfied.
+Let's all secure from Defcon 3,
+shall we?
+- It's a prudent action.
+Albeit a bit underhanded.
+- So you haven't been able
+to track this satellite?
+- Not the satellite itself.
+- But I thought the satellite--
+- Communication.
+After we ruled out a hack of Milstar,
+we believe it came down to line of sight,
+and that our satellite
+simply got in the way.
+- How did you possibly come
+up with that conclusion?
+- Our satellites don't communicate
+the X-ray transmission.
+Our satellite simply
+recorded what it received
+or more precisely what passed through it.
+- But that still doesn't prove
+your line of sight theory.
+- It doesn't disprove it either.
+It's a theory for many deductions.
+Fact, no satellite launched from Earth
+whether military or civilian communicates
+via X-ray transmissions.
+Fact, the signal terminated
+over the Atlantic Ocean.
+Fact, no military or civilian
+aircraft, surface ships,
+or submarines were anywhere near
+the termination of the signal.
+So where does that leave us?
+- Your tell us, Major.
+- You're familiar with Arthur Conan Doyle.
+- Of course.
+- Once you eliminate the impossible,
+what remains no matter how
+improbable, must be the truth.
+Laugh all you want.
+Madam President, we strongly
+believe that this satellite
+was communicating with something that,
+well, something that we just can't see
+because the fact remains that a signal
+must be received by something.
+The fact that we can't
+see it does not mean
+that it doesn't exist.
+- Your conclusion is ridiculous.
+- Not nearly as ridiculous
+as your deliberate dismissal.
+You're supposed to be the
+National Security Adviser.
+Aren't you the least bit
+concerned about this?
+- I'm concerned that Russia,
+a member of the United
+Nations Security Council
+has invaded the Crimea and the
+president should be talking
+to her allies upstairs
+rather than listening to
+fantasy downstairs, okay?
+I'm concerned that you are
+wasting the president's time,
+but hey, look, I get it.
+You have a picture
+and a signal and you think that--
+- Major, excuse me.
+You are also painfully, aware
+that X-ray can originate
+from a supernova,
+other space phenomenon?
+- But it does come down
+to modulation, doesn't it?
+A supernova isn't trying to communicate.
+You also know,
+or maybe you don't,
+that NASA has been experimenting
+with this technology.
+Madam President,
+if NASA is successful,
+the result will be high-rates of data
+transmitted over vast distances of space
+and the ability to communicate
+with hypersonic vehicles
+during atmosphere,
+free entry.
+Mr. Griffith would confirm
+all this, but he's, oh yes,
+he's left for ESOC.
+- General, have you decoded
+these transmissions?
+- This is why it's taken so long
+to bring this to your attention.
+I'll take over, Major.
+Madam President, what
+I'm about to disclose
+has a NATO security classification as CTS,
+it's Cosmic Top Secret.
+High security rating possible.
+Before I continue, I
+need your authorization
+to declassify this information to him.
+- I have more clearance
+that you can possibly know.
+- Not with me, you don't.
+- Madam President, a moment.
+Reager knows that Cedric is in this room
+he has all necessary
+clearances, why ask you?
+- He wants to know
+where my alliances fall.
+He's plotting something.
+What, I don't know yet, but
+body language speaks volumes.
+Reager wants something.
+- And Cedric wants to know what.
+- We need to find out where this is going.
+General, you have my authorization.
+- The planet Earth
+designated the Blue
+Marble during Apollo 17.
+Stunning, isn't it?
+But here's what you have to know
+if you plan to land on it.
+There are presently over
+3,500 satellites in orbit.
+We are tracking over 500,000 pieces
+of orbital debris.
+Now this traffic is traveling
+at 17,000 miles per hour.
+In Earth's atmosphere, civilian
+and military flight tracking
+is just as important.
+This year alone, there will be
+over 100,000 civilian flights
+around the world.
+The Military, NATO, ESA
+and other civilian and commercial
+partners have to navigate
+this traffic for more
+reasons than I can count.
+Apparently, so to those
+that control this satellite.
+- What exactly are you saying, General?
+- Navigation.
+This satellite wasn't
+just observing earth.
+It was communicating in the same way
+that we communicate with
+our spacecraft and aircraft.
+It wasn't just imagery, either.
+Transponder codes for all
+civilian and military satellites
+and aircraft were recorded.
+There were also weather
+forecasting models.
+We also found what we
+believe to be a flight plan,
+leaving from the Atlantic
+ocean and off the planet.
+- A flight plan?
+- Where did the plan track to?
+- That we don't know.
+- Something isn't just watching us,
+they're already here.
+- Precisely.
+- It's curious, isn't it?
+- What is?
+- This.
+Governments spends billions
+on space exploration
+in the search for extra terrestrial life.
+Earth scientists have
+discovered nearly 1000
+extra solar planets, some
+in the habitable zone.
+Radio telescopes,
+beaming and beaming,
+hoping to make contact.
+And what happens?
+You discover they're right here.
+Congratulations. You can
+both add another medal
+to your fruit salads.
+- Excuse me.
+That's disrespectful.
+- Cedric, the General and
+Major are decorated officers
+with a track record of outstanding--
+- Madam President forgive
+me. I mean, no disrespect.
+It's a compliment to your command.
+- Well, then compliment us
+with your scientific insight
+on what we may be dealing with.
+- There are many insights we could make.
+Just looking at the configuration
+and size of the satellite
+means that there could be a
+similarity to Earth's development
+in terms of communications.
+Anti gravity propulsion
+though, that's a revolution.
+If in fact the X-37 readings were correct.
+It means the propulsion can be achieved
+at near light,
+speed in space.
+And on planets like Earth.
+Gravity cancellation technology
+would make conventional
+airports and airplanes obsolete.
+In essence,
+picture a helicopter
+without the need for rotating blades.
+Now, if such a satellite were to originate
+from another solar system,
+it could be one nearby, say
+Gliese or Promixa Centauri.
+Ask anyone who has worked in this field
+and they'll tell you
+the navigation of space
+is complicated and dangerous.
+It looks empty to the lay person,
+but in fact is littered with
+debris like Earth orbit.
+Now for a long extended
+journey they would need
+or at least want something along the lines
+of asteroid deflectors for starters.
+- Asteroid deflectors?
+- Yes, devices that fly apart,
+but in concert with the
+primary space vehicle
+to repel, deflect or
+even destroy space debris
+that poses a threat to navigation.
+NASA is working on a plan
+now to install laser cannons
+on the ISS for just such debris.
+It's a shame the satellite disappeared.
+Imagine the knowledge, if
+it was reversed engineered.
+Of course, there's one
+thing you can't tell
+from these images or
+even the transmission.
+- And what's that?
+- How long the satellite
+has been an orbit.
+Could be one year.
+It could be 100.
+It could be a thousand.
+My point is,
+wherever they're from,
+regardless of what they look like,
+they are an advanced
+civilization, but not infallible.
+- The comm signal that
+passed through our satellite.
+- Exactly.
+- What do you think they want?
+- You don't need to be a
+scientist to answer that,
+Madam President.
+I would postulate the
+same thing NASA wants
+when new horizons
+intercepts Pluto next year.
+- Answers.
+- Answers are something
+that we need, Cedric.
+So where do we go from here, General?
+- It's not where we go.
+It's where we are.
+Using our military satellite networks
+in cooperation with other nations
+and ground stations around the world,
+I've assembled a team of
+scientists and engineers
+and various agencies to detect
+and track this alien presence.
+But our present funding and
+certain inter-agency rules
+prohibit us from taking this further.
+I need your authorization
+to divert funding
+from the National Aeronautics
+and Space Administration
+Authorization Act of 2014.
+This funding will be placed
+at the National Reconnaissance Office
+and administered by Space Command.
+NASA won't ask any questions.
+Any budget shortfall will
+be handled by Congress
+under Senator Hadrian's lead.
+Operation Troy,
+Madam President.
+- What are you afraid of, General?
+- It's not about being afraid.
+It's about knowing who they
+are and what they want.
+And let us be clear,
+nobody undertakes a multi
+light year space journey
+just because it's Monday.
+- That's right, General,
+a journey.
+And you don't know what
+they want or who they are.
+You are assuming, just
+on your actions alone,
+they're malevolent.
+- And what evidence do
+you have that benevolent?
+- Have they attacked you?
+No.
+- We don't know that.
+We don't know what they're doing here,
+but they certainly have some
+sort of stealth technology.
+- And you don't?
+Why do you fly your
+stealth bombers and drones
+to hostile territory?
+To protect yourself.
+Has it dawned on you that
+these, whatever they are,
+are doing the same?
+- No, it hasn't.
+Because in our case, we
+know who we're dealing with,
+human beings
+- Mr. Yonah, this is about
+military preparedness.
+It's that simple.
+We don't know what we're dealing with.
+- Exactly. You don't.
+This action into the unknown
+could seriously put our
+national security in jeopardy,
+nevermind the security of our planet.
+Isn't this the time to act
+on fact rather than fiction?
+- That's the point,
+to get some.
+We are operating literally in the dark,
+the darkness of space.
+The whole point of Operation Troy,
+is to shed light on this darkness.
+- Indeed. This is a time
+to study and investigate.
+Can you imagine what you
+could learn from them?
+- All we've learned is
+that we're being watched,
+and our land air and space
+assets are being tracked.
+To what end, who knows?
+- Would you not agree that this
+discovery gives credence to,
+"Somewhere, something incredible
+is waiting to be known?"
+- This isn't the time or
+place to quote Carl Sagan.
+- That quote is mistakenly
+attributed to him.
+When in fact it was created by a reporter.
+- What's your point, Cedric?
+- My point Madam President,
+is that in light of the
+magnitude of this discovery
+it's too easy for mistakes to be made.
+- All you scientists are alike.
+You deal with the unknown,
+but you're remarkably,
+predictable in your actions.
+- As are you General, you
+sadly deal in absolutes
+because the unknown terrifies you
+- General, if I sign this,
+what's the objective of Operation Troy
+- Identification.
+If they're going to watch
+us, we'll return the favor.
+The objective is to identify
+where they are on this planet.
+And if possible,
+the solar system.
+Once identified,
+communications will be open.
+My concern, Madam President
+is despite them being here,
+they've made no effort
+to communicate with us.
+Instead of silent,
+stealth-like invasion
+has already happened.
+Just because a bomb hasn't been dropped
+does not mean the war has not begun.
+So yes, I am afraid.
+Afraid of the unknown, as you
+should be, Madam President
+and everyone else in room.
+- Your xenophobia, General
+is painfully apparent.
+What does Reager stand for?
+Something Germanic, isn't it?
+How fitting someone with a Germanic name
+talks about identifying people?
+How fitting such a person
+commands a military apparatus.
+- How dare you compare me--
+- I'm not comparing you
+to anyone except yourself.
+Unless people like me
+speak up loud and often,
+and at the moment it matters,
+history is a strange
+habit of repeating itself.
+How many times in the history of mankind
+have people been identified
+by the fear of others?
+How many times have they
+been marked by the ignorance
+of hate under the
+organization of the state?
+Those that wouldn't open their eyes,
+those that failed to learn,
+to make any attempt to understand
+that just because you don't know someone
+doesn't mean they're your enemy.
+They could be your friend.
+- A friend doesn't operate in stealth,
+there in the open with
+a hand of friendship
+or at least curiosity.
+Not some comm signal,
+revealing the identification
+of our planes,
+our ships and our submarines.
+With the exception of
+you, everyone in this room
+has taken the oath.
+It's our job to protect this
+country against enemies,
+both foreign and domestic.
+And if this doesn't qualify as foreign,
+you can have all my stars
+because that is exactly
+where they're from.
+And until the day comes
+that they reveal themselves
+and their intentions to us,
+they will be treated as
+a cancer in our world.
+- And be eradicated.
+You're right, General.
+I haven't taken an oath
+because how many times throughout history
+do these oaths end in,
+"So help me, God."
+You may be looking for
+a divine intervention
+if your plans bear fruit.
+This fruit you so longingly
+are looking to accomplish
+could usher in a new revelation.
+Has it even remotely occurred to you,
+instead acting on fear of
+what you don't understand,
+you want to detect,
+track and identify them,
+and you don't even know what them is.
+I'm a man of science and
+one could say a history,
+when your government enacted
+the Indian Removal Act,
+it never occurred to President Jackson
+that someday the Native Americans
+unique place in the world
+might be needed.
+Thankfully, they and
+their language survived
+and helped you end a World War.
+Has it occurred to you
+that whoever they are
+it might someday help
+you in your hour of need.
+Maybe they already are.
+Do you want to identify them
+because you were scared of
+what you don't understand.
+If you don't want to understand
+space, why look up,
+keep your head down.
+Thankfully Galileo never did.
+But by looking up, he
+went against the state.
+Not a state of arms, but
+a state of mind and beliefs.
+Beliefs so distorted centuries later,
+that millions would detect track
+and identified by a state so
+consumed with fear from within
+they couldn't see without,
+is ironic in so many ways
+that you have a space program
+that failed state.
+A state that is now an ally,
+whose Chancellor went before your Congress
+and recounted one phrase of the
+constitution that proclaims,
+"Human dignity shall be inviolable."
+Sadly, the action you
+are postulating today,
+is a violation of the dignity
+and the oath you took.
+Simply, "There is no price one can set
+on the future of humanity
+so long as it is tempered
+with the best intentions of mankind."
+You said those words, Madam
+President to your Congress
+to fund the space program,
+not to militarize it.
+I wonder what giant leap for mankind
+will be attained if you signed this order.
+Indeed, Madam President, the
+Trojan horse in this room--
+- Sit down.
+Well, what a
+wonderful speech that was,
+full of life, perspective
+and replete with history,
+but not one solid contemporary
+idea on what we should do.
+The history is littered
+with people like you,
+all talk and no action.
+Neville Chamberlain would have loved you.
+But yes, I love this uniform
+and what it represents.
+And I have no problem,
+issue, or reservation
+saying that I support and
+defend the constitution
+of the United States, period.
+And if that goes against
+your moral standings
+and sensibilities, so be it.
+That's your right.
+Because as an American,
+you have that choice.
+That's the beauty of the
+constitution, freedom of choice.
+And if that freedom gets
+bloodied along the way, so be it.
+But I no longer have the
+time, inclination or interest
+in debating this with you any longer.
+I live in the here and now,
+not last week
+and not seven centuries ago.
+And though history may have
+some lessons to learn from,
+I have no interest in
+writing its last chapter.
+And I'll be God damned
+if something else writes it for us.
+Forgive me, Madam President.
+What say you?
+- It seems odd, does it?
+That we are here in a
+bunker like wars long past.
+But today we decide on a
+fate that none of us know
+or can even predict.
+I've always been a supporter
+of the space program,
+you know that.
+But unlike presidents before me,
+I am faced with the revelation
+that mankind is not alone.
+I have to believe that our intention
+has always been one of science,
+but let's not kid ourselves.
+There's always been a
+military component to this,
+this next frontier.
+This is about the science of anything.
+We need to know who or
+what we're dealing with
+before we can deal with them.
+They have the upper hand
+of what we don't know,
+but that is something
+that we need to know.
+It's not about fear,
+but intelligence.
+I think we can all agree that
+before the New World was discovered,
+all Erikson had was the horizon to look at
+and it stars to guide him,
+but we need to know what
+the beyond this horizon,
+and why out of over 200 billions stars,
+they were guided to us.
+I'm sorry,
+it's this world first.
+God help us.
+- Thank you,
+Madam President.
+For obvious reasons,
+updates will not appear on
+your daily intelligence brief.
+- You can update my
+office, General I'll -
+- I'll update the president.
+- My job as the National
+Security Advisor is to--
+- Advise the president on
+matters of terrestrial security,
+not space.
+Madam President.
+Let's plan to meet when
+you get back to Washington,
+I'm sure I'll have an update for you then.
+- Very good, General.
+- Of course,
+all my best at the G7.
+This invasion by the
+Russian's not good.
+Hard to believe they were once an ally.
+Major?
+- Yes, sir.
+- I'll see you at the briefing.
+- Yes sir.
+- Madam President.
+- Major, I'd like to have that file.
+- Yes, Madam President.
+- And the USB?
+- Madam President, I
+don't think I could...
+Of course, Madam President.
+- How many of us have
+dreamed of this moment?
+The moment when we learned
+that we're not alone?
+And what's the first step that we take?
+A military one.
+History will record the
+day I signed this order.
+My God, what have I done?
+- You've done what is
+necessary for the moment
+because something tells me the alternative
+may have been far worse.
+While I don't agree with it,
+I understand your decision.
+History is replete with moments like this,
+but moments are never the whole picture
+that is yet to be painted.
+- I wish I could share your
+spirited optimism, Cedric.
+- Optimism is what we
+must have, Madam President
+so the darkest hour turns
+into the brightest day.
+- Madam President, it was a
+pleasure to meet you today.
+I'm sorry the circumstances.
+- Think nothing of it, Major.
+These are revealing times,
+if not conflicted ones.
+- May I ask which base you
+might be visiting next?
+- You may ask.
+- Major, may I ask where you're headed?
+I could use a ride to the field.
+- Mr. Griffin was your ride,
+I gather.
+- Yes, I could hire a car, but--
+- No, no, that'd be fine.
+I'm not due back at Chievres
+until later this afternoon.
+I'd be happy to do it.
+- Thank you. Madam President,
+until our next meeting.
+- Safe travels, Cedric.
+- Madam President.
+- Elisabeth.
+- Ma'am.
+- With the stroke of a pen,
+I just unleashed hell on Earth.
+- Where am I taking you?
+- It's a private field about
+10 kilometers from the city.
+I'll direct you.
+- If you have the address I can GPS it.
+- Why did you sign it?
+- We needed to know
+who we're dealing with.
+Since the knowledge of an
+alien presence on Earth
+was conveyed to me by my predecessor,
+on the day after I assumed office,
+my fear has always been
+that at some point,
+the military would rest
+control of our armed forces
+from civilian command.
+It's easier to monitor
+him if I agree with him.
+If I fight him, he'll burrow
+into a hole so deep and black,
+not even Kepler could
+find him.
+Issue the code,
+Argonaut Two.
+Argonaut, he's not here.
+- Yes, he is.
+Contact his embassy.
+- Yes. Yes, Madam President.
+- Elisabeth, everyone's been identified,
+take every precaution.
+- Senator Hadrian
+- I'm sure you've had enough
+formalities for one day.
+Paul will do.
+- And so will this.
+- Excellent.
+- Anything on Yonah?
+- No, nothing.
+There are no records on a
+Cedric Yonah in any civilian
+or military database.
+- What?
+He's a science attache for Colton.
+- Hmm. No, he isn't.
+Our intel can't decide
+if he was invited by Seward or Griffin.
+- And what about him?
+Griffin?
+He checks out so far,
+but if he was in Germany,
+he didn't go through Brussels.
+- How did he leave?
+- Helicopter, no flight plan
+and even more disturbing,
+we've lost him on the radar.
+- That's not possible in this airspace.
+- Someone made it possible just like this.
+- What the hell?
+- They're all like this from the meeting.
+But if you take a look at
+your drive, they're all fine.
+That camera we hid in your fruit salad
+seemed to work wonderfully.
+And we picked up your
+signal as you came topside.
+It's not mechanical.
+- No. And I'm afraid
+Sampson is gonna have the same results.
+By the way,
+we haven't heard from her
+since she went down
+underneath for the meeting.
+Has she reported back to you?
+- That's disturbing.
+I disabled the Faraday
+shield after I left.
+Click back to the meeting.
+No, something's not right.
+No background, no picture.
+You don't think you could
+be one of the people?
+- Who knows?
+- Well, whoever he is,
+he knows who I am.
+- But we know who he works with.
+And this meeting was
+always about intelligence.
+- Yes.
+- Madam President, the Prime
+Minister of the United Kingdom
+and the President of
+the Russian Federation.
+- Alison, thank you so much.
+- Well, I was just upstairs, but...
+- Sergei, I appreciate this.
+You know I wouldn't have called
+Argonaut Two if it wasn't--
+- Elisabeth briefed us.
+- Stephen, where is Elisabeth?
+- She's in communication
+with the Synedrion Council.
+- Let us know when she returns.
+Thank you.
+- Madam President.
+- Allison, there's coffee, tea.
+- You didn't push the panic
+button because of a satellite
+we already knew about.
+Your military is out of control.
+- And yours isn't? You
+invaded and annexed Crimea.
+- Crimea's parliament
+voted for independence.
+- Oh, please. After you installed
+a pro Russian government.
+- Your sanctions against us will not be--
+- Sergei. Helen.
+We're not here
+to talk about matters of state.
+- You're right?
+Of course. My apologies.
+- Well, now that we have detente.
+Helen, Argonaut Two is only called
+when one of the space is
+an imminent outside threat,
+but this isn't outside it's inside.
+- I had no idea you were
+such a historian on space,
+Elisabeth.
+- That's why I'm here.
+I briefed her.
+- Well, one thing was quite clear,
+Seward and Yonah are not
+casual acquaintances.
+I wonder,
+have we been played?
+- In what sense?
+- There are only two possibilities.
+Either they made a mistake,
+which I doubt.
+Or they deliberately sent a signal
+through Milstar to smoke us out.
+I don't think it was the former.
+- Why would they possibly do that?
+- Answers. The crash in
+47. The conference in 72.
+He mentioned reverse engineering
+and seemed to go off a
+cliff when I told him
+we decoded the signal.
+We've been waiting for a move.
+This could have been it.
+- No, I don't see it.
+Would you have given the
+Taliban classified intel
+to disclosed their exact locations?
+No.
+Misinformation, of course.
+And you remember the day
+the signal was cracked
+and you took the information,
+clarified it with our records.
+You nearly had a stroke.
+And the method we use
+to crack that signal,
+the Geneva Convention
+doesn't apply to them.
+- Them!
+- Does he know about Apollo?
+- This invasion by
+the Russians, not good.
+Hard to believe they were once an ally.
+- Helen, this is bigger than Apollo.
+It transcends all of us.
+- Jesus Christ.
+- And he's not working alone.
+- What was her reaction?
+- Dejected.
+- And insurgency?
+- I suspect in all our militaries.
+That's why I called Argonaut Two.
+Like the first during the war
+the only way to win this
+one is if we cooperate.
+- Reager gives a whole new
+meaning to fifth column.
+- What about Hadrian?
+Is he part of this insurgency
+or just an unwilling pawn?
+- It's hard to say at this point.
+His committee has oversight
+over the military.
+So it makes sense that he's
+in communication with him.
+And there's also a
+rumor that he's going to
+be Anderson's VP pick in the
+next presidential election.
+- Then we should keep him close.
+- Telling Colton about Apollo
+was the right thing to do.
+She can't do anything about this publicly,
+but we can privately.
+This is about parity.
+The playing field needs to be leveled.
+There's a whole fleet of them.
+Look on the S.A. My gosh.
+They're all going against the wind.
+The wind is 120 knots to the west.
+- That was as close as we ever got.
+- Nothing the air force has
+can compete with any of these.
+We need to get at least one of them.
+What's the update with our prototype?
+- In about 36 to 48 months.
+What if she shows up?
+We can't deny the
+Commander-in-Chief access.
+If she learns what we've diverted funding
+from NASA's Orion program for.
+- That's why you went in with Troy
+to make this diversion legal.
+Besides, too many of Sampson's group
+already know about the signal,
+We had to tell the president.
+- The meeting with Reager was never about
+discovering the satellite,
+but who would surface
+from within the military.
+That was their plan.
+Since 72, they've been
+desperate for intelligence.
+Can't say I blame them.
+But today both sides lost
+because all of the key players
+have been revealed to each other.
+If anyone was a pawn,
+it was me.
+- And Cedric came to the meeting?
+He hasn't been seen in
+public since the war.
+- He insisted.
+We tried to reason with him,
+but there was no changing his mind.
+Reager only heard and
+saw what he wanted too.
+- There's no choice then.
+We need to give the peace.
+At any cost because the next war
+could throw us to the dark ages.
+- Then we need a grand
+alliance and a united front.
+- If Colton shows up, she'll
+need to make a choice,
+either this world or theirs
+because until we know the extent
+this alien force has on us,
+there's only one thing left to do.
+- Put me through to Space Command
+at Peterson Air Force Base.
+This is General Reager,
+by authorization of the
+President of the United States,
+initiate Operation Troy.
+- Reager's got everyone on the offensive.
+So we need to keep all
+eyes looking down at Earth
+rather than above.
+- Conflicts.
+- Yes and regional wars
+that we can contain
+through back channels like this one.
+And then while that
+front is moving forward,
+we can start gathering
+intelligence on Reager's operation.
+- Follow the money.
+- Exactly.
+The Pentagon's Advanced
+Aviation Threat Identification
+Program ran out of money in 2012.
+So he can't hide behind that.
+And he's probably already
+tapped what he feels,
+the CBO and treasury won't discover
+along with black ops money.
+But now he needs money for
+something else, something big.
+I can feel it.
+And it's not the sat networks,
+they're already up and running.
+- Well, while the money is being traced
+there's plenty of hotspots
+to ignite regional conflicts.
+We have to decide--
+let's
+hit pause for a moment.
+Before we start playing God,
+don't you think the time has come
+that they reveal themselves?
+- They tried that,
+Alison in 72.
+I agree with Reager on one point,
+we all know that despite
+the yearning of the masses,
+wanting to know that they're
+not alone in this universe,
+they actually prefer it that way.
+Look, I don't like this
+job any more than you do,
+but no prime minister or president
+should be saddled with this knowledge.
+Nevermind, responsibility.
+That is the hand we've
+been dealt, and thank God.
+So we're here playing cards
+in this cosmic game of poker,
+I'll aim for a Royal.
+- And let's be clear Allison.
+This is not about playing God,
+it is about delaying revelation.
+Reager thinks he knows his enemy,
+but his enemy is not who he thinks it is.
+He's acting conventionally.
+And if it's true that like-minded people,
+in our respective military
+and intelligence operations
+have been compromised
+and are following him,
+then the only thing left for us to do
+is to make their job on Earth
+as difficult as possible.
+We of all nations should know
+that peace is not bloodness.
+The last thing any of us
+need is a united insurgency.
+To quote one of your predecessors,
+"There is no time for ease and comfort.
+It is time to dare and endure."
+- Sergei, I think we can all agree
+that nothing about this
+is easy or comforting,
+but when the day comes that we
+no longer question ourselves,
+we become the very people
+we're trying to defeat.
+Let us hope we endure this.
+- I understand.
+Sampson left with Cedric 15 minutes ago,
+and there's a radar and
+communications blackout
+that radiates out 15
+kilometers from the city.
+- Griffin disappears, Cedric
+can't be identified, no comms.
+This can't be a coincidence.
+Put me through to Commander Halsey.
+- You should continue
+pushing into Donbass.
+- What about the Security
+Council and NATO?
+- Three of the five permanent
+members are in this room.
+Ukraine is not part of NATO
+so article five doesn't apply.
+Germany will complain,
+but their economy relies
+on your good graces
+so it will go nowhere.
+Maybe superficial sanctions,
+but that's as far as it will go
+- Coalition airstrikes against ISIL
+will be starting next month.
+With our intelligence, we
+can assist ISIL's reach
+outside of their caliphate.
+- Dear God, Helen. Do you
+know what you're saying?
+If this gets out--
+- Allison, if you have a
+pious solution for this,
+we're all ears.
+Arresting Reager and
+Hadrian is not an option.
+First, there's no legal basis for it.
+I mean, dismissing Reager
+would be one thing,
+but removing a sitting Senator?
+And let's be clear,
+if cornered their option
+could lead to a conflict
+of biblical proportions.
+You know that.
+Just like everyone else in this game,
+we need intelligence.
+Not just for them,
+but for ourselves.
+Because when this dam breaks,
+we better know who's on our ark.
+Debate's over
+- Well, as for debate, you
+knew there's growing voice
+in the UK to leave the European Union.
+If the vote is to leave, it
+will send the markets in turmoil
+and destabilize the European economy.
+But we can't force people to
+vote one way or the other.
+- Elections can be influenced.
+Depending on the outcome,
+we could keep intelligence agencies
+and governments busy for years.
+The question you need to ask yourself
+is who do you want to
+occupy the oval office
+after you leave.
+Who do you think is best equipped
+to handle matters of space?
+This is where we keep our friends close,
+but our enemies closer.
+- Wright-Patterson Air Force Base.
+The council has known for some
+time that there is one hangar
+that central can not see through.
+As General Reager has been identified
+as part of this military insurgency
+and with his frequent trips to
+the base, the time has come,
+where we need to know
+what's inside that hanger.
+A bit of history.
+During the Cold War,
+Wright was home
+to the Aeronautical System Center
+and the National Air and
+Space Intelligence Center.
+If there was a new aerospace
+weapon or intelligence system
+it was conceived, designed, tested,
+and deployed from Wright,
+but it was World War II
+that brought it home to us.
+Just after the war, Operation
+Paperclip landed 200 plus
+Nazi German scientists
+and technicians at Wright.
+The most famous of them
+was Wernher von Braun,
+whose Saturn V rockets,
+landed men on the moon in 1969
+and resulted in the greatest cover-up
+in Earth's known history.
+- Does the council have any
+idea what's in that hangar?
+- None.
+And security is biometric.
+- Well, the answer is simple,
+Wright is your the next base inspection.
+- As Commander-in-Chief, you're
+the only one that can go.
+- Well, there may be
+another, but time is short.
+If I do this, we lay every,
+every card on the table.
+I think we should wait.
+- What for?
+You need to take the same lead with Reager
+as you just did with us.
+- Glad you knew how to get here.
+It's weird that GPS didn't work.
+That was a long call you had,
+I hate teleconference calls,
+especially when you just have to listen
+while someone else drones on.
+- Just because I was listening
+doesn't mean I wasn't saying anything.
+It looks like
+your ride's not here yet.
+Do you need to call someone?
+Nope.
+So tell me Ellen, you've
+been in the military what?
+Since high school?
+- Just about.
+- What brought you to the
+air force, specifically?
+- Well, ever since I was a kid,
+I wanted to know how to fly.
+At first, it was just
+the remote control planes
+and then before I knew it,
+I was learning to fly a
+Cessna while in high school.
+My father showed me.
+- He was a pilot? Your
+parents must be proud.
+- Yes. Commercial. He is.
+Mom?
+- She died when I was 10.
+- Sorry.
+- Oh, thank you.
+It's all right.
+So it was just my dad, me.
+I used to love when he would sneak me
+on to the flight deck.
+- Flying is rather intoxicating,
+isn't it?
+- Oh, yes.
+- Doing some work on the F-35?
+- Not as much as I would like,
+program is a development nightmare.
+- So I hear.
+So then you got a degree
+in aerospace engineering.
+- Yes. How did you know?
+- Just an educated guess
+with your satellite work.
+Any other reasons why
+you joined the military?
+Forgive my asking.
+I always find the stories interesting.
+- I guess a sense of adventure,
+seeing new things, traveling.
+What about you?
+What made you so passionate
+about science and history?
+That was quite the speech
+you gave to General Reager.
+- Well, when you've been
+at it as long as I've been,
+let's just say it's a
+long experience, long.
+But for me it's how science
+transcends the past,
+present and future.
+I've always been curious, I
+guess, wanting to contribute,
+wanting to understand the unknown,
+something my parents instilled in me.
+They taught me to understand
+that once you know the unknown,
+it no longer frightens you
+because you can learn from it.
+But learning is three-dimensional
+not two like Reager.
+- You don't like him.
+- It's nothing to do with
+like, but it's everything to do
+with the fact that he came to that meeting
+for one reason only,
+to get a signature.
+- He's always been objective-driven.
+He didn't rise to the rank he
+has without being decisive.
+- True.
+We all have our objectives.
+Speaking of,
+you and your group
+must've been pretty excited
+when you made this discovery.
+- Oh, it was incredible
+to know that we're not alone,
+but I'll admit it,
+I'm scared.
+Maybe. Maybe I just don't
+understand this unknown.
+- Yet.
+You see what was exciting to me
+was the fact that some
+civilization found Earth
+worthy to look at, to study.
+Kepler may already be looking back,
+but there's a technology gap
+and so many don't understand
+what they can't see.
+Someday direct imaging from
+Earth will be possible.
+- I hope I'm around to see that.
+- Unlike Reager,
+at least you want to see.
+So how long have you worked with him?
+- Of and on about 10 years?
+Why?
+- Do you trust him?
+- That's quite a question
+coming from a civilian.
+It's not a matter of trust.
+It's about following the chain of command
+- And respecting that chain?
+- Absolutely.
+- I can imagine then you're conflicted
+because you're still wondering
+how he decoded the signal.
+What did Reager mean when he said,
+- With everything we know,
+we should have seen this one coming?
+- How the hell did you hear that?
+You were across the room?
+- It doesn't matter, what
+does is what he meant.
+- Cedric, I've enjoyed our talk,
+but I am not disclosing
+classified information.
+I think you can wait for your ride alone.
+- Information that in addition
+to anti-gravity propulsion,
+the satellite had stealth technology
+and in fact, disappeared
+right in front of the X-37.
+You remember what I told him?
+How long the satellite has been in orbit?
+It could be one year,
+it could be 100.
+It could be a thousand.
+- Neither one of you have any idea,
+and it's been the subject
+of numerous conversations.
+There is something we both
+know that Reager doesn't.
+You're sure it wasn't Earth-based signal
+that reflected off some
+piece of space debris?
+When I asked you that you turned
+ashen white, just like now.
+It was that moment when
+you and I made a connection.
+Simply you lied to Reager either
+because you didn't
+understand what you detected
+or didn't want to understand it.
+If the signal originated
+on earth from say,
+a radio telescope, that would
+have been a different story.
+The transmission originated
+in the atmosphere
+to the satellite at LG2 through Milstar,
+and back to its origin.
+- How do you know all this?
+- Because I sent it
+You know, as well as I
+that signals intelligence
+didn't decrypt the transmission.
+Your civilian self probably wanted to know
+how decryption was possible,
+but your military training told
+you to just follow command,
+but something,
+something told you
+to report the origin of
+the signal differently.
+"With everything we
+know," what did he mean?
+- I could go to jail for this.
+- You're already in a jail of conflict,
+an untenable command structure.
+- It's not that I didn't
+want to understand.
+I didn't want him to.
+He's beyond obsessed with
+anti-gravity propulsion.
+He brought me and some
+others in several years ago
+to go through everything
+we had on the subject,
+from Project Sign,
+Grudge and Blue Book
+to black opps aerospace programs.
+He even once showed us a video
+of something flying at a
+headwind of over 120 knots.
+I say something because
+it's still unidentified.
+All of us were caught up in it.
+- How far did you get?
+- Theoretically, we made
+some solid progress.
+When he had his transfer everything we had
+to a working group at Wright-Patterson,
+we were led to believe it was
+to benefit the F-35 program.
+We heard nothing for months,
+then this signal brought us
+all back to General Reager.
+- Compartmentalize.
+One group does one thing,
+another does something else,
+but only a handful,
+know everything.
+Classic military structure.
+- I've been honest with you Cedric.
+Now you need to be honest with me.
+How did you send this signal?
+- How is a matter of science.
+But make no mistake,
+there's no coincidence that
+your group received a signal.
+We knew you were monitoring
+that particular Milstar satellite.
+- Oh my God.
+You worked for General Reager,
+don't you?
+This was all about
+intelligence, wasn't it?
+We've been hearing about security sweeps,
+surprise base inspections,
+national security.
+Oh my God.
+What have I gotten into?
+- Ellen, I don't work for Reager,
+but yes,
+this is about intelligence.
+We need your help.
+- My help?
+Wait, we?
+- In your line of work, do
+the years, 1947 in 1972,
+have any meaning to you?
+- '47 was operation Blue Nose.
+And while that ridiculous Roswell story
+and '72 was when the Apollo program ended.
+- Do you know why it ended?
+- Everyone knows that, to
+develop the space shuttle.
+What the...
+There's someone at the end of the field.
+- I know.
+My involvement in all this
+started before the war.
+- Iraq?
+- World War II.
+There was a justifiable concern
+that after two millennia,
+your technology wasn't
+progressing fast enough.
+If something happened to
+ours, for whatever reason,
+there was no backstop.
+How did Sagan say it,
+"In all this vastness,
+there was no hint that help
+will come from elsewhere
+to save us from ourselves."
+So a decision was made to advance
+certain fields of science.
+I was sent to the Peenemunde
+Army Research Center
+in Germany.
+It was truly the Cape Kennedy of its day.
+Under the guise of a visiting scientist,
+I offered assistance here and there,
+particularly in areas of
+propulsion and guidance.
+Well, I got caught up in my work
+and showed them things I shouldn't have.
+When I refused to cooperate further.
+I was arrested and sent
+to a concentration camp.
+You can imagine my disgust
+when Reager was talking
+about identification,
+not from my people,
+but the millions.
+The millions that never went home.
+Well, after the camp was liberated,
+I found myself alone in the
+field, just waiting to go home.
+The German scientists were
+repatriated to the United States
+and continued their work or
+should I say some of my work.
+There was no choice,
+but to monitor
+all military installations
+for developments.
+A couple of years after the war
+a patrol went down in Roswell,
+for more reasons than I can count,
+It was impossible to retrieve
+certain remains of the crew
+and the aircraft's propulsion
+and stealth technologies.
+We had high hopes during the 1960s though.
+Perhaps the seeds of
+science planted in war
+would come back in peace.
+When first contact was
+finally made in 1969,
+everything seemed to be
+progressing the way we wanted.
+Oh, there were concerns
+in various governments
+to say nothing of the military,
+but Synedrion Council
+felt they had to proceed,
+that living in the shadows
+was no longer an option.
+In 1972,
+they agreed to meet with your
+United Nations security council
+to pave the way for revelation
+that mankind is not alone.
+First contact, if you will.
+The military escort never
+brought them to that meeting.
+We've been looking for them ever since.
+You can only imagine my guilt.
+It didn't matter what our
+involvement was in your world
+or our technology.
+We couldn't find them.
+It was Griffin's idea for the signal.
+We had to know who would surface.
+Signal was too tempting for Reager.
+He knew there was only one
+group that could decrypt it.
+- Group?
+- Our parents, the ones
+your military kidnapped.
+Oh, come on. Seriously?
+You don't honestly expect me
+to believe any of this, do you?
+- I only expect you to
+believe what you can see?
+- Governor, you asked for this?
+- Thank you.
+- Good to see you again, Major.
+- Where there any problems?
+- Aside from the curator?
+None.
+- I'm not laughing.
+What did he call you?
+- Governor.
+- Governor of what?
+- You haven't told her?
+- Nearly everything, but.
+- Major, Cedric Yonah, is the
+Governor of Dominion Earth
+and Premier of the Synedrion Council.
+- I thought you said it was
+your parents on this council
+or whatever.
+- They were. We ascended
+after they disappeared.
+James let's keep an open
+comm for transparency.
+Was there anything else?
+- During your conference with the council,
+Central monitored Reager's calls
+from Chievres Air Base to Patterson AFB,
+on his order GPS and Sat comm Directorate,
+Echelon and the Deep Space Network
+received new detection programming.
+To avoid intercept, Central
+has rerouted all comm traffic
+to the secondary grid.
+- That should buy us some time.
+- Reager also inquired about
+your whereabouts Major Sampson.
+Now civilian agencies and
+military installations
+in the region are on
+high alert over a radar
+and communications blackout.
+The United States and United Kingdom's
+are claiming it's Russian
+retaliation over the G7.
+The Belgian authorities claim
+it's a terrorist attack.
+NATO has elevated its
+alert readiness to Amber.
+And F-16s have been
+scrambled from Melsbroek AB.
+Central will hold the
+blackout until our departure.
+- My God.
+How do you know all this?
+- Why?
+X-ray communications, Major.
+- Keep your eye on Cedric.
+- That's not hard sir.
+He's keeping them on me.
+- If an opportunity
+presents itself, take it.
+We need to know more about him.
+- Thank you, James.
+- Of course. Major, I look
+forward to our next meeting.
+Governor.
+- There's a hanger at Wright-Patterson
+that we can't see through.
+That's why we need your help.
+- What about your X-ray communications?
+- Don't mock me.
+I'm in no mood for it.
+It's sheathed in the
+same materials we use.
+The crash of 47,
+the stealth technology,
+if you know how to manufacture it,
+it's easily adaptable to
+structures and satellites.
+Ellen, I can't stress
+this next point enough.
+I know you've heard some
+fantastic stories today.
+And by the look on your face,
+you don't believe any of them.
+But if Reager is developing
+what I think he is,
+the balance of power could
+shift in such a direction
+that life on this planet,
+as we know it, will be over.
+Think, has it ever,
+ever occurred to you,
+why the United States has
+built a military complex
+that could destroy the
+world 10 times over.
+Please don't tell me it's
+because of the Soviet Union.
+It's because they know they aren't alone,
+and paranoia is driving
+this uncontrollable madness.
+We need to know where our parents are
+and what's in that hanger.
+I confess I'm running out of patience,
+but the alternative to
+patience is not an option.
+I've seen war in all its
+ugliness, too many times.
+The lines of peace need to be drawn here,
+between us, on this field,
+in this moment.
+You sadly deal in absolutes
+because the unknown terrifies you.
+- General, if I sign this,
+what's the objective of Operation Troy?
+- Identification.
+- So help me, God,
+what you've said is either
+all true or all a lie.
+All my years of training
+have told me to listen,
+stay calm and to act decisively.
+But the oath I took,
+isn't just a set of words.
+General Reager is one thing,
+but the president is another.
+I cannot pledge my allegiance
+on just your words alone.
+- Then you need to ask yourself,
+once you eliminate the
+impossible whatever remains,
+no matter how improbable,
+must be the truth.
+- Doveryai, no proveryai.
+- Trust, but verify.
+- This is exactly what they
+want. How can you trust her?
+- How can I not try?
+Can you see the forest for the trees?
+- Oh, my God.
+You told us everything in
+that meeting, everything.
+- You only hear what,
+not what you should.
+You only believe what you see.
+This is for you.
+NASA can verify its authenticity.
+If you can help us,
+Griffin is your contact.
+- Thank you.
+- How old are you?
+- Old enough to never forget.
+- Why are you here?
+- Answers.
+You honestly don't believe we're
+the only ones here, do you?
+- Where are you from?
+- Earth.
+- General Reager, please.
+- What is it?
+- Sampson signal has reappeared.
+- Where?
+- A field.
+10 kilometers from the city.
+- Do you have any idea what he wants?
+- No. He just wanted,
+more like demanded a meeting.
+- And he flew from Colorado to Brussels?
+- Well, it must be important.
+- Bill.
+- Yes, Madam president.
+- I need a moment.
+- If Reager learns what brought
+a Holocaust to your world
+you're going to have
+to explain to this one,
+why your people who've been here
+for the last 2000 plus years.
+- That's why it's imperative
+we find our parents.
+If they talked under pressure or--
+- Elisabeth, I understand,
+but understand me,
+I'm only interested in
+protecting this planet
+or as you people call it,
+the First World.
