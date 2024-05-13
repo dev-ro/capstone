@@ -1,0 +1,2200 @@
+- Why?
+- So we can
+have a record of it,
+so we can show papi.
+It helps him to remember.
+Now, are you ready?
+Like we practiced, okay?
+- Like that?
+- Si, exactly like that.
+Now don't stop, okay, Annie?
+- This should be take 11.
+This Ana Carter, U.S. citizen,
+documenting proof
+for my student visa.
+Phd chemical engineering
+at Oxford university.
+Currently testing electrolyte
+for batteries exposed
+to varying
+electromagnetic pulse.
+7.13, electromagnetic
+pulse managed
+by algorithm 13, running 13.
+Hypothesis correct, atom again
+unaffected by varying pulse.
+Electrolyte stable,
+7.13 successful.
+Test 7.14, electromagnetic
+pulse managed by algorithm 14.
+And we're running 14.
+Okay, hypothesis correct.
+Atom unaffected by varying
+pulse, electrolyte stable.
+7.14 successful.
+Test 7 and 15.
+Pulse managed by algorithm 15.
+Running 15.
+Hypothesis correct, atom
+unaffected by varying pulse.
+Electrolyte stable,
+7.15 successful.
+Test 7.16, electromagnetic
+pulse managed
+by digital algorithm 16.
+Running 16.
+Hypothesis correct, atom
+unaffected by varying pulse.
+Electrolyte stable,
+16 successful.
+Test 7.17, pulse managed
+by digital algorithm 17.
+Running 17.
+Whoa.
+What?
+- Hey, I'm gonna take my
+undergrads for a beer.
+Do you want to come?
+- Yep, it happened again.
+Disappeared.
+It doesn't make sense.
+- Coffee?
+I brought some good stuff.
+- Six times now,
+it's always the same.
+- So?
+- So, it's not a mistake.
+We're making this happen.
+- Deconstruct.
+An atom disappeared.
+- Just an electron.
+- Disappeared, so deconstruct.
+An electron can't just vanish.
+- Theoretically, if it's
+destroyed, or moved,
+or hiding, it can.
+- We haven't destroyed anything.
+If you had you
+would wiped out...
+Okay, so you removed
+it or it's hidden.
+- But carbon wouldn't have
+bonded if the electron
+was just hiding.
+- So you removed it.
+Okay.
+I've just never seen it
+done like that before.
+Where's it going and how?
+And this is gonna work?
+- The calculations
+are proportional to
+the subject volume.
+For an atom this should be fine.
+- Where did you get it?
+The algorithm, I mean.
+- I wasn't even
+testing algorithms.
+I was trying to show variance
+in pulse had no effect
+on the electrolyte.
+- Wait, but hang on a sec.
+Where's this one from?
+- Test 17
+to effect an entire atom.
+No hypothesis.
+No hypothesis, running 17.
+- We're gonna need
+a bigger boat.
+Okay, so these I recognize
+from my undergrad days.
+This is just secondary
+school geometry.
+But 17, it's quantum theory.
+Except you've dicked
+around with it.
+Why have you got pi in there?
+- I needed an endless
+string, non-repeating.
+- Yeah, but you
+can't use pi this way.
+It doesn't make sense.
+- I'm gonna
+try a molecule.
+- You're gonna
+crash the server.
+- We need help.
+A molecule is
+something I can trace,
+but we need help recoding
+so we use less power.
+- If you're talking
+about that...
+- Can you ask her?
+- Fuck no, she's like...
+Seriously, no.
+- Distributive computing, mostly
+it's charities that use it.
+You sign your computer up to
+kill cancer in its spare time,
+your processor crunches
+numbers whilst you sleep.
+This place runs a couple.
+- Really?
+- Really.
+- Can we use them?
+- You've cut your hair, Nathan.
+Sure, you register your
+project, give it a year,
+hope a dozen people log on.
+I like it.
+You look a little less faggy.
+- Distributive computing--
+- needs volunteers.
+- We need a lot.
+How many?
+- Our test crashed the server.
+- I heard, well done!
+You hackers, you.
+- We need processing on
+the petaflop's range.
+- What are you
+doing up there?
+- And this could pull that?
+- It's not legal,
+it won't happen like that.
+- But it is possible?
+- Tapping the school's easy,
+we're inside the firewall.
+Likewise, a worm that will
+sign people up to the grid
+without their knowledge,
+piece of piss.
+But how the worm spreads.
+It could fizzle in a week,
+or you could have
+half the planet
+donating spare
+capacity by Tuesday.
+- That would be nice.
+- Here.
+- Hello.
+- Vivisection is murder.
+- Okay, scrufter.
+- And you can do this?
+- Sure.
+Tell me what you're doing.
+I want in.
+- Ana, what she's
+suggesting is illegal.
+Hacking, stealing servers.
+Okay, let's do it.
+- And their packing,
+it's all--
+- it'll be fine.
+It's just, it makes me sad.
+Something nice?
+- Si, actually it's grilled
+chicken wrapped in parma ham
+stuffed with
+mozzarella and basil.
+Si, I know.
+I know.
+- Nathan, you're
+such a goddamn wet.
+It's utterly untraceable.
+It just worms along from email
+address book to address book
+feeding us power, and it's
+growing exponentially.
+I'm monitoring Norton, mcafee,
+but so far we're clean.
+God, this fucker's heavy.
+- Come watch.
+Three, two, one.
+- Okay.
+Technically, we're not
+moving stuff, are we?
+Moving involves locomotion.
+We know we're not destroying.
+- Or deconstituting.
+There's no residue, no
+trace of the particle.
+- It means we're
+sending it somewhere.
+- Yeah, but where?
+- The field
+equation implies
+we're creating a frame.
+- And we have marble 42.
+- Again, i
+see what we're doing.
+- Just not how.
+And these variables, Ana,
+this part of the equation?
+- And goodbye, marble.
+Oh, yeah, feedback from
+the electrodes, current.
+I had to account for it.
+- So a number comes back in fed
+into the equation from outside?
+- An electric
+oscillation, yes.
+- So, those are the electrodes?
+- And marble 44.
+- An end can be--
+- negative.
+And your electrodes,
+they were right angles.
+- Adios, marble 44.
+Yeah, so?
+- Your electrodes
+create three axes.
+- In three dimensions.
+I never noticed before because
+you have them pointing up.
+- But instead of like this,
+you define them like this.
+- Giving you an x,
+y, and a z axis.
+- Up and down, forward
+and back, left and right.
+Relative to the node--
+- we could mark
+a point anywhere.
+- Literally, anywhere.
+- Using the dimensions of the
+subjects to define the unit.
+- Test 17.108 to
+control the out node.
+Running diagnostics.
+So, if we wanted to send--
+- can we settle on something
+with a touch of panache?
+Phase, teleport, zap?
+You lack imagination.
+- Okay, we want
+to phase it here.
+- What's that?
+40 centimeters on
+the positive x axis?
+- Yeah, put a little
+into the y, negative,
+so that we can see that
+these things will work.
+- So x is 40, call
+it eight units.
+Negative one y,
+negative two on the z.
+Hypothesis has the
+subject moving, phasing,
+to a location 40
+centimeters away.
+- And landing with a bump.
+- And landing with a bump.
+Running 17.108.
+- Whoa.
+- Are you fucking joking?
+Oh, my god, we did it.
+- Not yet.
+We still have a range
+more test to run,
+but you know what we've done.
+- Funding.
+Funding, funding,
+we need to raise--
+- the worm is giving
+us the capacity.
+- Everything will change.
+- Everything.
+Look at the
+implications, just think.
+- Look, my uncle is a fund
+manager, I could call him.
+- Everything,
+i mean, the obvious.
+- Can we make it stable?
+- Not subject to
+flying, but intrinsic?
+- It wouldn't stay open.
+- Permanently, no.
+The processor
+wouldn't handle it.
+- You're saying
+to create a space?
+- A sphere.
+- It would be a sphere,
+there's no other way.
+- Everything will change,
+start with the obvious.
+- With a predetermined out node.
+- It's wormhole theory, we've...
+- Built a wormhole.
+A wormhole.
+We're teleporting shit?
+People, we're going to be gods.
+GPS will be up tomorrow.
+- Dad, can
+you call Lawrence?
+We need solicitors.
+- Start with the obvious.
+Patents, patents, copyrights.
+- We need experts, yes.
+But we need them soon.
+And uncle Scott, tell
+them we'll have a demo.
+- In a month?
+- In a week?
+- On Friday.
+Look, dad, I've got to go.
+But what this is, is big.
+- So medicine.
+Tumors out of the
+brain like that.
+Think how agriculture
+will change.
+From a wormhole on a farm,
+zap, into your fridge.
+The way we feed the
+world will change.
+Wormholes in the floodplains
+of Bangladesh and the Sahara
+will bloom energy.
+- If this works and it doesn't
+collapse all of reality.
+- We open wormholes
+to the earth's core,
+tap geothermal energy,
+run cables through wormholes
+to solar panels near the sun.
+- We'll need to check
+for cellular mutation
+or molecular decay.
+- We also need to
+discuss structure.
+We need to set up a
+company, we need finance.
+- Minerals, we can pull
+minerals from anywhere,
+send products everywhere.
+- Liv, where's this one going?
+- Gods, we're gonna
+change the world.
+Hello, ferny.
+Oh my god!
+Oh my god!
+Aw, your face.
+- What, what did I do?
+- Thank you.
+- You're
+chewing a toothpick.
+- It's what cool guys do.
+- Oh, so you're a cool guy now?
+- Yeah, I am, actually.
+- Wanna see a magic trick?
+- Yeah.
+- I can make matter disappear.
+- Oh, can you now?
+- Mhmm.
+You ready?
+Alright.
+You watching?
+- Yeah.
+- Good.
+Ah,
+okay.
+One more time, okay?
+Good.
+- I'm watching you.
+- I know.
+Shit!
+I used to be able to do this.
+- I think you should
+probably stick to the piano.
+- Oh, thank you.
+Ha!
+- Very good.
+- I know.
+- But where did it go?
+Up your sleeve.
+- Really?
+- You messed up the first two
+times on purpose, didn't you?
+So the third time i
+wasn't paying attention
+and you picked it up
+with your other hand.
+Show me.
+Show me!
+Yes, I'm a genius.
+Six years since we were
+undergrads together.
+- Second year physics.
+- Long time.
+- It is.
+Nate?
+Tests are perfect.
+DNA, rna identical.
+Hey!
+Looking good.
+- Yeah, I warned you
+i was a cool guy.
+Come see, Liv's created
+a stable sphere.
+- It's only 30
+centimeters across.
+We can't process
+anything bigger, not yet.
+Tempting, right?
+- It's so interesting.
+It doesn't look like
+i thought it would.
+- No, it's doing...
+You can see the numbers there.
+It's doing things
+with light that...
+Anyway, stand over there.
+Yeah.
+Phase attack!
+Get in.
+- That is something, though.
+There's potential for it.
+- No one will attack
+anyone, hippie.
+Retaliation would be too easy.
+- Like the atom bomb?
+- Bingo.
+Think how this will
+affect transport.
+- If we can phase live fauna.
+- Think.
+Cities will change.
+People will live in the
+country, phase into the office.
+- All the social
+problems cities bring--
+- will change.
+Travel will change.
+Phase to the mountains.
+- Phase to the beaches,
+to mom for tea.
+- To the moon.
+To the vault of
+a bank, anywhere.
+- Now you're talking.
+Nathan.
+Such wit.
+We're moving fast here.
+You think we should--
+- no.
+No, we need to get a test in
+before the university
+get involved.
+Buying all the hardware
+to run this legally
+means serious product first.
+- Okay, stinky thing.
+Prepare to make history.
+Granny?
+Hello, granny, it's Liv.
+Olivia.
+Yes.
+Question, how's tinkles?
+- Yeah, the patents.
+I need them processed.
+I needed them
+processed yesterday
+and I need them done
+in Ana's name, okay?
+All of them, they're all
+gonna want to see this.
+I mean, dad, this is massive.
+Just support me once.
+- Your
+grandmother's cat, really?
+- Fuck, oh my god!
+- Way bigger.
+Dad, it's like
+inventing electricity.
+- It's sound science.
+Granny will spot anything odd.
+Nate, can you give
+us a hand here?
+- It's all possible, isn't it?
+- This is the
+single biggest thing
+that mankind--
+- little boy a hand.
+- Will ever have done.
+- Red suits you, and
+this thing with the hair?
+No, really, I like it, honest.
+It's not so dragon tattoo,
+hacker stock image.
+- It's a good move.
+Incognito.
+- Olivia, darling.
+Come in, come in!
+Oh, it's cold out there.
+Oh, come in, come on through.
+Well you look lovely.
+You've taken that horrible
+blue shit out of your hair.
+Are you, um, here
+for tinkles again?
+- Hello to you too, granny.
+No, no.
+We just wanted to see
+how he's doing, actually.
+- Well, he's doing wonderfully.
+Hello there, I'm Brenda.
+I'm Olivia's
+grandmother, and you are?
+- I'm Ana, hi.
+This is Nathan.
+- I'm Nathan.
+- They're my assistants.
+Although Ana is an immigrant,
+so feel free to
+call border patrol.
+Tinkles is fine?
+- You're not being
+suspicious at all.
+Any reason why he wouldn't be?
+- Oh, he fractured the
+space time continuum,
+visited the fourth dimension.
+- Did he now?
+Would you like some tea?
+- This place is nuts.
+- Tell me about it.
+I knew she came from
+money, but this?
+- You're looking
+quite smart, actually?
+- Well, you know what?
+I'm channeling my inner granny.
+- Yeah, I her grandfather
+is Earl somebody.
+11th in line for the throne.
+- Seriously?
+Check this.
+- Ana?
+- What's up?
+- Do you want to go
+see a movie tonight?
+- Sure.
+We could all use
+the break, right?
+- I mean like, go see
+a movie, see a movie.
+- What are you...?
+Oh.
+- Fuck, forsaken
+cock fuckers, fuck!
+- Good grief, Olivia.
+- I cannot fucking believe this.
+Can you fucking believe this?
+- I cannot fucking believe it.
+- I can't fucking
+believe it, either.
+More tea?
+- Microsoft have a patch out.
+- A patch?
+- They're shutting
+the worm down.
+- Okay, so what
+does that give us?
+- A day Max.
+- The meeting is on
+Friday, the demo.
+We'll get funding then.
+- Not enough to pull
+cycles on this scale.
+- So?
+- We need to do a final
+test, a knock out.
+- You're not suggesting...
+- She is.
+We need to be true
+revolutionaries right
+out of the gate.
+- She's right.
+To guarantee investment
+on this scale,
+we'll need to have--
+- and we'd need to do it now.
+Right now.
+- Okay, I'll do it.
+- Uh.
+The world doesn't work like
+that anymore, Lancelot.
+- Well.
+- Well, then.
+- All systems operational.
+Temperature's dropping, holding.
+- Hydraulics one, up.
+Hydraulics two, up.
+Hydraulics three,
+Liv, higher, higher.
+Up.
+- Diagnostics
+reading okay.
+Still waiting for the
+numbers to plateau.
+- .272, .99.
+Liv, the readings here,
+they're inconsistent.
+Cable one's overheating.
+Switch to two and three.
+- On my mark,
+engage phase two.
+- Ana, hold still.
+- Could this feel
+anymore ominous?
+At all?
+- You don't have to
+do this, you know?
+- Yes, she does.
+Now relax, exhale.
+You're screwing
+with the readings.
+Nate?
+- For the record, I'm
+really, seriously scared.
+- Don't be.
+This is all you.
+- Picture the nobel.
+One last thing.
+- What if I grow tentacles?
+- Or testicles.
+A great big, Harry pair of--
+- we phase matter.
+We take matter and we pass
+it through a wormhole.
+- Unaltered, pass it unaltered.
+- Your point?
+The numbers really are dropping.
+We should go.
+- Just matter.
+What if we're...
+- What?
+- Nothing, no.
+Good luck.
+- Nate?
+You owe me a movie, cool guy.
+- Good luck.
+- Okay, and on three, two, one.
+- Hi.
+Hi, I'm James.
+Do you have a moment?
+- Sorry.
+- No, don't be.
+No, I'm kidding.
+You know this place?
+- Look.
+- They're using it for animal
+testing, you know that?
+- I'm sorry.
+Not today, okay?
+- Okay, no worries,
+maybe next time.
+What's your name?
+- Ana, yes.
+- Ana, that's a lovely name.
+I used to have a pet
+rabbit called Ana.
+Ana, you're in science, right?
+- We don't really use animals.
+- Oh, of course, of course.
+But you do--
+- sorry, look.
+I support what
+you're doing, I do.
+Just not today.
+- Well, hello again.
+How're you feeling?
+- I shouldn't drink so much.
+Can't remember shit.
+I hope I didn't...
+Good.
+- So, we've pretty much
+lost all of our capacity.
+We're back to atoms
+for the time being.
+- Everything?
+That was quick.
+- Was it really?
+- Yeah, so basically
+that thing is mothballed
+for the moment.
+We do have computer models.
+- We have.
+Sorry.
+We have it modeled, yes.
+So we can run analytic
+tests on the server.
+- Until we get funding.
+- Yes, until then.
+- Everything went
+okay though, right?
+Nate?
+- Yeah, of course.
+Why do you ask?
+- Okay, so what do we do next?
+- What do we do?
+Okay.
+So firstly, how are those tests?
+- Tests?
+- You're the chemist.
+You said you needed to
+take samples, run tests.
+- Memories, so many
+wonderful memories.
+Do you remember the video we did
+from the photos of loredo?
+I found it upstairs.
+I will pack it as well.
+- No, mom.
+- Ay, let me pack it!
+You can throw out
+anything you don't want.
+- That doesn't make sense,
+it's more work for both of us.
+Just throw it away,
+or give it to charity.
+- And the comic books?
+- Just put them in the trunk.
+- The trunk?
+- I told you, everything
+has to fit in a small trunk.
+- But there's so many things!
+- Well, that's the
+point of a small trunk.
+You kept it, mom.
+- Okay,
+don't get antsy.
+How are thing otherwise?
+- They're...
+Things are fine.
+Just a bit of a
+cold, but I'm okay.
+- Don't work too hard.
+I miss you.
+- Hello?
+Okay, okay then.
+Just please, leave
+my stuff and go.
+Please leave my work!
+For fuck's sake!
+Hey!
+Who are you?
+I don't need to call the police,
+I just want my stuff.
+It's just my work.
+It's worthless to you.
+Please.
+Good.
+- Ana, are you okay?
+Your voicemail had me worried.
+It must be late there.
+- My voicemail?
+I...
+My room's been broken into.
+They took my laptop
+and some other stuff.
+- Did you lose much work?
+- Well, it's backed
+up at the lab.
+It's also photos, memories.
+- I found something last
+night I'm going to send you.
+It'll cheer you up.
+- Okay.
+- I love you, baby.
+- Don't worry, mom,
+I'll call them.
+I love you, too.
+So I can't even report my card
+stolen, that's ridiculous!
+I don't know!
+It's just...
+Yes.
+Okay.
+My passport.
+Can I take a name and
+a reference number?
+Okay, Jim.
+I'll do it tomorrow.
+Yes.
+No.
+Thank you.
+But why aren't you
+taking this seriously?
+Someone stole our work.
+- Look, it's not like they'll
+make sense of anything.
+And you don't remember
+what happened--
+- no, that's what I'm saying!
+After the experiment, nothing!
+I can't remember!
+I mean, was I attacked
+on my way home?
+'Cause my room is trashed,
+my head hurts all the time,
+and I've been--
+- hey, hey.
+Don't worry.
+- I'm not worried.
+I just want to
+know what happened.
+No, something went wrong
+with the experiment.
+- Nothing went wrong.
+You'll have forgotten
+all about it tomorrow.
+- Listen, it's really
+not such a big deal.
+- Nate, listen to yourself.
+You're being weird.
+My passport, bank
+cards, all my work.
+Something's not right.
+- Ah, cock bollocks.
+Here we go.
+- So what's going on?
+- Check your
+email, we all got it.
+I needed to think about it--
+- before you
+discuss with us, you mean?
+- Exactly.
+Check your email.
+- Someone stole my computer.
+- So they did.
+- Wow.
+- Yeah.
+- Utterly untraceable
+were your exact words.
+- They've traced
+it to the university.
+This is a big place.
+- Liv, we don't--
+- this is a big place.
+- Look, someone is
+gonna come and ask questions.
+How well do you think
+that's gonna go, Olivia?
+- I'm the one
+who let her out.
+Just saying.
+- What's gchq, anyway?
+- What's wrong with you?
+- Government communications hq.
+They deal with cyber terrorism.
+- How worried should we be?
+- Cyber terrorism?
+- I don't see how it
+could be traced directly to us,
+unless we do something
+really stupid of course.
+- Nate, how many
+days have passed?
+Since the experiment?
+It's a simple question, i
+can go check for myself.
+- Will you stop that,
+it's getting on my nerves.
+Two weeks, I think.
+- You think.
+Okay, thanks for your help.
+- What's that?
+- A notebook.
+Did I tell you I'm not
+remembering things?
+- You were attack, mugged.
+- Thanks, I'll write that down.
+It's good that you
+both seem so concerned.
+- We are.
+I really am.
+Why do you think
+we're working so hard?
+- Doing what?
+Why won't you let me help?
+- Help?
+Yes, that'd be great.
+So, how're the tests?
+- What tests?
+See, that's what I mean.
+I can't remember.
+- You needed to
+take samples to see
+if the wormhole--
+- come on.
+You're saying I didn't
+do that already?
+Why is this locked?
+It's never locked.
+- Don't you have the keys?
+- What keys?
+I have been in this
+room all semester.
+There are no keys.
+- Okay, relax.
+I'll ask maintenance.
+- You know, I dreamed
+about this room last night.
+- Someone must've
+locked it, I'll check.
+- Who else has been in here?
+They have my laptop.
+Maybe they're
+after the project--
+- we're here all the time.
+Nobody's after our
+project, don't be paranoid.
+- My project.
+- Yes, Ana, your project.
+Are you okay?
+You didn't eat lunch.
+Get some rest.
+I'll put the tests into incubate
+and we'll go over them
+in the morning, okay?
+- Nate.
+- Don't antagonize her, okay?
+- She winds me up.
+- She's fragile, but
+she's still smart.
+We don't want her
+messing this up, alright?
+- Hey, where did you get that?
+Where did you get that mask?
+Where did you buy it?
+- Let go of me, murderer.
+- Oh, hi, hello.
+- Sorry.
+- Don't be.
+Joining us today?
+- I need to go home.
+Actually, those ape masks,
+who has--
+- Ana.
+Ana, we know.
+- How do you know my name?
+- We know what you're doing
+in there, your experiment.
+You have two options.
+You do the right thing--
+- or what?
+I'm sorry, are you
+threatening me?
+Do you want me to
+call the police?
+- Be my guest.
+- Hey, hey!
+- They're leaving
+via the back window, three.
+Any sign of them?
+- Negative, it's empty.
+I'll head up a floor.
+- Hello?
+Hello?
+- Ana, hi.
+How're you feeling?
+- How do you know where I am?
+- - Okay.
+How would I know where you are?
+You aren't at home?
+- I'm out, I'm not
+feeling so good.
+- Your head
+still hurting?
+- My head?
+It's okay.
+Nate, I need to talk to you.
+Something's not--
+- I know, that's why I called.
+Look, I'm in London
+tomorrow with the team.
+But you want to go grab
+dinner when I get back?
+- With Liv?
+- No, just you and me
+tomorrow at the Sushi place.
+Nine, I'll say.
+Ana, are you--
+- yes, I said yes.
+- Right it down, okay?
+There's a pen by the mouse cage.
+- You should eat.
+You look awful.
+Not like that, but...
+I don't understand
+why you're not eating.
+- What's happening?
+- What do you mean?
+- You know what I mean, Nate.
+What's happening?
+- You tell me.
+- Don't do that.
+Don't make this
+difficult for me.
+- Don't be weird.
+Look, I'm not trying to make
+anything difficult for anyone.
+- Then what's happening?
+- And I want you to tell me.
+What's wrong?
+What've have you to
+be paranoid about?
+- It's not paranoia, Nate.
+There's something
+faulty with my memory.
+- You were hit.
+- Then I should see a doctor.
+No.
+It has to do with the wormhole.
+- You're seeing a doctor.
+You've got an mri
+scan in two weeks.
+- Do I now?
+See, that's what I mean.
+I'm having trouble remembering
+things, recent things.
+- Well, we tested for that
+with the mice and with the cat.
+- I don't know what it is.
+And you guys, I mean.
+You're not helping.
+- Ana.
+- What?
+- You've told us this
+before, all of it.
+Told us.
+Look, Ana, I need you
+to stop investigating.
+The detective stuff,
+it's dangerous.
+I mean, with the government
+agency and the worm and...
+They're sending
+someone to investigate.
+Ana, I need you to
+trust me on this.
+Do you remember two summers ago,
+we went climbing in the quarry
+with the ropes and stuff?
+Remember how I got stuck?
+Like, really stuck?
+And I was scared.
+I think I even cried a little.
+- You cried a lot, Nate.
+I didn't know grown men
+could cry like that.
+- I was scared.
+But you talked me through
+it, you got me down.
+I trusted you.
+And I trusted that you wouldn't
+tell anyone else, either.
+- I never did.
+Except my mom.
+- You told your mom?
+- Sure.
+I mean, she's my mom.
+She thinks you're cute.
+- So I need you to trust me.
+Stop the investigation.
+Okay, that's good.
+But I need you to write it down.
+Write it down.
+Stop the investigation,
+trust Nate, trust Liv.
+Ana, please.
+- If I ask you to
+kiss me right now,
+what would you do?
+- Why aren't you eating?
+You really should eat.
+- I am exhausted.
+- Yep.
+Yeah, me too.
+Hey, look, your silk
+worm is still alive.
+I think he's trying
+to make a nest.
+- It's called
+a cocoon, Nathan.
+- Your only friend
+in the whole world.
+You okay?
+- Looking for something?
+- Any idea what this means?
+- No idea.
+- What does is mean?
+- You wrote it, sister.
+It's a prime number,
+if that helps.
+- Where's my camcorder?
+- My place.
+I took it to digitize
+the experiments.
+- Yep, you said
+he should take it.
+- Did I really?
+- Mhmm.
+- Can you bring it back?
+It'll help to see
+what we've been up to.
+- Sure.
+- What are you working on?
+- I'm trying to
+streamline the code, Ana.
+- So?
+- So we can operate
+the generator again
+without all those illegally
+acquired processors.
+Happy?
+- Why don't you call your mom?
+How is she, anyway?
+How did her move go?
+- My mother?
+Why, is she involved in this?
+- Oh, my god.
+- Look, you want me out of here.
+I get it.
+Why mention my mother?
+What is going on?
+I dream about this
+door, I dream about it!
+- Hey, you guys
+better come join us.
+The vice chancellor's here.
+- So, as I was saying,
+it infected millions, hundreds
+of millions of computers.
+Apparently.
+And it's been traced
+to our university,
+to this department,
+ladies and gentlemen,
+from an ip address
+in this building.
+Well done.
+You've actually achieved
+something of significance.
+This is Mr.
+stovington from gchq.
+He'll be questioning
+everyone in the department.
+Do cooperate.
+And you're welcome to have
+a member of faculty present,
+should you wish.
+- Ana!
+Ana.
+Jesus, get a grip.
+- Okay, so
+this detective guy.
+Tell me again just how
+we don't end up in jail.
+- She's not gonna stand
+up to questioning.
+- She'll be fine,
+won't you, Ana?
+- Where are the patents?
+- The what where?
+- The patents.
+You're stealing my project.
+- Excuse me?
+Where are the filing documents?
+In whose name are they?
+- They're in your name.
+- Then where are they?
+- With my father's solicitor.
+- What did you do to me?
+- I warned you.
+- Ana, Liv and i
+are trying to help.
+- No!
+- What did we do to her?
+- Yeah.
+Ana.
+- You said something
+about matter, about how
+the wormhole moving matter.
+What was that about?
+- I don't remember.
+- No, you do.
+You said, "the wormhole,
+it just sends matter."
+- Yeah, but...
+- Go home, just calm down.
+- But what if there's
+something else?
+If we're more than just matter?
+What if there's a part of
+me that doesn't have mass?
+If I went through but...
+But my soul was left behind.
+- Uh, I'm not sure
+i can take this.
+- Okay, look, you need
+to listen to yourself.
+You just accused us of
+trying to steal your project,
+and now you're talking
+about your soul.
+- You're fucking crazy.
+- Liv, shut up.
+Okay.
+Look, Ana, we're trying to help.
+We do care.
+Ana, Ana!
+Shit.
+- Ana!
+Twice in one day, lucky me.
+Everything okay?
+- Hey.
+Mom, look.
+Have I been--
+- acting a bit strange?
+Yes, you have.
+- Say again?
+- No, this morning.
+Did we talk already today?
+- Ana, are you sure you're--
+- what password?
+- I don't know.
+You said I shouldn't talk to
+you unless you say a password.
+- What was the password?
+- Ana.
+- Mom.
+- Is that really you?
+- Of course.
+Mom, hey.
+- You said that
+you'd say a word,
+that I shouldn't trust
+you unless you say--
+- you're my mom.
+I'm not giving you a
+password to talk to you.
+Just don't listen to me
+if I talk to you about--
+- Ana.
+I have to go.
+There's someone at the door.
+Talk to me when
+you're feeling better.
+- Nate, look, I'm really sorry.
+Oh, god, sorry.
+- I thought you were someone else.
+- - No, it's okay.
+Don't worry.
+- Sorry.
+What are you...?
+- Neurological damage,
+just doing some research.
+- Well, good luck.
+- Thanks.
+- Excuse me, can i
+ask you something?
+- Yeah, I have a boyfriend.
+- Oh, god no, don't worry.
+I'm just trying to
+work something out.
+Does human memory have mass?
+I mean, if you could
+wipe a person's memories,
+would their brain weigh less?
+Weird one, I know.
+It's just--
+- no, no.
+Um, it's an
+interesting question.
+You know, I have no idea.
+Have you tried Google?
+- It just want to
+sell me USB sticks.
+- Well, how do they work?
+Do they weigh more
+when they're full?
+- No, I wouldn't
+imagine, anyway.
+They're just zeros and ones.
+- I think the human memory
+works much the same.
+It's electricity, ons and offs.
+Like an empty battery
+has the same--
+- has the same
+mass as a full one.
+I know about batteries.
+So memory is electricity,
+but electricity is electrons
+and electrons have mass.
+Thanks.
+One last thing.
+Do you think we're
+more than our memories?
+I mean, we're born with none
+and die with a lifetime's worth.
+So when we talk about
+the idea of a soul,
+maybe we're just
+talking about...
+Sorry, you're busy.
+Thanks, anyway.
+- Good luck with your work.
+- Thank you.
+- Someone with a key?
+Yeah, I'll hold.
+- Oh, yeah.
+They're asking everyone.
+Someone broke in over
+at the chemistry lab.
+Probably some drugs, then.
+- These protestors are horrid.
+They shouldn't allowed to
+harass people like that.
+- I know, right?
+This is Oxford.
+- Tracy said her
+rep said they'll be
+arresting someone today
+for the Internet thing.
+- Ana, hi. You um...
+- Don't.
+I don't trust you.
+I don't believe you,
+so just don't, okay?
+- You heard about the break in?
+- I did, actually.
+- A protester, they
+think, a week ago.
+Caught on cctv, though they
+can't make out the face.
+- Couldn't they?
+- You muppet.
+Why the hell are you breaking--
+- something's very wrong
+with me, you know this.
+- Yes, something is.
+- Because of that.
+- It's complicated.
+- I'm sure it is.
+- It's not
+what you think.
+- What do I think, Nate?
+Tell me.
+Look, I'm like a crazy person.
+So whatever you did
+to me, well done.
+It worked.
+- Yeah.
+Ana, there is something
+wrong with you,
+but we don't know how--
+- you're lying.
+You want the project,
+but it's my project.
+It's mine, and I'm
+closing it down.
+- Ana, what have you done?
+- Hello, somebody
+call maintenance?
+- Yes, we need the keys
+for the storage room.
+Can you open it?
+- Ana.
+- Nathan.
+- I gave you the key
+for this already.
+You said you would
+bring it right back.
+- No, I don't think it was--
+- that's right, darlin'.
+We were stood right here.
+- Look, can you open the door?
+- Not without the key and
+if you've lost the only one,
+I'll have to fetch
+a member of faculty.
+- That won't be necessary.
+We'll find it.
+What the hell are you doing?
+Are you nuts?
+We broke the law!
+There's police everywhere,
+and you want to bring some,
+some pissant farm
+hand down here.
+And what if he goes to the vc?
+And the vc goes, gee, heck.
+You know, all this kooky
+stuff and the government
+are investigating us because
+for some damn worm virus--
+- Liv!
+- Fuck you,
+you know that I'm brain damaged
+and none of you have
+done anything to help!
+- You're not brain damaged, Ana.
+- Did I not tell you to shut up?
+Fuck you both.
+- Sir, she's here.
+- Hello, Ms. Carter.
+- Shouldn't
+i have a lawyer?
+Am I being arrested?
+- Heavens, no.
+No, we simply wish to
+ask you some questions.
+I mean, you are
+perfectly entitled to
+have a lawyer present.
+But in that case, well,
+then we'd have to travel
+all the way across town
+and fill in lots and lots
+of paper work, and so on,
+and so forth.
+I mean, it really is quite dull.
+Come.
+Please.
+Would you like a peanut?
+I have this theory that you
+can always tell if a man--
+oh, well in your case a woman,
+is guilty based
+on how they react
+when the interrogation
+officer offers them a peanut.
+- No, thank you.
+- No?
+Sure?
+Suit yourself.
+So.
+- So?
+- So what do you think?
+- About what?
+- Well, do you think you passed
+my guilty peanut test
+or not?
+I'm only messing.
+I do apologize.
+However, you would be
+amazed the amount of men
+I've had admit to
+murdering their own parents
+by offering them a peanut.
+Would you like a peanut?
+"Oh, I killed my mother!"
+I mean, it's...
+It's like a magic trick.
+Anyway.
+To business.
+- Look, mister.
+I'm sorry, I'm really busy.
+- Yes, I know.
+You're a hard one to pin
+down, keep very strange hours.
+I mean, most students
+do, but you, you're--
+- can we do this another time?
+I'm not really--
+- have a look at this.
+Tell me if you recognize it.
+- What is this?
+- I'll be honest with you.
+We're not looking for
+the worm's author.
+We know you wrote it,
+but what we don't
+know is what it does.
+Come now.
+What, you thought you'd
+get, oh, 800 million people
+to do your homework and
+it would stay a secret?
+- Look, I've been
+unwell, alright?
+But I have no idea
+what I'm looking at.
+You know I'm a chemist,
+not a programmer.
+- All we want to know
+is what it is, miss Carter.
+Anarchy?
+Clogging up the system?
+Are you a part of that?
+- I have no idea.
+Anarchy?
+- Well, your friends--
+- they're not my
+friends, are they?
+Why don't you ask them.
+- We have gathered
+here today for one reason,
+and one reason only.
+- Over 18%
+of students are scientists.
+We have murder on our hands
+if we let this stuff go ahead.
+- Ana!
+Ana, everybody.
+This is Ana we were
+telling you all about.
+- She's American.
+- Is she?
+- She is.
+- Well, that makes sense.
+- Decided not to join
+us in the end, then?
+- Clearly not, though we did
+give you every chance to.
+- We did, we tried.
+- What is this?
+- So, what do we have here?
+Half a dozen lab mice?
+- Only mice.
+- Only mice.
+Then rabbits.
+But you've left this
+section blank, Ana.
+What were you doing to them?
+- What are you doing
+to them, Ana, in there?
+- Witnesses said they
+saw you bring a cat in.
+But where's the paperwork, Ana?
+- Where, indeed?
+- A pet.
+That's not legal, Ana.
+- That's not legal at all.
+You should see what
+they built in there.
+- Listen.
+- Should we?
+Should we see her lab?
+- No!
+- We have everything
+we need, Ana!
+- We're shutting you down.
+- Shut her down!
+Shut her down!
+Shut her down!
+Shut her down!
+Shut her down!
+Shut her down!
+Shut her down!
+Shut her down!
+- Aw!
+We're only joking, Ana!
+- Wah-wah.
+- My notes.
+What's wrong with me?
+Hi, I think I left
+something here last time.
+- Oh, well
+come in, come in.
+Would you like some tea?
+- I would love some tea.
+- Ana!
+Hey, look, are you okay?
+- Peachy.
+- Where are you?
+Can you come back to the lab?
+- All I wanted was for you
+to explain what was going on.
+- We explained
+it to you so many times.
+Ana, you just keep forgetting.
+Look, look, I'm sorry.
+Can you just come
+back to the lab?
+Ana?
+- Goodbye, Nathan.
+- Ana?
+- Yes, she does!
+Now relax, exhale.
+You're screwing
+with the readings.
+Nate.
+- We phase matter.
+We take matter and
+we pass it through--
+- unaltered, pass it unaltered.
+- Your point?
+Numbers really are
+dropping, we have to go!
+- Just matter, right?
+We're...
+- What?
+- Nothing, no.
+- Nate?
+You owe me a movie, cool guy.
+- Okay.
+And on three, two, one.
+- 271 apparently successful.
+Readings inconclusive,
+couldn't map the subsets.
+The wormhole stays
+open too long.
+Gravitational distortion,
+needs to close instantaneously
+to do a wormhole.
+Guys, we have a problem.
+Two, one.
+Two, one.
+Two, one.
+- Ana, what are you doing here?
+- I'm...
+I mean, what are you doing here?
+- It's my room.
+- How did you know I was here?
+- It's my room, i
+was coming home.
+- You were at the lab.
+You were at the lab, how
+did you know I was here?
+- Ana, listen--
+- how did you know I was here?!
+- Jesus.
+Look, you told me.
+You told me you were here.
+- You're sleeping with Liv,
+which I don't give a fuck about.
+But Nate, you're not stupid.
+You must know how
+much that hurts me.
+I thought you and me, we had--
+- forget about Liv, please!
+Look, and you're the one
+going through my underwear.
+So just, enough.
+We never realized how badly
+this was affecting you.
+- Affecting, Nate?
+Affecting?
+I'm losing my mind!
+I don't eat, I don't drink.
+My dreams are insane.
+I have no memories, I have
+to make notes all the time.
+It's--
+- you can have them back.
+- I don't want them back!
+Am I insane?
+I do things behind
+my own back and--
+- please, just put that down.
+Come to the lab.
+We can explain it there.
+- Explain now.
+- No.
+No, you won't remember.
+Come to the lab.
+Liv has rewritten the algorithm.
+- What is happening to me, Nate?
+What is that?
+What is that?!
+Why don't I eat?
+Why don't I remember?
+Answer it.
+- Don't threaten me.
+I'm trying to help.
+- Answer the phone.
+You want me to trust you?
+- Okay.
+Hello.
+No, no, I'm with her now.
+- Who is it?
+Who is it?
+Who is it?
+- This is
+Ana Carter, U.S. citizen.
+This is Ana Carter.
+Ana Carter, Ana
+Carter, Ana Carter...
+Something's not right.
+- Everything will change.
+People, we're going to be gods.
+- It doesn't
+look like I thought it would.
+- It that really you?
+- Why don't
+you call your mom?
+How is she, anyway?
+How did her move go?
+- Want
+to see a magic trick?
+Want to see a magic trick?
+- You thought
+you'd get 800 million people
+to help you do your homework
+and it would stay a secret?
+I'm losing my mind!
+Losing my mind!
+- Is that really you?
+- Do you want to
+go see a movie tonight?
+We'll go see a movie.
+- You're the chemist.
+Said you needed to take
+samples, run tests.
+- I found
+something last night,
+it'll cheer you up.
+- Nobody's
+after our project.
+- To
+the moon, to the moon.
+To the vault of a bank.
+Anywhere.
+- Ana, thank fuck.
+Where's Nate?
+Come inside.
+- I shot him.
+I need help.
+- What are you doing?
+You didn't shoot anyone.
+- You need to help me, okay?
+I've lost my soul.
+- Do I...
+Ah, yes!
+I did the peanut routine
+with you earlier, didn't I?
+Sorry about that.
+It's Carter, miss Carter.
+- Yes, yes.
+- Look, I don't know why
+i do that shit, but, uh,
+let's get you cleaned up.
+High as a kite.
+- No, it's a wormhole.
+And they slept together!
+- You in some sort of trouble?
+- No trouble, officer.
+She's fine, aren't you?
+- I've lost my soul.
+I saw it on the video.
+- Okay, yep.
+Come on, let's get you inside.
+- No!
+It was you!
+You did this to me!
+- You fucking muppet.
+Come on.
+- No!
+- Ana, I'm trying to help.
+Okay?
+Shit.
+Your level of gratitude
+leaves a little something
+to be desired.
+Nate, I found her in the crowd.
+Christ, what did she do to you?
+- I've lost my mind.
+- You haven't.
+- Nate, I have.
+I have.
+I'm seeing things
+that cannot be real.
+I've hurt myself.
+I hurt you.
+- We understand what happened.
+- Did you see the video?
+- Mhmm.
+- What was that?
+Was that my soul?
+- Don't, okay?
+That's not science,
+and it doesn't help.
+- You remember the experiment.
+- Yes, I remember
+the experiment.
+- We needed readings.
+- So we could run it
+as a computer model.
+But the wormhole was open
+too long, creating a vacuum.
+- Your generator
+creates wormholes.
+Wormhole theory takes the
+fabric of space and time
+and it folds it
+creating a path here.
+- We, your machine,
+the algorithm,
+induces an event
+horizon at the out node.
+- A mathematical black hole
+pulling the subject through.
+- So it was open
+too long and...?
+- And the gravity field
+distorted the readings.
+Our numbers were
+all over the chart.
+- You remember the first
+time you went through.
+Afterwards, we
+decided, all of us,
+that we had to
+get those numbers.
+- The first time?
+- We had to find a way
+to shut it off the
+nanosecond you were through.
+- We had to...
+Yes, the worm's
+numbers were dropping.
+So we had to make
+sure it snapped shut
+the moment my mass was through.
+You used the scale sensor to
+automatically cut the generator
+the moment it had
+weight applied to it.
+- It was your idea.
+- So, we ran it again.
+I went through a second time.
+But then...
+After that I can't...
+What happened?
+- Three, two, one.
+271 apparently successful.
+- What?
+- Keep watching.
+The wormhole stays
+open too long.
+Guys, we have a problem.
+Okay, so there's the out node
+with the scale sensor cutoff.
+Okay, we ready?
+- Are we not
+moving a little fast here?
+- It's fine, I'm fine,
+and we've done this once.
+- Yeah, and the
+cycles are dropping.
+We have minutes, seconds, even.
+It's really now or never.
+- Come on, we need this.
+It's fine.
+- Okay, and
+on three, two, one.
+- Liv!
+- Shit.
+You alright?
+What the fuck?
+- No, no, no, no, no.
+What am I?
+- Ana.
+- Am I a clone?
+Tell me what that is?
+- Okay, please, not again.
+- We can show you.
+- What happened?
+- Relax, Ana!
+Just listen to us, please!
+- Tell me!
+- Every time!
+Every time.
+- Jesus, you're not a clone!
+- I am, I saw!
+There were two of them!
+- You're a chemist,
+you dumb shit!
+All those samples you took!
+- Liv, she doesn't remember.
+- No.
+Well, there's the microscope.
+Show her.
+Tell you girlfriend to
+write it down this time!
+Jesus, you fucking shot at me.
+- Don't.
+You don't need to.
+- So?
+- Increase the resolution.
+- It's not working properly.
+- Oh, it is.
+- There's nothing
+here, there's no...
+- It's complicated.
+- Woops, you're an anomaly.
+A quantum fucking mistake.
+- Liv, don't make
+any harder than it is.
+- No?
+I am sick of her
+thinking I'm the bad guy.
+I've hardly slept the last
+month trying to figure it out!
+And the number of times, daily,
+that this retard comes in
+and shoots at me!
+Where the hell did she
+get a gun from, anyway?
+- You're light, Ana.
+When we fold space and we pull
+you across the event horizon,
+we're pulling you faster
+than the speed of light.
+That's how a wormhole works.
+You're the light
+that got left behind.
+- That's not possible.
+I'm more than just a copy.
+I think.
+I mean, I'm thinking right now.
+I have emotions.
+I am.
+- We don't understand
+it, either.
+You're light.
+You have photonic weight.
+You have a radiation signature.
+You do exist.
+- I'm just not real.
+- Not in the normal sense.
+It's why you're not
+making memories, or
+eating, or drinking.
+It's why your dreams are so--
+- my dreams.
+My dreams are vivid.
+Like, like I'm looking
+through someone else's...
+Tell me.
+I know what happens next.
+- Hey.
+Sorry I pushed you in the alley.
+That whole day was just...
+I was so scared.
+You don't remember
+though, do you?
+- And her?
+- Well, she has mass.
+She...
+She exists.
+She's the real Ana.
+- No.
+Bullshit, don't say that!
+How can I not be?
+- This is really
+hard for me, too.
+I feel hollow, like
+I'm missing something.
+- Yeah, like a soul?
+- Hey, I eat, I walk
+around everyday.
+I remember what I do.
+I remember what you do.
+I was pulled through.
+I'm real.
+- It'll be alright,
+and we're gonna be there.
+- I know.
+- Just don't be sad, okay?
+This'll work out.
+The algorithm's being
+rewritten, and I'll talk to her.
+- To me, you mean.
+- Just for the
+moment, can we not...?
+- So, what happened?
+You two?
+What, just like that?
+- Ana, I'm crazy about you.
+I have been for so long.
+- Why her, then?
+Why not me?
+- Because you're not real.
+- We can fix it.
+- We open up the wormhole again.
+- I've rewritten the code so
+that it's no longer defined
+by volume but by mass.
+You have no mass, we
+can send you through.
+- Send me where?
+- You won't go anywhere.
+Nowhere, essentially.
+It's...
+It's like smashing a mirror.
+Your reflection
+doesn't go anywhere,
+it's just...
+Gone.
+- You want to kill me.
+- You're not alive to kill.
+You're my reflection.
+You'll open your
+eyes and be here.
+- I am real, I exist!
+Oh, my god!
+I exist, I don't want to die!
+Mom?
+- Hi, it's me.
+I just got your--
+- mom, I love you so much.
+I just don't tell
+you this enough.
+- Oh,
+baby, don't be silly.
+I love you, too.
+Are you okay?
+Do you remember?
+I remember.
+Memories are wonderful.
+Did you get my package?
+Do you remember playing
+the piano with me?
+- Yes.
+How can I not be real if
+i remember these things?
+- Why?
+- So we can
+have a record of it,
+so we can show papi.
+It helps him to remember.
+Now, are you ready?
+Like we practiced, okay?
+- Like that?
+- Si,
+exactly like that.
+Now don't stop, okay, Annie?
+- Mom, sorry.
+I'm just listening
+to it right now.
+I'll call you tomorrow, okay?
+Love you.
+- Mommy!
+Mommy, I love you!
+I love you so much!
+Mommy!
+What about the things I've done?
+What about my memories,
+the stuff that makes me me!
+- They're mine, not yours.
+All those things you've
+done, they're here.
+Can't I just stay here?
+Please, I can sleep in there.
+Just give me one last--
+- you won't remember this.
+- We've tried it before.
+- We kept you here at first.
+- Seemed safe.
+- But you would
+forget everything.
+- Everything.
+- It was horrible.
+You hurt yourself.
+- You hurt us.
+- We couldn't
+get anything done.
+- It was easier
+with you out there.
+- It was just...
+- Awful for you, I know.
+I felt it everyday.
+You okay?
+- No, not really.
+- I know.
+- Yeah, you probably do.
+I'm scared.
+- What?
+- So.
+- Yeah.
+- Look at us,
+sitting here like
+two normal people.
+I feel like I should
+say something profound.
+- You know, if i
+were in your place...
+If I were you,
+I don't know if I could do this.
+I don't think I could.
+- Yeah, you could.
+Thank you.
+You're an asshole and if
+i think that, so does she.
+Go on, then.
+Hit me.
+- Three, two, one.
+- Salud.
+- And the project?
+- We shut it down.
+- No, why?
+- I'm with Ana, I mean--
+- how can we stop progress?
+It's out there now,
+we know it's possible.
+- Someone else
+will discover it.
+- And you think it should be us?
+Even after what we just--
+- well, because of that, yes!
+Do we outlaw cars
+because people crash?
+Or electricity because
+it electrocutes?
+I have the mri on Thursday,
+that'll give us some closure.
+Then we press ahead.
+It's called progress.
+Did we really imagine
+there weren't gonna
+be any teething issues?
+- And the worm?
+The investigation?
+- I can hack the
+blame onto anyone,
+I just need someone
+with a motive.
+- We still have a million
+more tests to run, true.
+But we need to move forward.
+And to move forward,
+we need money, funding.
+Now you said that the
+meetings were back on.
+- Yeah, but--
+- good, good.
+Now, then.
+Do you remember all the cool
+shit we said we were gonna do?
+Watch.
+Everything will change.
+Guys, pay attention.
+Can we get something to eat?
+I'm starving.
+Yeah?
+Come on.
+- Wow,
+that was amazing.
+Wasn't it?
+What a clever sticks you are.
+- I did okay?
+- You were brilliant.
+Now, this is the best part.
+We can go back and listen to
+it again, and again if we want.
+- Can
+i give it to papi?
+- Sure you can.
+When he comes back,
+you can do anything.
+Now, press that to turn it off.
