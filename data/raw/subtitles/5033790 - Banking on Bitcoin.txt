@@ -1,0 +1,2891 @@
+<b>www.ZooCine.OrG
+watch movies and series!</b>
+I really like it down here.
+I live literally right by
+the world trade center.
+I walk home. I live
+above it, actually.
+My ankle bracelet.
+Tells the government where I am
+every second of the day,
+any time of the day.
+But it's gonna come off when
+I go to prison, I think.
+I mean, I don't think I'm
+wearing this in prison, so...
+That's what the
+plan is for that.
+Closing numbers on
+the markets today,
+at one point, the market
+fell as if down a well.
+It was an historic day,
+with wall street shaken
+to its very foundation.
+And even the health of
+the most trusted firms
+are now being called
+into question.
+We have former
+secretaries of treasury
+who go from government
+to wall street
+pocketing hundreds of
+millions of dollars.
+In 2008, I became
+somewhat obsessed
+with the role that money
+itself played in the crisis
+and the role that governments
+and banks played in money,
+and why was it that our money was
+controlled by central banks?
+If something new happens,
+is the government
+likely to give it a nod
+or at least ignore it for a
+while, or is the government
+likely to come down
+and try to crush it
+because they're afraid of
+anything new and different?
+This is a monetary revolution.
+Bitcoin is the honest currency.
+Okay, this past week
+we've been talking about money.
+I'm gonna ask everybody
+what you think money is.
+Can you give me
+some answers now?
+Money is, like, paper
+and you can, like,
+buy stuff with it.
+So you have to have, like,
+four quarters for a dollar.
+You need money to buy
+your house, like, food,
+water, oxygen... Not oxygen.
+Money is basically just
+an accounting system.
+It is a way of recording
+who owns what,
+who has what, who
+owes what to whom.
+That is all money really is.
+And you needed somebody
+who could stand as
+the central issuer,
+somebody who was the
+trusted third party,
+someone who could guarantee
+that the money was real.
+And for hundreds of years now,
+we have had governments
+issue money.
+Again, money is just
+an accounting system.
+That's what bitcoin is.
+Bitcoin is really just
+an accounting system.
+It is a way of recording
+transactions,
+recording value,
+and it does it digitally,
+so you and I can send it
+to each other directly,
+and everything is recorded
+in the open ledger.
+By monitoring and
+updating that ledger,
+in a collective,
+consensus-based system,
+you do away with the need
+for somebody in the
+middle having to be
+that sort of repository
+of all the information.
+And that's what gets
+away from the fees,
+the inefficiencies,
+and ultimately the potential
+for corruption and risk
+that come with centralizing
+information in that way.
+What it does is it takes
+that trusted third
+party function
+and it automates it.
+It puts it into an open
+ledger that is put online
+that is there for
+anybody to see,
+so that every bitcoin
+is accounted for,
+so that you know that you're not
+getting a counterfeit bitcoin.
+It's kind of remarkable
+that this idea of bitcoin
+was launched just a few weeks
+after lehman brothers
+went bankrupt
+and the whole system
+nearly collapsed.
+And the problems that
+cropped up in the crisis
+were very much a part of the
+writings of satoshi nakamoto.
+I think what the
+crisis showed is that
+the existing system
+had some major flaws.
+It wasn't working and
+people were hungry
+for some sort of alternative.
+I discovered bitcoin's power
+when I understood
+for the first time
+that it was not controlled
+by a central company
+or a central person.
+Because I knew that meant
+it couldn't be shut down.
+And if it can't get shut down,
+all it needs is to
+do something useful,
+and it will become
+more and more adopted
+and as the value grows,
+people will find
+more and more uses for it.
+The beauty of bitcoin is,
+it's easily transferrable,
+it's anonymous.
+And by 2140 there's
+gonna be 21 million,
+and that's the cap.
+There's only x amount of gold.
+There's only x
+amount of bitcoin.
+Before, if you wanted to send
+something of value
+across the Internet,
+you had to get somebody
+else involved.
+You had to have a
+credit card company
+or PayPal, or maybe a bank
+involved in the transaction.
+The promise of bitcoin is that
+you're directly sending this
+currency to another person
+and then the bitcoin network
+performs the function
+that normally PayPal
+or a bank or your credit
+card company would perform.
+Bitcoin really puts the control
+back in the hands of everybody.
+Everybody who's participating
+in the bitcoin system
+is controlling how it works.
+If you want to look
+for the Genesis
+of cryptocurrency, it was
+the cypherpunk movement,
+you know, growing out of a
+kind of a love of the Internet
+and its possibilities.
+The discovering of
+cryptography and imagining
+that you could give birth
+to a new world, really,
+out of the Internet.
+A world that lives outside
+of the nation-state,
+and outside the structures
+of power and the hierarchies
+that are associated with that.
+These people had
+talked about the need
+and the possibility for
+a digital currency
+that was anonymous or
+could be anonymized,
+using cryptography.
+The cypherpunks that
+emerged in the early '90s
+were hyper-concerned
+about privacy,
+about personal Liberty,
+and a lot of people had come
+up with their own systems.
+Some of them came very
+close to happening.
+The one that probably came the closest
+was digicash from David chaum.
+Privacy of payments
+is actually essential
+for democracy.
+The reason is not because
+you need to be able
+to make private payments in
+order to express yourself,
+but rather that in order
+to inform yourself,
+you may need to
+purchase information
+and that's the thing that allows you
+to have opinions worth expressing.
+Although I wouldn't say David
+chaum was a cypherpunk,
+he definitely inspired
+the cypherpunk movement.
+It's as if the cypherpunks
+kind of came upon
+David chaum's tools,
+like the technology
+of some alien species,
+and they only took the weapons.
+They were most interested in
+the ones that could be used
+to disempower the government
+and empower individuals.
+The break between him and
+the cypherpunks came
+when he realized he would need
+existing institutions
+to help him with it,
+so he started talking
+to governments,
+he started talking to banks.
+He was very close to having
+this thing happen
+in the late '90s,
+and nobody was really
+prepared for this
+outside of the
+cypherpunk movement.
+People it seemed like
+had almost sort of given
+up on the project.
+Other than a few experiments
+here and there,
+by hal Finney, Nick szabo,
+the conversation around
+this really died down.
+And then all of a sudden
+it came back to life
+after the financial crisis,
+and you had people going back to
+those experiments in the 1990s
+and looking at new ways of
+putting those ideas together.
+Nick szabo, in 2006,
+had just finished up
+a mid-life stint at law school,
+and if you look Nick's writing
+around the financial crisis
+that is really
+revived his interest
+in these ideas that, you know,
+he had been working
+on in the 1990s
+with privacy and contracts
+and the problems
+of governments and other
+trusted third parties.
+And he brought bit gold
+back into the conversation.
+So hal Finney came up
+with his own system.
+Adam back has hashcash,
+wei dai has b money,
+szabo has bit gold.
+So what satoshi did in 2008,
+was satoshi took a lot of these
+ideas and made them work.
+He created an
+encryption-based protocol...
+It's not really a currency...
+Utilizing a ledger
+called the blockchain,
+allowing for many kinds
+of transactions to occur.
+Contracts, all kinds of things
+can be built into
+the blockchain.
+And it does this through a
+system of consensus building
+where multiple computers
+all participate
+in the management of
+the blockchain ledger,
+a kind of digital
+document, if you will,
+that keeps track of
+all the payments.
+I understand it's something that
+is instantaneous online
+and it can go from one
+country to the other
+and you know, they can
+have their money.
+Well, I never heard of
+it until Nancy called me
+and mentioned digital currency
+and I'm thinking
+she must have been
+in the bottle this
+morning or something.
+Digital currency.
+What, what? You know.
+But they say it's for people
+who don't have bank accounts.
+I can't understand.
+If you have one coin, it's...
+Let's say it's worth $150.
+What do you do, give the
+number or something to the...
+Say, the grocery store person,
+and then they subtract it?
+How do you know? How
+do you make change?
+How do you know what you have
+left or what you've spent?
+You can have the money supply
+controlled by a computer.
+That's all bitcoin really is.
+The key point here is that
+this a distributed ledger.
+There is no central server.
+All the other ledgers
+that we have,
+all the banking ledgers,
+all company ledgers,
+they all sit and reside
+inside that company,
+which means they have
+one point of attack.
+They can be hacked.
+Jp Morgan was hacked
+by, you know, the
+cyberthieves not so long ago.
+Home depot, target, we've had
+all these companies get hacked,
+precisely because there's one
+central repository of information.
+The bitcoin ledger
+resides, on, you know,
+thousands of computers.
+You can't hack that.
+Every single transaction
+is recorded,
+and once it is recorded
+in the blockchain,
+it is there, it is permanent.
+It cannot be altered. It cannot be
+changed, so that you can read it.
+Now the identities of the
+people are encrypted.
+The wallets are encrypted,
+so you don't know who
+is spending the money,
+but you know that every
+single bitcoin out there
+has a history, you
+know where it's been,
+you know the different
+addresses it's gone between.
+The most important pieces of
+the bitcoin infrastructure
+are the miners.
+These are the computers
+that are tasked
+with maintaining the
+ledger of the blockchain
+to verify the information,
+to update it,
+to make sure that
+it is trustworthy.
+So how do we incentivize
+them to do so?
+As they are going through the
+process of confirming transactions,
+they are simultaneously
+being subjected to
+a very, very difficult
+computing test.
+The bitcoin core
+protocol is forcing them
+to look for a number.
+All of these miners are
+ultimately competing
+to be the one that receives
+that payout every ten minutes.
+But really that's the
+secondary component.
+They're really being
+rewarded with bitcoin,
+but what is the
+more important task
+is the validation
+and verification
+of transactions and the
+maintaining of the ledger.
+Bitcoin, in being the
+first to achieve
+this holy grail of
+decentralized value exchange
+that transfers that
+process of trust
+to a collective
+agreement around a body
+of independent computers
+who are compelled by
+an incentive system
+to maintain that consensus
+and affirm the information
+to be correct
+is incredibly liberating
+because it means
+that we can do it without
+all these intermediaries
+in all these different realms.
+The most important thing behind
+bitcoin is not the currency.
+The key factor is
+the blockchain.
+Nobody expected this.
+You know, in 2008, very few
+people cared about it.
+It was just the
+computer scientists
+and the sort of code geeks
+that were really interested.
+All of my communication
+with satoshi
+was ever via either the
+bitcoin talk forums,
+which, all of that
+communication is...
+Public, or private forum
+messages or private emails.
+Satoshi was always all business.
+It was just always
+about the code.
+My very message to satoshi,
+I asked him, "so, is
+satoshi your real name?
+What have you done before?
+Can you tell me a little
+bit about yourself?"
+And he just ignored
+that completely.
+But came back and
+said, "you know,
+great to have more
+experienced programmers
+helping out with the project."
+You know, "here's a couple of
+problems that need to be solved.
+Maybe you can help solve them."
+In 2011,
+I was into bitcoin sort
+of just as a hobby.
+I didn't really know
+what to do in it yet.
+I was trying to meet
+everyone I could,
+figure out what projects
+would be cool to work on.
+I met Roger ver sort of
+in August of that year
+and a few months later, he
+recommended to this guy,
+Charlie shrem, who
+started bitinstant
+that the Charlie should hire me
+as the head of marketing
+for bitinstant.
+Bitcoin is cash with wings.
+It's the ability to be able
+to take a local transaction
+and do it globally, and
+that's why bitcoin
+is gonna overturn the
+financial infrastructure.
+Bitcoin is like the largest
+socioeconomic experiment
+the world has ever seen.
+Our conversations
+would range from
+you know, the mundane
+and practical,
+like how the hell are we gonna
+get another bank account
+since our current bank account's
+probably gonna get
+shut down any day now?
+To very high-minded,
+aspirational ones,
+like, is this actually gonna
+change the world in a good way?
+Are we just a bunch
+of crazy people
+who don't know what the
+hell we're talking about,
+or are we actually starting to
+initiate an industry
+which, in hindsight,
+will look obvious to everyone,
+but, you know, right
+now does not?
+Charlie shrem was,
+at that stage,
+a fairly high-profile figure
+in the bitcoin community.
+The vice chairman of
+the bitcoin foundation
+and you know, one of these
+bitcoin millionaires
+who'd made a lot of
+money very quickly.
+And really played an important
+role in the infrastructure
+of managing the movement
+of funds around the system
+in that early rudimentary phase.
+632 bid!
+654 offer in the New York
+cash market for bitcoin.
+Buyers right now will pay
+$632 cash on the spot.
+Who's next for the bitcoin? You
+want to know what bitcoin is?
+You know what I prefer?
+I prefer dollars.
+If you want to go on
+down to 40 broad,
+right next door to the
+stock exchange there,
+to the New York bitcoin center,
+you can buy and
+sell all the time.
+- You have a table in the middle.
+- Yeah.
+Just one small table, round.
+And I have flowers, like
+a flower arrangement.
+- A very nice flower arrangement.
+- Bitcoin flowers?
+Bitcoin flowers. Bitcoin
+flowers would be
+white Lily, purple and orange.
+Just right here, three colors.
+We're putting together
+the first bitcoin center
+here in New York City,
+right next door to the
+New York stock exchange
+bitcoin is a new space,
+and many of the rules and regulations
+haven't been imposed yet.
+But we will open one day soon,
+after the lawyers do their job,
+a live digital
+currency exchange.
+What's happening here
+is a fusion between
+wall street and
+bitcoin, hopefully.
+Satoshi seemed to acknowledge
+that it would be hard for
+bitcoin to develop in any way
+in which it wasn't interacting
+with the regular economy
+of dollars and Euros.
+The problem with exchanges is
+that they took you
+back to this old world
+that bitcoin was really
+trying to get away from.
+As soon as you move
+back to an exchange,
+you're moving back to a world
+in which some third party has
+all this personal data on you,
+has all of your money,
+has all of the security
+vulnerabilities,
+and really has none
+of those strengths
+that bitcoin was
+designed to provide.
+Jed mccaleb created mt. Gox,
+essentially on a lark one night
+because he couldn't buy bitcoins
+as quickly as he wanted to.
+And interestingly, he
+did it by starting
+with a url that he'd
+previously used
+to run magic card trading sites.
+So you get an idea about where
+somebody's ideas are coming from
+and how really kind of
+rudimentary some of them were.
+Jed essentially threw
+this site together,
+and put it online without
+too much thought.
+Jed essentially sold it to
+the first person he found.
+Who was mark karpeles,
+a French guy
+who was living in Tokyo.
+He really knew very
+little about mark
+when he decided to
+sell it to him.
+And once he took it over,
+it began growing
+much more quickly
+than mark was expecting
+or was prepared for.
+There are 21 million bitcoins
+programmed into the system
+that are going to be released.
+It's a set number,
+but within that,
+every single bitcoin
+can be divided up
+into a hundred million
+different pieces
+so there's room for it to
+expand as the use expands,
+especially in the emerging
+markets, in the developing world.
+That is really the
+most interesting place
+to see where this thing goes.
+So in my pocket I have a hundred
+trillion Zimbabwe dollars
+from the reserve
+bank of Zimbabwe,
+just as a reminder
+of what happens
+if our governments
+screw up our money.
+You know, Zimbabwe's
+a good example
+of a government that lost
+the trust of their people,
+and they lost the
+trust of their people
+by printing too much money
+and causing runaway
+hyperinflation.
+So I think you will see people
+in other parts of the world
+who've experienced
+hyperinflation
+who've experienced
+bank failures.
+I think those will be
+the kind of people
+who are looking for something...
+Something new, right?
+They're willing
+to take the risk.
+A lot of us take the capacity
+to send money to others,
+receive money, store money
+and do it electronically
+these days for granted
+because we are amongst the
+lucky 50% or so of the world
+that have bank accounts.
+But 2.5 billion
+adults in the world
+do not have access
+to bank accounts.
+A technology like
+bitcoin, cryptocurrency,
+has the capacity to bring those
+people into the financial system,
+to give them this power
+to effectively have
+what you could argue is a
+bank in their cell phone,
+a bank in their pocket.
+Really could open up
+commerce to a lot of people
+who are currently
+excluded from it.
+Somebody who is maybe
+working in one country
+and, you know, they want
+to send money back home.
+And right now, like,
+western union is a big way
+that people do remittances.
+From a western
+union perspective,
+we serve clients in many different
+locations around the globe,
+and primarily for remittances.
+Western union serves typically
+an unbanked customer,
+a customer who is either
+a migrant worker,
+or an individual who
+doesn't feel comfortable
+in the financial
+services sector.
+And the problem with remittances
+is they're really expensive.
+So if I'm sending
+$100 back home,
+I may end up spending
+$5.00 or $10.00
+just on fees to get that
+money back to my family.
+That's a huge percentage if
+you're poor and working.
+So since bitcoin doesn't
+care about borders,
+I could just send bitcoin
+to another country,
+and if my family in
+that other country
+has some way of
+spending that bitcoin
+or has some way of trans...
+Of exchanging that bitcoin
+into the local currency,
+then it's just quicker and
+cheaper and more convenient.
+And a lot of people
+think that remittances
+will be one of the really
+big first uses for bitcoin.
+The one challenge
+there is we deal with
+you know, at our company, 750
+transactions, peak, a second.
+And those happen instantly.
+If you look at a blockchain, you
+have to wait for verifications,
+and if you do a recent test,
+it takes about 15 minutes
+for every transaction
+to be validated by the network.
+That doesn't scale,
+so it has its
+challenges as well.
+Wikileaks, which
+solicits and publishes
+secrets and suppressed material
+from whistleblowers
+around the world,
+has been under cyber
+attack from governments
+that want to shut it down.
+PayPal is the latest business
+to break ties with wikileaks,
+but the whistle-blowing website
+dedicated to publishing
+classified government documents
+still continues to seek funding,
+while crossing out PayPal
+as one method of payment.
+In order to insure
+our future survival,
+wikileaks is now forced
+to temporarily suspend
+all publishing operations
+in order to direct
+all our resources
+into fighting the blockade
+and raising funds.
+The wikileaks scandal
+seemed to provide
+an opportunity for bitcoin.
+At the time, the big
+banks and credit cards
+stopped processing
+payments for wikileaks,
+and some people thought that
+bitcoin would provide a way
+to send donations to wikileaks.
+You could certainly see in
+the hubbub around wikileaks
+that satoshi was still somebody
+who was very paranoid
+about the government,
+and the government coming in
+and taking too close a look
+at the bitcoin project.
+And you could also
+see that satoshi,
+I think, realized at this point
+that bitcoin was
+still young software
+and the kinks hadn't
+been worked out yet.
+In, I think, late 2010,
+he asked me if it'd be okay
+if he put my email address
+on the bitcoin. Org home page,
+'cause he had been the
+primary contact for people.
+And I said, "sure."
+He went ahead and
+changed the web page,
+but what he did is he
+left his name there,
+but he took away
+his email address.
+And so it was just me
+and my email address
+who was suddenly getting
+all of the attention.
+I think that was satoshi's
+way of kind of saying,
+"you're the leader
+of the project now."
+There was one particular email
+where he told me that he was
+gonna step away from the project
+and do something else. He
+never told me what else
+he's gonna do or
+that he is doing.
+I had just been invited to
+give a talk at the CIA.
+And I told satoshi that i
+accepted the invitation
+to go speak at the CIA.
+After he sent that
+email to satoshi
+telling him that he was
+planning on going to the CIA,
+he never heard from
+satoshi again,
+and that was essentially the last
+time anybody heard from satoshi.
+You very quickly get
+caught up in the question
+of who is satoshi nakamoto?
+Where did this come from?
+Who is this person?
+I mean, this is the 2000s.
+Information is out
+there, everything.
+Everyone knows everything
+about everybody.
+How can there
+possibly be a person
+that nobody knows
+who this guy is?
+But there is a person... At
+least I think it's a person.
+It might be a group...
+Who nobody knows
+who this guy is.
+And he kind of appears
+out of nowhere in 2008
+on these cryptography
+email lists,
+with this system called bitcoin.
+He's very active in
+the early years,
+there's a lot of back and forth
+with him communicating
+with people.
+It seemed like most people
+kind of wrote him off
+as kind of like a
+delusions-of-grandeur kind of scheme.
+Hal Finney, on the other hand,
+seemed to be really interested
+right from the beginning.
+He was a crypto-idealist.
+Like, he was not
+as kind of cynical
+as many of the other cypherpunks
+so he got really into this.
+He started talking
+to satoshi nakamoto,
+who he said seemed like some
+young Japanese American coder.
+Hal Finney was the first
+guy to work with nakamoto.
+He was a cryptographer.
+Soon as nakamoto released it,
+he was one of the first people
+to email him back and say,
+"hey, this is interesting.
+I'd like to work with you."
+And in the first
+weeks of bitcoin
+he worked with him
+back and forth
+setting up the system.
+And satoshi nakamoto ended
+up sending hal Finney
+the first ever
+bitcoin transaction.
+Any discussion of
+satoshi's identity
+has to go back to the
+fact that bitcoin
+was based on this small number
+of projects back in the 1990s
+that only a handful
+of people knew about,
+like hashcash and bit
+gold and b money,
+and so you end up with a
+pretty small group of people
+who would have known
+about these projects.
+People though chaum, David
+chaum, was, you know...
+Everybody in the
+cypherpunk movement
+at one point or
+another, they've said,
+"well, he must have
+been satoshi."
+They've all come
+out and denied it.
+Probably somebody who
+started out in the '90s,
+in California, with
+the cypherpunks.
+Somebody who was very,
+very good at cryptography
+who understands encryption,
+and has done a wonderful job
+of just separating bitcoin from
+anything that can identify him.
+I think for bitcoin's sake,
+that continuing
+anonymity of satoshi
+has ended up being a
+really good thing,
+because people who have
+gotten involved in it
+have been able to write
+their own ideas and dreams
+onto this technology,
+and there was nobody
+there to say,
+"no, that's not what I meant."
+In the early, early days,
+the first group was
+really just a bunch of
+more or less tech-minded coders.
+Then you had the
+libertarians come on board,
+who saw it through
+a political lens,
+I'm excited to be a little
+bit of a part of it
+with allowing and
+accepting bitcoin.
+And then you had these two
+groups working together
+and they overlapped too,
+and the timing was very good
+because the existing system
+was in utter disrepair.
+It was like a match
+to a pile of wood
+with gasoline poured
+on top of it.
+And the whole thing kind of
+really goes viral and takes off,
+and then you have the
+suits, the vc money,
+and it was very small at first,
+just a couple of guys
+out in silicon valley
+who ran into bitcoin
+guys at coffee houses
+and you started having this
+meshing of conversations.
+Once silicon valley
+gets on board,
+that whole dynamic
+starts to take off.
+So now you have the
+tech-minded coders,
+the libertarians, the
+counter-culture people,
+the vc, silicon valley,
+and you have this entire
+great mishmash of people
+coming together.
+You had a network effect.
+The more people
+that got involved,
+the stronger the network got,
+and the more it grew and it
+really started growing on itself.
+And in 2013 especially,
+you literally see
+this thing mushroom.
+The thing was just growing,
+growing and growing and growing
+as more and more
+people got involved.
+I think most bitcoin
+companies at the time
+knew that a big part of
+the market for bitcoins
+was people buying
+drugs on silk road
+who needed bitcoins to do that.
+The big bang moment for bitcoin
+was the silk road.
+What Ross ulbricht did by
+creating the silk road
+was he took this
+by no means common
+but usable cryptocurrency
+called bitcoin
+and he married it
+with a streamlined,
+workable user interface
+that was a free market
+that could sell anything.
+What would happen if
+people were really free
+truly free to trade
+what they wanted to?
+Ross did have an
+extremely radical
+libertarian viewpoint,
+and really wanted to experiment
+with using technology
+to create free
+markets for people.
+What Ross ulbricht did is a
+combination of Tor and bitcoin.
+That was the "aha" moment
+that Ross must have had.
+The silk road was
+basically the fruition
+of all the cypherpunk dreams,
+the crypto-anarchists' utopia
+that they had
+imagined in the '90s,
+you know, was real now.
+This was a perfectly, in
+theory, anonymous website,
+with perfectly, in
+theory, anonymous money
+used to by any
+contrabands imaginable.
+The silk road website is a
+particular headache for authorities.
+It's a anonymous
+online marketplace
+where people sell drugs that
+are posted to customers
+all over the world.
+Cyber investigators, you
+know, when there's a crime
+can kind of trace you back
+because you have an ip address.
+It's like a telephone number,
+so if you call another computer
+that ip address is tracked.
+On Tor, that's taken away,
+because your information
+hops from computer to
+computer to computer
+so there's no way to trace you
+back to your original one.
+Tor is an anonymous system,
+so if you use the Tor browser,
+which it has a browser.
+You can go to Tor and
+download their browser,
+you can browse with some
+degree of security.
+So that's great for plugging
+your banking information
+into a site so you
+don't get hacked.
+The other component of Tor,
+which has similar uses,
+is called Tor hidden services.
+Tor hidden services is
+actually, to put it simply,
+a url that doesn't have
+".Com" on the end of it.
+It has ".Onion."
+And that is its own little space
+where you can create websites
+and you could freely transact
+without oversight or regulation.
+People put websites on there
+that are outside of law
+enforcement's view.
+There's hackers for
+hire, there's malware,
+there's credit
+card dump services
+there's a whole bunch of them.
+Chris tarbell has ended
+up being, in some ways,
+the most important FBI
+digital crime investigator
+of the last few years.
+He was the one who took down
+anonymous, essentially.
+So we decided to start looking
+at some of the services on Tor,
+and silk road being one them,
+other cases, they would hit Tor,
+and they would kind of throw
+their hands in the air
+and say "it's Tor, there's not
+much we can do about it."
+I found it interesting to kind of
+take a look at it and tackle it.
+Bitinstant was basically born
+because if you wanted
+to move your dollars
+into a bitcoin exchange,
+it takes at least three days.
+And since the major exchange, mt.
+Gox, was in Tokyo
+it could take a week or more.
+So that's really problematic,
+and basically Charlie
+figured out that
+if you just held a balance
+of dollars at the exchange,
+you could go to him and say,
+"Charlie, I'll give you $100.
+Will you give me $100 of
+credit at the exchange?"
+And you can literally then have
+your dollars at the exchange
+in ten seconds as
+opposed to a week.
+So that's hugely helpful, especially
+when bitcoin is so volatile
+and you need to know exactly
+what price you're going to get.
+Charlie was raising capital
+right as, sort of, i joined.
+During that process,
+he came across lots of
+interested investors who
+were starting to get a whiff
+that maybe this bitcoin
+thing was cool.
+We had an interesting
+debate early on
+about do we invest in bitcoin
+or bitcoin companies
+and we sort of
+decided to do both.
+More towards investing
+in actually bitcoin
+in the asset early days,
+but also trying to place a
+few bets in the ecosystem
+to support the companies,
+support the entrepreneurs,
+and see how that went.
+A few days after they first
+found out about bitcoin,
+they were in the bitinstant
+offices in New York
+meeting with Erik and Charlie.
+And Erik and Charlie essentially
+talked them through bitcoin
+and answered all of their
+questions and concerns.
+What made you invest
+in bitinstant?
+There are a lot of companies
+and exchanges and websites.
+With respect to bitcoin, regulation
+is obviously a big question.
+What you do want is a company
+that sort of takes that seriously
+and understands that there's
+the technology element,
+there's building the company,
+and then there's also
+creating the company
+that works with regulators.
+And so that's bitinstant.
+It's not this sort of
+completely underground thing?
+Yeah, Charlie the ceo happens to have
+been in this space for a long time,
+so he's sort of on the pulse
+and the cutting edge.
+You know, you come out
+and you say, like,
+"we want this bitcoin thing
+to overturn everything,"
+but at the same time we
+have to be compliant
+and you have to
+know your customer.
+You have to know every single
+customer no matter what.
+Even if they're transferring
+a dollar or $1,000.
+And how reasonable is that?
+The term "money laundering"
+was invented by banks,
+and knowing your
+customer shouldn't be
+this complicated,
+expensive thing.
+And you shouldn't treat everyone
+like a criminal in the beginning.
+They really wanted us involved.
+People were really friendly,
+because it benefits you
+to onboard more people in,
+so bitcoin's always been
+this very friendly community
+and it's also... in some ways
+it's self-serving that way,
+but we were there for
+the right reasons.
+At the time, bitinstant
+was the big company
+other than mt. Gox.
+It was the way that most
+Americans were able
+to buy bitcoins.
+Here it is.
+So bitinstant was
+located right there.
+I think it's the one
+that now says "bling."
+It was a whirlwind six months.
+Going from total
+obscurity with no money
+to becoming one of the
+hot startups of bitcoin.
+But almost as soon as the twins made
+their investment in the company,
+it began falling apart.
+The twins had a much
+more practical approach
+to bitcoin and bitinstant.
+They wanted to see the
+company making money
+and making as much
+money as it could
+as quickly as it could.
+They saw early on that
+it would be regulated,
+that it wasn't
+gonna be this big,
+and have no one be
+interested in regulating it.
+So they feared that all
+kinds of regulators
+would come in at all
+different angles
+and tie the thing up
+in a complete morass
+where nothing would
+ever get done.
+So they wanted to help
+drive the regulation
+so that whatever regulation
+would be there would work
+and would not end up being a
+complete dead end for bitcoin.
+That strategy is smarter,
+from purely a
+business perspective,
+but I'm not in this purely
+from a business perspective.
+I am in this for business
+and because I'm trying
+to change the world
+and make it better,
+and building bitcoin companies
+and begging for regulation
+that matches exactly
+the banking regulation
+that has caused so many problems
+I feel like is
+counterproductive.
+For the most part, bitinstant
+was actually taking steps
+to make sure that people weren't using
+the service for illegal purposes,
+but Charlie made the mistake
+in dealing with btcking
+of acknowledging that he knew
+what btcking was doing,
+and that he was acquiring
+bitcoins to sell them
+to silk road customers.
+In this case, Charlie
+worked with the guy
+and wrote emails that
+essentially acknowledged
+he knew what this guy was up to.
+That stunning arrest
+of the drug kingpin
+who goes by the name
+"dread pirate Roberts"
+and appears to have cornered
+the Internet drug market.
+His real name is Ross ulbricht
+and his website, silk road,
+is packed with products
+like cocaine and heroin.
+The payment system is
+all through bitcoins,
+which is basically
+digital currency,
+not backed up by any
+international banks,
+not backed up by any us banks,
+but simply based on the
+confidence of the users
+who exchange these bitcoins
+computer to computer.
+There's a reason why the
+case was tried in New York,
+in the Southern district,
+and largely that was
+because of bitcoin.
+Ross was caught
+in San Francisco.
+The silk road servers
+were out of the country.
+So why was Ross's case tried in
+the Southern district of New York
+where most of the financial
+regulations cases are dealt with?
+Where the district
+attorney, preet bharara
+has been all over bitcoin.
+Where Charles schumer, the senator,
+has been all over bitcoin.
+Ross ulbricht's case
+is a bitcoin case.
+There's absolutely
+no denying it.
+The level of threat that
+the silk road posed
+to the marketplace,
+to wall street,
+whether it's a perceived
+threat or an actual threat,
+was humongous.
+And the idea that somebody
+could create a marketplace
+where you could freely transact
+without oversight or regulation
+had to be dealt a massive
+and public blow.
+Bitcoin kind of monetized that
+anonymous part of the Internet
+and made it possible
+to trade in things
+that the federal government
+doesn't want you to trade in.
+Law enforcement moves slowly
+but it's a big heavy wheel
+that grinds finely,
+so, you know, someone was
+running a hidden service,
+and now they're in
+prison for life.
+They were playing hardball.
+It was very evident
+that their intention, as the judge
+herself said in her sentencing,
+was to make an
+example out of Ross,
+was to say to all of you
+people using bitcoin,
+to all of you people
+who want to tangle
+with unregulated marketplaces
+and technologies
+and open source
+cryptocurrencies,
+"we will throw the book in its
+entirety at you if you do this."
+We seized a whole
+bunch of bitcoins.
+And in order to sell those
+bitcoins off or go to an exchange,
+you have to fit within
+federal law and state law.
+There's not really an exchange
+that could handle that,
+that met those regulations
+at the current time,
+so it had to be handled
+through auction.
+You know anything
+about bitcoins?
+There's an article in "the
+wall street journal" today
+- on bitcoins.
+- - Really?
+Right here, if you
+want to read it.
+It is?
+Digital currency,
+did you see that?
+Wow!
+"Digital currencies will
+disrupt global finance,
+transform the way
+we pay for things,
+and just maybe, make the
+world a fairer place."
+From what I've read
+on the computer,
+they have had some problems.
+- Yeah.
+- Yeah.
+The reason is because
+you can't track it.
+Well, I think I don't
+like this idea at all.
+When we saw the silk
+road shut down,
+a lot of people said,
+"bitcoin's nothing but illegal
+drugs on the Internet.
+That's what it is."
+And they would point at
+the silk road and say,
+"look here at all the stuff
+that's happening here."
+And I think when you saw
+the silk road shut down
+and bitcoin transaction volume
+take a tiny little dip,
+and then keep going up,
+you know, I think that was
+a great event to point at
+and say, "it really
+wasn't about that.
+It really isn't about that."
+It's a tiny little
+part of the economy.
+I guess in the last week
+I've really started
+hearing about bitcoin.
+Recently I heard a scenario
+after the FBI had seized
+a bunch of bitcoins
+due to illegal transactions,
+now they're gonna be
+auctioning them off
+like they would a private yacht
+for, you know, from
+some drug dealer.
+So that, in a way,
+legitimizes the use of it
+as a currency.
+Looks like it's the first live
+bitcoin exchange on wall street.
+Looks that way.
+Yeah, so one for 950.
+- Buying or selling?
+- -Selling.
+550 on a thousand...
+Right now we were looking
+at the open interest
+at the floor of the
+bitcoin exchange.
+There's different exchanges
+that are online,
+that will present at
+the bidding house,
+but there's no true
+open outcry exchange.
+Buyers and sellers
+coming together
+in an open, clear,
+transparent, honest way.
+- Gox is the highest one.
+- Why don't we call it 900?
+900...
+There's my transaction,
+probably the first two
+transactions of the day.
+It's really not about the money,
+it's about being involved,
+and I think there's a lot
+more people gonna follow me.
+Charlie shrem, 24 years old,
+arrested today and charged with
+engaging in money laundering
+shrem enabled people
+to transfer money
+from bitcoin to cash via his
+company called bitinstant.
+Now the other point
+that the DEA is making
+is that shrem bought drugs
+online at silk road
+and that he knew silk road
+was a trafficking website.
+And we know the winklevoss twins
+who obviously were featured
+in the movie about Facebook.
+They're actually investors
+in shrem's company.
+Yeah, you know, a lot of people
+are very excited by this idea.
+They like the idea that
+you can have a currency
+that is not tied to any
+kind of central bank,
+but at the same time, i
+mean, think about it.
+If you're in the
+federal government,
+you don't like the
+idea that people could
+effectively use
+another form of cash
+to buy things that they
+shouldn't be buying online.
+With me, it wasn't
+all my customers.
+It was one customer,
+out of about 100,000 customers.
+This was one customer.
+One single...
+And I made that case
+in my sentencing.
+I said, "your honor,
+this was one customer."
+It happened that I was literally
+coming home from Amsterdam.
+I was in my sweatshirt.
+I was still stoned.
+I didn't know what was going on.
+Charlie did not know
+when to shut up,
+and that ended up
+getting him in trouble,
+and probably led to the
+end of his company.
+But they got me under
+the patriot act,
+and it's money laundering
+because I knew that the
+money I was taking
+was eventually possibly going to
+be used for drug trafficking.
+Now drug trafficking is not
+buying drugs, it's selling drugs.
+I didn't help the drug seller.
+I helped the guy buy drugs.
+But I never went to
+trial because...
+And I pled guilty because who
+wins at trial, you know?
+Like this guy, silk road,
+he's gonna go to life.
+In trial, all he needed
+to get was a lady
+whose son died from
+a cocaine overdose
+and I would've... the jury
+would've convicted me right there.
+So essentially Charlie was
+selling bitcoins to a guy
+who was selling
+bitcoins to people
+who were putting drugs
+into their own bodies.
+And for this, Charlie
+was charged with crimes
+that could've put him
+in jail for 20 years.
+That's what the prosecutors
+were shooting for.
+We have banks that have atms
+on every street
+corner in America,
+and those banks know very well
+that that cash is
+getting used for drugs.
+And yet, that's fine.
+They're allowed to do that.
+No one gets in trouble.
+But Charlie sells bitcoin
+to a guy who sells bitcoin
+to someone who uses drugs,
+and he goes to jail.
+He was an entrepreneur that
+started building this industry,
+built services that
+people found useful,
+when bankers almost
+destroyed the world economy
+and none of them got
+in trouble whatsoever.
+And here we have this 23-year-old
+kid, he goes to jail
+because he started
+building an alternative.
+Over the last six months,
+our agency has been conducting
+an extensive inquiry
+into virtual currency.
+The information we're
+going to gather
+in this fact-finding effort
+will allow us to put forward,
+during the course of 2014,
+a proposed regulatory framework
+for virtual currency firms
+operating in New York.
+Yesterday, we had serious
+criminal conduct
+come to light involving
+virtual currency
+as a vehicle for
+money laundering
+drug trafficking, and
+other major felonies.
+Right now, the regulation of
+virtual currency industry
+is still akin to a
+virtual wild west.
+That's why we're evaluating
+whether our agency should issue
+a so-called bitlicense,
+specifically tailored
+to virtual currencies.
+I think people who imagine
+a very powerful
+utility, like bitcoin
+that would somehow escape
+regulation entirely
+are either naive
+or extreme optimists.
+Bitcoin is a battle of ideas,
+and it forces the issue of
+whether people should be
+as free in their handling
+of money as they are
+in their handling of
+speech or religion
+or relationships
+with each other.
+If you want to have this
+thing go mainstream,
+you're going to have to
+have the regulators,
+the lawmakers weigh in on it.
+One of the first ones who
+really took an interest
+was Benjamin lawsky.
+Very important regulator
+in the financial world.
+And in January, 2014, holds
+these public hearings
+because he wants to
+come up with a license
+for bitcoin companies.
+We believe that putting in place
+appropriate regulatory safeguards
+for virtual currencies
+will ultimately be beneficial
+to the long-term strength
+of the industry itself.
+Lawsky was essentially
+given the opportunity
+to write the rules for this whole
+new industry from scratch.
+The first question
+is the obvious one
+that's on everyone's mind.
+Sort of unexpected yesterday,
+but with the arrests
+we saw obviously
+that's put a bit of a cloud
+hanging over the
+industry right now,
+and so how do each of you react
+to what we saw yesterday,
+what it means for bitcoin or
+virtual currency and its future?
+I think it further supports that
+bad guys are gonna
+do bad things,
+and they're gonna use whatever
+technology is available to them.
+But I view it as, if the allegations
+are true and they're convicted,
+the system works.
+Are people still doing
+bad things with bitcoin?
+Sure. Is the majority of
+the bitcoin activity vice?
+Not a chance.
+So I think the issue you raise
+is one that people
+like to write about,
+the media likes to write about
+it, makes great headlines.
+You get a lot of clicks.
+You can sell a lot of ads,
+but I think it's in
+the rearview mirror.
+There are some people in
+the bitcoin community
+from the libertarian
+side of things
+that want government to
+just leave it alone.
+Would you say regulation
+is both inevitable
+but more importantly,
+actually ultimately
+going to be crucial for the
+survival of virtual currency?
+Sounds like a
+terrible idea to me.
+Just understand what we're
+trying to do with bitcoin.
+We're trying to create a world
+where transactions can move
+globally for free, okay?
+And making these companies hire
+you know, some outsourced
+compliance firm
+is a bad idea.
+It'd be great, in any industry,
+if you could just open
+the door and let folks
+run out and give it a shot.
+We may choose not to
+invest in a company
+if they can't get
+licensed by you.
+If the choice
+ultimately is between
+preventing money laundering
+on the one hand,
+and I probably shouldn't even
+use the word "money laundering"
+'cause it's too nice
+a word, frankly.
+Money laundering is
+the facilitation
+of all kinds of horrific crimes
+that I think everyone
+in this room
+never wants to see happen.
+Acts of terrorism, funding
+rogue nations, etc.,
+all take place through
+massive money laundering.
+Now the choice for
+the regulator is,
+permit money laundering
+on the one hand,
+or permit innovation
+on the other.
+We're always going to choose
+squelching the money
+laundering first.
+I agree that I don't think
+anybody wants money laundering.
+When we got a...
+First saw bitcoin
+you know, about a year and a
+half, almost two years ago.
+I don't think anybody would deny
+that it was a bit of
+a wild, wild west,
+because there was no regulation.
+There was no framework
+to evaluate
+the asset, evaluate companies,
+determine who was compliant
+and who was not,
+and a wild west
+attracts cowboys.
+And I don't think anybody here
+would disagree with the fact
+that a sheriff would
+be a good thing.
+A lot of, I think,
+the entrepreneurs
+feel like they have
+to self-censor.
+They don't want to come out vocally
+critical of the regulations.
+Part of that is maybe
+'cause some of them
+just like regulations,
+but I think another part of it,
+some of them just feel
+like they will get
+attention of the regulators if
+they come out against them.
+Yes, we want them to innovate,
+but at the same time,
+we just can't live in a world
+where we're gonna permit
+money laundering to go on.
+I think regulators
+should give bitcoin
+some time to grow up.
+Too much regulation now
+will just stifle innovation.
+I think before regulators
+kind of come in and say,
+"we're gonna solve
+all your problems,"
+and then fail to solve
+all their problems,
+I think they should give
+the innovators time
+to solve those problems.
+One function of regulation
+is to make things clearer,
+so right now bitcoin,
+because it's so new,
+is in a state of
+flux everywhere.
+The lesson from the Internet
+is anything that China bans,
+invest in.
+And that's a joke, but the U.S.
+Allows Google to operate here,
+allows Twitter to operate here,
+allows bitcoin to operate here,
+allows Facebook to operate here.
+Chinese government doesn't allow
+any of those companies to operate
+the way they operate in
+this country, or at all.
+This is about
+freedom, ultimately.
+You know, we're 50 yards
+from the old world
+trade center here
+and I think all of
+us never want to see
+anything like that happen again, and
+it would have been a lot harder
+for 9/11 to ever have occurred
+had we had the
+protections in place
+that would prevent the movement
+of massive amounts of
+money around the globe
+by people who would want to
+kill everybody in this room,
+so I think the key is
+to not create useless regulation
+but I think the motives
+behind a lot of those rules
+are to ensure we don't
+miss something again.
+Since 2001,
+there's this absurd
+obsession with terrorism.
+So any time a regulary
+gets up and says,
+"well, bitcoin can be
+used for terrorism."
+Well, of course it can.
+So can anything.
+So can cell phones and so can the
+Internet and so can the car.
+It doesn't mean that we should stifle
+the growth of those industries
+just because bad
+people can use it.
+This has arguably
+been the worst week
+in the cryptocurrency's
+short life,
+stunned by the collapse of
+once-dominant exchange mt. Gox.
+Now that failed firm's ceo
+mark karpeles is in hiding.
+Some 750,000 bitcoins
+allegedly stolen or lost
+which accounts for about 6%
+of the total circulation.
+By the time mt. Gox went down,
+it was holding what its
+customers believed
+were about a half
+a billion dollars
+worth of their bitcoins and
+the company's bitcoins.
+It was no longer the largest
+exchange in the world.
+But part of what's so amazing is
+that people kept using it
+even after there had
+been numerous incidents
+in which it was clear
+that the company
+was not up to the task of
+safeguarding the money.
+And the only reason he
+survived as long as he did
+was because in 2013, the
+price started going up.
+People kept putting
+money into it.
+He had more and more money
+'cause the price was going up,
+but as soon as the price
+started going down,
+this is what happened, right?
+It peaks in late 2013.
+It starts coming down in 2014.
+Soon as that price
+started coming down,
+it all just tumbled for him.
+Gox was going to collapse.
+That it lasted as long as it did
+was actually kind of
+a stroke of fate.
+But its failure was
+it didn't have the
+kind of more boring
+mainstream
+institutional controls
+that we require to bring
+it to the next level.
+And there's a whole
+bunch of money missing,
+and no one knows if
+they just lost it,
+it if was stolen from them,
+if they embezzled it or what,
+but the important
+lesson from gox
+isn't that bitcoin doesn't work.
+The important lesson from gox
+is that you don't leave your
+money with a trusted third party
+because you can't
+always trust them.
+You can only trust
+them until you can't.
+This was also a lesson
+that people were
+supposed to learn during
+the financial crisis
+but they don't seem to
+have learned it yet.
+Mark karpeles
+was a gamer.
+He was not a finance pro.
+He really didn't know
+what he was doing,
+and he didn't build it.
+Jed mccaleb built it.
+He didn't improve upon it.
+I mean, it lurched
+from crisis to crisis
+throughout the entire history.
+Last year was a terrible
+year for bitcoin,
+and an especially terrible
+year for the foundation,
+because we had two of the people
+on our board of directors
+who had to resign in
+disgrace, basically.
+You know, my expertise
+is technology.
+My expertise is not
+figuring out, like,
+who's trustworthy, who's not,
+which businesses
+are gonna succeed,
+which businesses are gonna fail.
+After we had held our hearings,
+we thought we would take six months
+to nine months, even a year,
+to draft our initial
+regulations.
+This was so complicated
+that we wanted
+to really take our
+time and get it right.
+What happened was, though, mt.
+Gox collapsed.
+And I think that gave us
+a real renewed sense of urgency,
+and we realized that if
+we got regulation right,
+we could create more confidence
+in bitcoin, frankly,
+as opposed to the sort of
+loss of confidence you saw
+not only from the silk road case
+but also from the collapse of mt.
+Gox.
+So your sense, though,
+of the regulators, right now.
+I assume you've had
+conversations.
+The discussions that we've had,
+I think everybody
+recognizes the innovation
+and doesn't want to stifle it.
+They just want to make sure
+that there's healthy regulation
+so it's used in a safe
+and productive manner.
+I'm not giving up on New York.
+New York's giving up on me.
+I can't even turn on
+the bitcoin machine.
+An atm, i can't turn it on.
+I can't make trades.
+I can't do anything.
+There's no cash flow at all.
+And it's potential regulation.
+It's regulations
+i should believe
+is coming down the pipe.
+Like, I don't want to do anything
+that someone's frowning upon
+right next door to
+the stock market.
+They're gonna lock me up.
+You know, you can't
+have an exchange.
+Well, we don't.
+People meet there
+and exchange with each other.
+New York's sitting there
+on the high horse,
+and the whole world's waiting
+on New York to create
+some fuckin' license.
+Ultimately lawsky's
+office brought out
+the final rules for
+the bitlicense
+in the spring of 2015.
+A lot of companies complained
+that the regulations
+were too burdensome for
+them to operate in New York
+and still make money.
+I saw just overnight
+dozens of companies that were
+on the verge of launching.
+They just threw in the towel and
+said, "we can't afford this."
+Erik voorhees' new
+company shapeshift
+would have had to apply
+for the bitlicense
+if it wanted to keep
+customers in New York.
+So, in my lap here i have the...
+The application forms
+for license to engage
+in virtual currency
+business activity,
+which is a very statist way
+of saying the bitlicense.
+The is the application
+to be approved
+to do basically what we've all
+been doing for years now,
+which is building bitcoin
+companies in New York.
+And a lot of stuff in here I
+personally feel is unethical,
+so we're not gonna
+comply with it,
+which means we have to block
+new yorkers entirely.
+And when an entire new industry
+starts blocking a
+place like New York
+that used to be the financial
+center of the world,
+hopefully some of those
+politicians will take notice.
+The point of it is to, one,
+make sure there are enough
+consumer protections;
+two, make sure we have
+adequate cybersecurity;
+three, make sure that the companies
+are adequately capitalized
+so they don't collapse
+upon themselves.
+You know, you've
+seen a tug of war
+between the hard liners
+and those who are saying,
+"you know, you've got to have
+enough space for
+innovation in here,"
+and the system has
+come out, i think,
+probably stronger
+as a result of that
+and there's a widespread view
+amongst certainly the
+business bitcoin community
+that some level of regulation
+gives legitimacy to
+what they're doing.
+It gives people confidence
+in what they're doing.
+This is an important
+part of growing up.
+Ultimately, they're not
+going to get it right,
+because no regulation
+is ever right.
+But I'm highly confident
+that whatever happens
+going forward,
+the bitlicense will be looked at
+as a positive development
+in the evolution of bitcoin
+because it just removed one of the
+biggest pieces of uncertainty,
+which is how is this industry
+going to be regulated.
+I think most of us...
+At least a lot of us...
+Think that sensible regulation
+that sets guidelines
+that makes sure people's money
+doesn't just go
+into a black hole
+that that's a really
+important thing,
+that regulation.
+I'm sure satoshi
+wouldn't be happy
+to see this kind of thing,
+which is not based on
+the logic and reason
+that a programmer is used to.
+I think a lot of developers,
+understandably so,
+try to stay out of the
+political nonsense.
+It has been one of the
+biggest mysteries
+raging across the Internet:
+Who is satoshi nakamoto?
+Newsweek published an article
+claiming the man in these
+images is the bitcoin founder.
+The man who created bitcoin,
+is known as the
+father of bitcoin,
+the online currency
+now worth billions.
+When you asked him
+about bitcoin,
+and he says, "i can't
+talk about this anymore,"
+he was not referring to bitcoin.
+But with me, he definitely
+acknowledged bitcoin.
+I think at this point
+now he's saying
+he was confused by
+the conversation.
+Clearly somebody thought
+that we did this
+as an act of war
+against satoshi
+nakamoto or bitcoin,
+and I want to be very clear
+that I certainly never
+meant it that way.
+I have nothing to
+do with bitcoin.
+It was a monster story.
+How did they figure it out?
+My god, look at this
+guy that they named.
+His name is Dorian
+satoshi nakamoto,
+living in California,
+basically hiding in plain sight.
+It becomes a gigantic
+media scramble,
+and then Dorian emerges
+from his house
+looking kind of disheveled,
+looking kind of confused,
+and says he's not
+satoshi nakamoto,
+says he's never
+heard of bitcoin.
+He doesn't understand. He had
+one conversation with Leah.
+She misunderstood what he said,
+she took it the wrong way.
+And you probably would have
+had to have been a cypherpunk
+to understand all
+the elements of it
+that had already
+been put together.
+The odds of it seemed
+very low to me
+that it was somebody from
+completely outside that community
+who happened to know all
+these different things
+and put this together and
+appear out of nowhere.
+The day that "newsweek's"
+story came out
+naming Dorian nakamoto as
+the creator of bitcoin,
+I got this email from
+an old acquaintance
+that was titled "what
+are the odds?"
+And it laid out the
+fact that hal Finney
+lives less than two
+miles away from
+the known address
+of Dorian nakamoto
+where "newsweek" had found him.
+And hal Finney is the number
+two ever user of bitcoin,
+who received the first
+bitcoin transaction.
+He worked on an early prototype
+of an anonymous currency system.
+He was a cypherpunk.
+So how could it be that the
+purported creator of bitcoin
+and this known, confirmed,
+second-ever user of bitcoin,
+hadn't ever collaborated?
+That hal Finney, who was
+less than two miles away
+from Dorian nakamoto hadn't
+helped to create bitcoin?
+Or maybe he really was
+the creator of bitcoin.
+Maybe hal Finney was
+satoshi nakamoto.
+When you look at the
+bitcoin white paper,
+it made reference to a lot
+of the earlier projects
+that fed into bitcoin.
+But it's very notable that the
+one project it doesn't refer to
+is Nick szabo's bit gold,
+which is perhaps the
+closest precedent
+and the closest
+parallel to bitcoin.
+I mean, bit gold is
+so close to bitcoin,
+it's hard not to think
+that, you know, maybe
+Nick is satoshi.
+A lot of people will say
+"nakamoto must be szabo."
+"Nakamoto must
+have been Finney."
+But I don't think he
+was trying to leave
+any breadcrumbs out there
+for anybody to follow.
+I told my editor about it.
+He agreed that "you found
+satoshi nakamoto."
+So I got on a plane
+to Santa Barbara
+and I drove out to
+hal Finney's house.
+But at this stage,
+he was already
+completely paralyzed by als,
+this really awful,
+debilitating terminal illness
+that slowly shuts down your body
+while leaving your mind
+completely intact.
+And the time when he started to
+fade in his physical abilities
+did roughly coincide
+with the time
+that satoshi nakamoto
+started to disappear.
+Now maybe the reason
+that satoshi nakamoto
+had chosen to fade away
+was because hal Finney
+was physically fading.
+There have been a number
+of stylometric studies
+and you see so many
+of these similarities
+between satoshi's writings
+and those of Nick's,
+including these little things
+like having two spaces
+at the beginning of a sentence,
+and phrases and spellings
+that nobody else uses.
+So I talked to hal as much as
+i could, mostly in a kind of
+one-way interview because he could really
+only respond with yes and no answers,
+and he denied being
+satoshi nakamoto.
+You could tell that he was
+amused by the whole idea
+that I thought he was
+satoshi nakamoto.
+One of the really
+remarkable things
+from Nick szabo's writing
+in those months before bitcoin
+was publically
+launched is that Nick,
+in responding to some comments
+about a post he had
+made about bit gold,
+actually asked the other
+people who were reading him
+if anybody wanted to help
+him code this idea up
+into real software
+that could work.
+It was never turned
+into a reality,
+but when you look at bit gold,
+it's hard not to be struck
+by the similarities
+between it and bitcoin.
+It's possible.
+Hal could've been the coder.
+I don't know.
+You know, this idea that...
+That hal Finney could've been
+the kind of ghost
+coder for bitcoin...
+I guess it's possible.
+Other people kind of
+speculating on reddit
+or other parts of the Internet
+thought that maybe hal Finney
+had used Dorian
+nakamoto as a patsy.
+If he were ever traced
+back to Dorian nakamoto,
+it seemed like this
+guy was the creator,
+and hal Finney would be
+sort of immunized from it.
+Everyone else who was
+involved in the projects
+leading up to bitcoin
+has released
+their communications with
+satoshi from this period.
+Nick has avoided doing that,
+and essentially went silent
+in those critical months
+after bitcoin was released.
+You know, when you talk
+to people face to face,
+and they tell you these things,
+you can get a sense if
+they're being honest.
+If hal Finney
+actually had a secret
+billion-dollar
+cache of bitcoins,
+he wouldn't have been able to lie
+to me so effectively about it.
+In the end, the reasons to believe
+that this was all just a coincidence
+began to outweigh the
+coincidence itself.
+It's almost like an eel.
+There's something
+there, you can see it,
+but as soon as you touch it it just
+slides right out of your hands
+and you're left with nothing.
+Anybody who is of any note
+in the cypherpunk movement,
+and even outside of it too,
+has at one time or another
+been called satoshi.
+Hal Finney denied it.
+Nick szabo denied it.
+They've all denied it.
+Maybe one of them is satoshi.
+Maybe all of them are satoshi.
+It really is a mystery.
+That's the original ticker
+from next door.
+All right, so we're over here.
+Bitcoin center, 100 feet from
+the stock exchange, over here.
+And...
+You know, some of you guys
+took a hit last week,
+last couple of weeks.
+Lot of the big guys,
+they got their foothold
+in the business
+that they weren't a part
+of in the beginning.
+I don't know what's going on.
+But, I don't know.
+I wouldn't write off
+bitcoin that easy.
+I know that bitcoin is
+gonna change the world.
+It's changing the world already.
+And we have to stand tall
+and proud
+as bitcoiners and
+early adopters.
+They don't know anything
+about new technology,
+but once it starts making sense,
+they throw their
+dollars behind it.
+You know, unfortunately,
+early adopters
+make the roads that
+we all travel down,
+and they are usually paved
+over in the process.
+The first guy through
+the door gets shot.
+You know, but somebody's
+gotta go through the door,
+but they're gonna get shot.
+Charlie shrem, Ross albricht,
+Julian Assange,
+they got shot coming
+through the door.
+But we're all utilizing
+the freedoms
+and technologies afforded to us
+because they knocked
+the door down.
+Hey, Michael.
+Can I put you on
+speakerphone for a minute?
+If I know how.
+Hey, Michael, can I ask you,
+where did you buy bitcoins?
+Yeah.
+Did you lose... how much...
+Do you still have them?
+You put into it.
+Can you use it?
+Do I want to buy it?
+No, not today.
+Though it is going to be around.
+Did you ever use it
+to buy anything?
+Michael.
+No, okay.
+They should go
+back to, you know,
+day one and just start all over.
+Forget about bitcoin,
+call it something else.
+I think it's been
+so tarnished now
+with this... With
+the silk road...
+You know, I just
+think, you know,
+that all that stuff about
+$400 million disappearing
+and... you're just not
+gonna get off the ground.
+Nobody's gonna...
+You know, like
+Warren buffet said,
+"stay the hell away from it."
+To put all the cards
+on the table,
+I'm gonna be leaving the
+department in the coming weeks.
+And if you asked me back
+when I took this job in 2011
+what I thought we'd be
+working on during my tenure,
+digital currencies would not have
+been at the top of the list.
+So Ben lawsky created this
+thing call the bitlicense
+which is New York's
+attempt to regulate
+this scary new technology.
+It's now law.
+And he has announced that
+he is leaving government
+in order to set up his own
+private consulting firm
+to help companies navigate
+financial regulations
+such as the bitlicense
+that he created.
+So we essentially had this beautiful
+new ecosystem being built,
+and Ben lawsky comes by,
+says, "I'm here to
+protect consumers."
+He builds a huge wall
+around the thing,
+and then he sits
+outside the gate
+charging people to get in.
+This is the very definition
+of crony capitalism,
+and, for some reason,
+Ben lawsky doesn't even see
+anything wrong with that.
+I think history
+will not judge him
+as favorably as he thinks.
+So, um, yeah.
+I've started up my own
+consulting business.
+It's been quite interesting.
+Doing a lot of work
+in the fintech space,
+but also doing work with a
+lot of traditional companies
+in the financial
+services world as well.
+Ben lawsky's team at the dfs
+that was working
+on this bitlicense
+and the bitcoin initiative
+have all ended up
+leaving the agency
+and going to consulting firms
+that are now working
+on these issues.
+Danny alter is going
+to work for itbit
+and Dana Syracuse is
+going to work for
+the consulting firm k2.
+Itbit is particularly notable
+because they were the
+first to find a way
+to partner with the
+dfs to get licensed
+to open their own
+bitcoin exchange.
+When this is over,
+definitely going to leave
+New York when I can.
+Where I'm gonna
+go, i don't know.
+I think the bitcoin community
+in New York is done with.
+No, it doesn't foster
+innovation here.
+It's too difficult to
+have a bitcoin company.
+No banks will open up accounts.
+You have the threat
+of regulation,
+and your high-profile arrests
+like myself and others.
+No one wants to deal with it.
+When did you first start
+digging in on bitcoin?
+Two, two and half years ago,
+when I took over the foreign
+exchange payments business
+- at jp Morgan.
+- So you probably had your mt. Gox,
+bitinstant, you know,
+Charlie and those guys.
+It's interesting, almost none of
+those guys are around anymore.
+Two years ago at all
+the major banks,
+bitcoin was an afterthought.
+It was kind of a... maybe in a
+hallway kind of conversation
+at the water cooler and now,
+you know, even this week, i met
+with one of the other major banks.
+Everyone's got a bitcoin specialist,
+at least one working group.
+Kind of teams of people who
+are trying to figure out
+how to incorporate
+the technology
+into their existing operation.
+Banks and institutions
+associated with the
+financial system
+are really starting to recognize
+that the payment system
+underlying banking
+could be made more efficient
+by the application of
+blockchain technologies.
+The blockchain technology
+underlying bitcoin
+has become something that
+a lot people are now
+very, very interested in
+for all kinds of other uses,
+whether it's allowing for
+derivatives to be transferred
+or securities to be transferred,
+or all manner of financial
+instruments to be transferred
+in complex, interesting ways.
+I think different companies
+are going to adopt
+different strategies.
+And it's gonna be
+fascinating to watch
+companies like digital
+asset holdings,
+blythe masters' company,
+doing very, very
+interesting work.
+I didn't become aware of bitcoin
+in any meaningful
+sense until 2014,
+late in the year,
+and at the time,
+my perspective was one of
+skepticism, I would say.
+Specifically because the
+storyline that I heard
+related very much
+to cryptocurrency
+as a potential medium of
+exchange and store of value,
+which is a valid debate
+and application,
+but it doesn't have full
+extent of the power
+that the underlying
+technology has to achieve.
+Blythe masters is not
+just any banker.
+She is this person who
+I think is really seen
+as being behind some of the
+most problematic innovations
+in the financial industry
+over the last three decades.
+Blythe is the one who's
+essentially given credit
+for creating the
+credit default swap
+which essentially provides a way
+to bet on the default of a bond,
+and the credit default swap
+ended up taking this place
+at the center of the
+financial crisis
+and these bets that
+banks had made
+against sub-prime mortgages.
+Blockchain technology eradicates
+a significant amount of
+inefficiency in the system,
+and reduces costs.
+It doesn't mean that
+we are doing away
+with the need for trust in
+financial services at all.
+Bitcoin was designed
+to find a way
+to circumvent wall street,
+and what blythe masters is doing
+is essentially
+trying to find ways
+to bring wall
+street into bitcoin
+and make it possible for them
+to use this technology as well.
+What the bankers seem to be
+looking to do at this point
+is create their own
+private blockchain,
+where their computers
+are powering it.
+Rather than these
+anonymous miners,
+they want control
+over the system.
+The banks are looking at
+this incredibly wide array
+of ways that they
+might use this,
+which include replacing
+stock exchanges,
+finding new ways to
+originate loans,
+finding new ways to move
+money between countries,
+and, of course,
+that's going back
+to the original idea of bitcoin,
+but now it's happening within
+these financial institutions
+rather than outside it,
+as bitcoin had imagined.
+I have no problem with
+the banking system
+and the financial industry
+co-opting bitcoin,
+primarily because bitcoin
+can't really be co-opted.
+The fact that it's decentralized
+means no one can control it,
+no matter who they are or
+how much money they have.
+I think it's all
+good for bitcoin.
+I think all of the
+innovation that's happening,
+both on wall street
+and in silicon valley
+I think competition
+will take care of
+people who want to try
+to have a monopoly,
+or who want to try to charge
+more than they should
+for whatever product or service
+that is happening
+on the blockchain.
+It really is as advertised.
+It really is controlled by all
+the people who are using it,
+and it really is designed
+just to be a more efficient,
+more fair way of sending
+value over the Internet.
+Bitcoin is not neutral.
+You cannot remove the
+political component
+that satoshi implanted
+in bitcoin from bitcoin.
+That's what a lot of the people
+on the wall street
+side try to do.
+You cannot neutralize bitcoin.
+It's impossible.
+Thankfully, I'm gonna go to
+a comfy federal prison camp
+without fences, that has
+pool tables and a track,
+and baseball field
+and decent food,
+and kind of 100 to 200 people
+that are white collar.
+Those guys in prison are the
+best ones to use bitcoin.
+They're smart. I'm very excited
+to talk to them about it.
+So yes, the vcs are driving
+this thing right now.
+They're pouring money into it.
+They're building these
+for-profit companies
+people who have a background
+outside of bitcoin
+seeing the value of
+it and coming to it.
+But just because they're doing
+everything they're doing
+doesn't mean that the
+libertarians and the utopians
+have to go away.
+Bitcoin is open source.
+You can do whatever
+you want with it.
+So they're still there.
+They're still building
+their products.
+They're still building
+their vision.
+And if bitcoin goes mainstream
+and if it gets picked up,
+even if it's running
+in the background,
+there are going to
+be elements of that
+and that's kind of what
+utopia movements always are.
+The thing that the utopians
+were dreaming about
+is not gonna happen the
+way they expected it,
+but I do think it is
+going to filter through
+and you are gonna see it.
+You're gonna see it.
+So you're gonna show me that
+satoshi nakamoto is you.
+Yes.
+Some people will believe,
+some people won't.
+And to tell you the truth,
+i don't really care.
+But you can say,
+hand on heart to me,
+"i am satoshi nakamoto."
+I was the main part of it.
+Other people helped me.
+I'm going to come in front
+of that camera once,
+and I will never
+ever be on a camera ever again
+for any TV station
+or any media ever.
